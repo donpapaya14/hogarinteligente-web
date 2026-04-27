@@ -24,7 +24,7 @@ Corta, ralla y trocea en segundos. Ahorra 10-15 minutos por comida.
 **Precio:** 15-25 EUR
 **Lo mejor:** Una sola herramienta reemplaza 4-5 utensilios
 
-[AMAZON:cortador verduras multifuncion cocina]
+[cortador verduras multifuncion cocina en Amazon](https://www.amazon.es/s?k=cortador+verduras+multifuncion+cocina&tag=vladys-21)
 
 ## 2. Bascula de cocina digital
 
@@ -32,7 +32,7 @@ Precision de 1 gramo. Esencial para recetas que necesitan medidas exactas y para
 
 **Precio:** 10-15 EUR
 
-[AMAZON:bascula cocina digital precision]
+[bascula cocina digital precision en Amazon](https://www.amazon.es/s?k=bascula+cocina+digital+precision&tag=vladys-21)
 
 ## 3. Freidora de aire compacta
 
@@ -40,7 +40,7 @@ Cocina con un 80% menos de aceite. Consumer Reports (2024) confirma que las frei
 
 **Precio:** 40-70 EUR
 
-[AMAZON:freidora aire compacta]
+[freidora aire compacta en Amazon](https://www.amazon.es/s?k=freidora+aire+compacta&tag=vladys-21)
 
 ## 4. Termometro de cocina digital
 
@@ -48,7 +48,7 @@ Mide temperatura interna de carnes en 3 segundos. La diferencia entre un filete 
 
 **Precio:** 8-15 EUR
 
-[AMAZON:termometro cocina digital instantaneo]
+[termometro cocina digital instantaneo en Amazon](https://www.amazon.es/s?k=termometro+cocina+digital+instantaneo&tag=vladys-21)
 
 ## 5. Exprimidor electrico
 
@@ -56,7 +56,7 @@ Zumo natural en 30 segundos sin esfuerzo.
 
 **Precio:** 20-35 EUR
 
-[AMAZON:exprimidor electrico naranjas]
+[exprimidor electrico naranjas en Amazon](https://www.amazon.es/s?k=exprimidor+electrico+naranjas&tag=vladys-21)
 
 ## Preguntas frecuentes
 

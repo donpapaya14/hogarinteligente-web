@@ -10,7 +10,7 @@ const blog = defineCollection({
     updatedDate: z.coerce.date().optional(),
     category: z.enum(['cocina', 'hogar', 'organizacion', 'limpieza', 'tecnologia']),
     tags: z.array(z.string()),
-    author: z.string().default('HogarInteligente'),
+    author: z.string().default('Espacio Inteligente'),
     image: z.string().optional(),
     imageAlt: z.string().optional(),
     readingTime: z.number().optional(),

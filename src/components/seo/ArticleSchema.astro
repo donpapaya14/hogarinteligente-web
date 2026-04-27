@@ -16,7 +16,7 @@ const {
   updatedDate,
   image,
   url,
-  author = 'HogarInteligente',
+  author = 'Espacio Inteligente',
 } = Astro.props;
 
 const siteUrl = Astro.site?.toString().replace(/\/$/, '') ?? '';
@@ -36,7 +36,7 @@ const schema = {
   },
   publisher: {
     '@type': 'Organization',
-    name: 'HogarInteligente',
+    name: 'Espacio Inteligente',
     logo: {
       '@type': 'ImageObject',
       url: `${siteUrl}/favicon.svg`,

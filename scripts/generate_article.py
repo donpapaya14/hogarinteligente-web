@@ -36,7 +36,7 @@ CATEGORY_NAMES = {
 
 AMAZON_TAG = os.getenv("AMAZON_TAG", "vladys-21")
 SITE_URL = os.getenv("SITE_URL", "https://hogarinteligente-web.vercel.app")
-BRAND = os.getenv("BRAND", "HogarInteligente")
+BRAND = os.getenv("BRAND", "Espacio Inteligente")
 
 
 def research_topic(category: str, formula: str, existing_titles: list[str]) -> dict:

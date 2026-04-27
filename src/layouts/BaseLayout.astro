@@ -23,7 +23,7 @@ const {
 } = Astro.props;
 
 const siteUrl = Astro.site?.toString().replace(/\/$/, '') ?? '';
-const fullTitle = title === 'HogarInteligente' ? title : `${title} | HogarInteligente`;
+const fullTitle = title === 'Espacio Inteligente' ? title : `${title} | Espacio Inteligente`;
 const resolvedOgImage = ogImage.startsWith('http') ? ogImage : `${siteUrl}${ogImage}`;
 const resolvedCanonical = canonicalUrl ?? Astro.url.href;
 ---
@@ -47,7 +47,7 @@ const resolvedCanonical = canonicalUrl ?? Astro.url.href;
   <meta property="og:image" content={resolvedOgImage} />
   <meta property="og:url" content={resolvedCanonical} />
   <meta property="og:locale" content="es_ES" />
-  <meta property="og:site_name" content="HogarInteligente" />
+  <meta property="og:site_name" content="Espacio Inteligente" />
 
   <!-- Twitter -->
   <meta name="twitter:card" content="summary_large_image" />
@@ -64,7 +64,7 @@ const resolvedCanonical = canonicalUrl ?? Astro.url.href;
   <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
 
   <!-- RSS -->
-  <link rel="alternate" type="application/rss+xml" title="HogarInteligente" href="/rss.xml" />
+  <link rel="alternate" type="application/rss+xml" title="Espacio Inteligente" href="/rss.xml" />
 </head>
 <body>
   <Header />

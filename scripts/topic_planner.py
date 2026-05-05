@@ -1,49 +1,57 @@
 """
-Planifica temas evitando duplicados y rotando categorías.
-Lee artículos existentes en src/content/blog/ para evitar repetir.
+Plans topics avoiding duplicates and rotating categories.
+Reads existing articles in src/content/blog/ to avoid repetition.
 """
 
-import os
 import random
 import re
 from pathlib import Path
 
 BLOG_DIR = Path(__file__).parent.parent / "src" / "content" / "blog"
 
-CATEGORIES = ["cocina", "hogar", "organizacion", "limpieza", "tecnologia"]
+CATEGORIES = ["kitchen", "smart-home", "organization", "cleaning", "energy-saving"]
 
 ARTICLE_FORMULAS = {
-    "cocina": [
-        "Gadget de cocina de Amazon con nombre real, precio, para qué sirve y por qué merece la pena comprarlo",
-        "Comparativa de 3 utensilios de cocina de Amazon con pros, contras y cuál elegir según uso",
-        "Electrodoméstico pequeño que ahorra tiempo en la cocina: nombre, precio, cómo funciona",
-        "Los 5 mejores accesorios para [tarea de cocina] con enlaces a Amazon y análisis real",
+    "kitchen": [
+        "Kitchen gadget on Amazon with real name, price, what it does and whether it's worth it",
+        "Comparison of 3 kitchen tools on Amazon with pros, cons and which to choose",
+        "Small appliance that saves time in the kitchen: name, price, how it works",
+        "Best accessories for [specific kitchen task] with Amazon links and real analysis",
+        "Kitchen organization system that saves 20 minutes a day with numbered steps",
+        "One cooking mistake that reduces appliance lifespan with fix and money saved",
     ],
-    "hogar": [
-        "Producto inteligente para el hogar: qué hace, cómo funciona, precio en Amazon y experiencia real",
-        "Comparativa de enchufes/bombillas/cámaras inteligentes con nombres reales y precios Amazon",
-        "Gadget que transforma tu hogar por menos de 30 euros: nombre, función, enlace Amazon",
+    "smart-home": [
+        "Smart home product: what it does, how it works, price on Amazon and real experience",
+        "Comparison of smart plugs/bulbs/cameras with real names and Amazon prices",
+        "Gadget that transforms your home for under $30: name, function, Amazon link",
+        "Alexa vs Google Home: real comparison for automating your home with current prices",
+        "Smart thermostat guide: how much it saves and which one is worth buying",
     ],
-    "organizacion": [
-        "Sistema de organización para [zona de la casa] con productos de Amazon y fotos de antes/después",
-        "Los mejores organizadores de Amazon para cocina/baño/armario con precios y enlaces",
-        "Método de organización KonMari/minimalista aplicado con productos concretos de Amazon",
+    "organization": [
+        "Organization system for [home area] with Amazon products and before/after results",
+        "Best Amazon organizers for kitchen/bathroom/closet with prices and links",
+        "Minimalist organization method applied with specific Amazon products",
+        "Pantry organization guide that reduces food waste with step-by-step system",
+        "Home filing system that saves time: specific method with materials needed",
     ],
-    "limpieza": [
-        "Robot aspirador: comparativa de modelos baratos en Amazon con rendimiento real",
-        "Productos de limpieza que funcionan de verdad: nombres reales, precios y dónde comprar",
-        "Gadget de limpieza que no sabías que existía: nombre, precio Amazon, cómo funciona",
+    "cleaning": [
+        "Robot vacuum comparison: best cheap models on Amazon with real performance data",
+        "Cleaning products that actually work: real names, prices and where to buy",
+        "Cleaning gadget you didn't know existed: name, Amazon price, how it works",
+        "Natural cleaning solutions using household ingredients: specific chemistry explained",
+        "One dangerous chemical combination in cleaning products: specific compounds and risk",
     ],
-    "tecnologia": [
-        "Gadget tech para el hogar por menos de X euros: nombre, qué hace, enlace Amazon",
-        "Alexa vs Google Home: comparativa real para automatizar tu casa con precios actuales",
-        "Los 5 gadgets más útiles de Amazon para tu hogar con enlaces directos",
+    "energy-saving": [
+        "Home hack that cuts electricity bill by specific percentage: average annual saving",
+        "Temperature setting that saves most energy: specific degrees and monthly saving",
+        "Appliance you're using wrong that increases electricity bill: specific mistake and fix",
+        "Solar panel basics: what it costs, what it saves and realistic payback period",
+        "Humidity control without a dehumidifier: specific physics and materials needed",
     ],
 }
 
 
 def get_existing_titles() -> set[str]:
-    """Lee títulos de artículos existentes del frontmatter."""
     titles = set()
     if not BLOG_DIR.exists():
         return titles
@@ -56,7 +64,6 @@ def get_existing_titles() -> set[str]:
 
 
 def get_category_counts() -> dict[str, int]:
-    """Cuenta artículos por categoría."""
     counts = {cat: 0 for cat in CATEGORIES}
     if not BLOG_DIR.exists():
         return counts
@@ -69,7 +76,6 @@ def get_category_counts() -> dict[str, int]:
 
 
 def pick_category() -> str:
-    """Elige categoría con menos artículos."""
     counts = get_category_counts()
     min_count = min(counts.values())
     least_covered = [cat for cat, count in counts.items() if count == min_count]
@@ -77,13 +83,11 @@ def pick_category() -> str:
 
 
 def pick_formula(category: str) -> str:
-    """Elige fórmula aleatoria para la categoría."""
     formulas = ARTICLE_FORMULAS.get(category, list(ARTICLE_FORMULAS.values())[0])
     return random.choice(formulas)
 
 
 def plan_topic() -> dict:
-    """Devuelve categoría y fórmula para el próximo artículo."""
     category = pick_category()
     formula = pick_formula(category)
     existing = get_existing_titles()

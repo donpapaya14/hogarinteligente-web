@@ -34,7 +34,7 @@ CATEGORY_NAMES = {
     "energy-saving": "Energy Saving",
 }
 
-AMAZON_TAG = os.getenv("AMAZON_TAG", "vladys-21")
+AMAZON_TAG = os.getenv("AMAZON_TAG", "vds96-20")
 SITE_URL = os.getenv("SITE_URL", "https://hogarinteligente-web.vercel.app")
 BRAND = os.getenv("BRAND", "Espacio Inteligente")
 

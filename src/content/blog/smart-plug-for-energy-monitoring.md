@@ -95,4 +95,4 @@ Here are some concrete steps you can take to reduce your energy consumption usin
 
 ---
 
-*Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@EspacioInteligente).*
+*Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@EspacioInteligente-q2q).*

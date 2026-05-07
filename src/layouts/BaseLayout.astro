@@ -15,7 +15,7 @@ interface Props {
 
 const {
   title,
-  description = 'Descubre los mejores gadgets, productos y tecnologia para tu hogar. Reviews reales con enlaces a Amazon.',
+  description = 'Discover the best gadgets, products and tech for your home. Honest reviews with Amazon links.',
   ogImage = '/og-default.jpg',
   ogType = 'website',
   canonicalUrl,
@@ -23,13 +23,13 @@ const {
 } = Astro.props;
 
 const siteUrl = Astro.site?.toString().replace(/\/$/, '') ?? '';
-const fullTitle = title === 'Espacio Inteligente' ? title : `${title} | Espacio Inteligente`;
+const fullTitle = title === 'EspacioInteligente' ? title : `${title} | EspacioInteligente`;
 const resolvedOgImage = ogImage.startsWith('http') ? ogImage : `${siteUrl}${ogImage}`;
 const resolvedCanonical = canonicalUrl ?? Astro.url.href;
 ---
 
 <!DOCTYPE html>
-<html lang="es">
+<html lang="en">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -46,8 +46,8 @@ const resolvedCanonical = canonicalUrl ?? Astro.url.href;
   <meta property="og:description" content={description} />
   <meta property="og:image" content={resolvedOgImage} />
   <meta property="og:url" content={resolvedCanonical} />
-  <meta property="og:locale" content="es_ES" />
-  <meta property="og:site_name" content="Espacio Inteligente" />
+  <meta property="og:locale" content="en_US" />
+  <meta property="og:site_name" content="EspacioInteligente" />
 
   <!-- Twitter -->
   <meta name="twitter:card" content="summary_large_image" />
@@ -64,14 +64,14 @@ const resolvedCanonical = canonicalUrl ?? Astro.url.href;
   <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
 
   <!-- RSS -->
-  <link rel="alternate" type="application/rss+xml" title="Espacio Inteligente" href="/rss.xml" />
+  <link rel="alternate" type="application/rss+xml" title="EspacioInteligente" href="/rss.xml" />
 
   <!-- Schema.org WebSite -->
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
     "@type": "WebSite",
-    "name": "Espacio Inteligente",
+    "name": "EspacioInteligente",
     "url": "https://espaciointeligente.org",
     "potentialAction": {
       "@type": "SearchAction",

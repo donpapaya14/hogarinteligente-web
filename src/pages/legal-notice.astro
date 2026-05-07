@@ -1,0 +1,43 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+
+<BaseLayout title="Legal Notice" noindex={true}>
+  <div class="container legal-page">
+    <h1>Legal Notice</h1>
+    <p><strong>Last updated:</strong> April 26, 2026</p>
+
+    <h2>Site owner</h2>
+    <p>EspacioInteligente is an editorial project focused on smart home gadgets and home tech reviews.</p>
+    <p>Contact: vladys.z96@gmail.com</p>
+
+    <h2>Purpose</h2>
+    <p>This website provides information about smart home gear, kitchen gadgets, organization, cleaning and energy saving. All content is informational and educational.</p>
+
+    <h2>Intellectual property</h2>
+    <p>The contents of this site (text, images, design, logos) belong to EspacioInteligente or their respective authors and are protected by intellectual property laws.</p>
+
+    <h2>Liability</h2>
+    <p>The information on this site is provided as-is. EspacioInteligente is not responsible for purchasing decisions made based on the content published here.</p>
+    <p>We do not guarantee continuous availability of the site or the absence of errors in the content.</p>
+
+    <h2>External links</h2>
+    <p>This site may include links to third-party websites and Amazon affiliate links. EspacioInteligente is not responsible for the content or privacy policies of those external sites.</p>
+
+    <h2>Affiliate disclosure</h2>
+    <p>This site participates in the Amazon Associates Program. Affiliate links may earn a commission at no additional cost to you.</p>
+
+    <h2>Governing law</h2>
+    <p>This legal notice is governed by applicable law.</p>
+  </div>
+</BaseLayout>
+
+<style>
+  .legal-page {
+    max-width: var(--content-width);
+    padding: 3rem 1.5rem;
+  }
+  .legal-page h1 { margin-bottom: 0.5rem; }
+  .legal-page h2 { margin-top: 2rem; margin-bottom: 0.75rem; font-size: 1.25rem; }
+  .legal-page p { margin-bottom: 0.75rem; color: var(--color-text-light); line-height: 1.7; }
+</style>

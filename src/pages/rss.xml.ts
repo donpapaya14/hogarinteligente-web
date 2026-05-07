@@ -7,8 +7,8 @@ export async function GET(context: APIContext) {
   const sorted = posts.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
 
   return rss({
-    title: 'Espacio Inteligente',
-    description: 'Salud, bienestar y nutricion basados en ciencia.',
+    title: 'EspacioInteligente',
+    description: 'Smart home gadgets and home tech reviews.',
     site: context.site!.toString(),
     items: sorted.map(post => ({
       title: post.data.title,

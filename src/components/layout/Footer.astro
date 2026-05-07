@@ -1,16 +1,16 @@
 ---
 const year = new Date().getFullYear();
 const categories = [
-  { href: '/categoria/nutricion', label: 'Nutricion' },
-  { href: '/categoria/ejercicio', label: 'Ejercicio' },
-  { href: '/categoria/mente', label: 'Mente' },
-  { href: '/categoria/longevidad', label: 'Longevidad' },
-  { href: '/categoria/recetas', label: 'Recetas' },
+  { href: '/categoria/kitchen', label: 'Kitchen' },
+  { href: '/categoria/smart-home', label: 'Smart Home' },
+  { href: '/categoria/organization', label: 'Organization' },
+  { href: '/categoria/cleaning', label: 'Cleaning' },
+  { href: '/categoria/energy-saving', label: 'Energy Saving' },
 ];
 const legal = [
-  { href: '/aviso-legal', label: 'Aviso legal' },
-  { href: '/politica-privacidad', label: 'Politica de privacidad' },
-  { href: '/politica-cookies', label: 'Politica de cookies' },
+  { href: '/legal-notice', label: 'Legal Notice' },
+  { href: '/privacy-policy', label: 'Privacy Policy' },
+  { href: '/cookie-policy', label: 'Cookie Policy' },
 ];
 ---
 
@@ -18,11 +18,11 @@ const legal = [
   <div class="container footer__inner">
     <div class="footer__brand">
       <span class="footer__logo">&#9829; Espacio<strong>Inteligente</strong></span>
-      <p class="footer__tagline">Gadgets y productos inteligentes para tu hogar</p>
+      <p class="footer__tagline">Smart gadgets and home tech reviews</p>
     </div>
 
     <div class="footer__col">
-      <h4>Categorias</h4>
+      <h4>Categories</h4>
       <ul>
         {categories.map(c => <li><a href={c.href}>{c.label}</a></li>)}
       </ul>
@@ -36,28 +36,28 @@ const legal = [
     </div>
 
     <div class="footer__col">
-      <h4>Conecta</h4>
+      <h4>Connect</h4>
       <ul>
-        <li><a href="https://youtube.com/@EspacioInteligente Inteligente" target="_blank" rel="noopener">YouTube</a></li>
+        <li><a href="https://youtube.com/@EspacioInteligente" target="_blank" rel="noopener">YouTube</a></li>
                 <li><a href="/rss.xml">RSS</a></li>
       </ul>
     </div>
 
     <div class="footer__col">
-      <h4>Nuestras webs</h4>
+      <h4>Our sites</h4>
       <ul>
         <li><a href="https://vida-sana-360.com" target="_blank" rel="noopener">VidaSana360</a></li>
         <li><a href="https://saludlongevidad.org" target="_blank" rel="noopener">SaludLongevidad</a></li>
         <li><a href="https://finanzasclara.uk" target="_blank" rel="noopener">FinanzasClara</a></li>
         <li><a href="https://catbrothers.uk" target="_blank" rel="noopener">CatBrothers</a></li>
-        <li><a href="https://cash-cafe.org" target="_blank" rel="noopener">Cash Café</a></li>
+        <li><a href="https://cash-cafe.org" target="_blank" rel="noopener">Cash Cafe</a></li>
       </ul>
     </div>
   </div>
 
   <div class="footer__bottom">
     <div class="container">
-      <p>&copy; {year} Espacio Inteligente. Reviews y opiniones honestas. Enlaces de afiliado incluidos..</p>
+      <p>&copy; {year} EspacioInteligente. Honest reviews and opinions. Affiliate links included.</p>
     </div>
   </div>
 </footer>

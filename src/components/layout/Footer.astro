@@ -1,118 +1,151 @@
 ---
 const year = new Date().getFullYear();
 const categories = [
-  { href: '/categoria/kitchen', label: 'Kitchen' },
-  { href: '/categoria/smart-home', label: 'Smart Home' },
-  { href: '/categoria/organization', label: 'Organization' },
-  { href: '/categoria/cleaning', label: 'Cleaning' },
+  { href: '/categoria/smart-home',    label: 'Smart Home' },
+  { href: '/categoria/kitchen',       label: 'Kitchen' },
+  { href: '/categoria/cleaning',      label: 'Cleaning' },
+  { href: '/categoria/organization',  label: 'Organization' },
   { href: '/categoria/energy-saving', label: 'Energy Saving' },
 ];
 const legal = [
-  { href: '/legal-notice', label: 'Legal Notice' },
-  { href: '/privacy-policy', label: 'Privacy Policy' },
-  { href: '/cookie-policy', label: 'Cookie Policy' },
+  { href: '/legal-notice',   label: 'Legal' },
+  { href: '/privacy-policy', label: 'Privacy' },
+  { href: '/cookie-policy',  label: 'Cookies' },
+];
+const sites = [
+  { href: 'https://vida-sana-360.com',   label: 'VidaSana360' },
+  { href: 'https://saludlongevidad.org', label: 'SaludLongevidad' },
+  { href: 'https://finanzasclara.uk',    label: 'FinanzasClara' },
+  { href: 'https://catbrothers.uk',      label: 'CatBrothers' },
+  { href: 'https://cash-cafe.org',       label: 'Cash Café' },
 ];
 ---
 
-<footer class="footer">
-  <div class="container footer__inner">
-    <div class="footer__brand">
-      <span class="footer__logo">&#9829; Espacio<strong>Inteligente</strong></span>
-      <p class="footer__tagline">Smart gadgets and home tech reviews</p>
+<footer class="site-footer">
+  <div class="container site-footer__inner">
+    <div class="site-footer__brand">
+      <a href="/" class="topbar__brand" style="text-decoration:none;display:inline-flex;align-items:center;gap:12px">
+        <span class="brand-mark" aria-hidden="true">EI</span>
+        <span class="brand-name" style="color:#fff">Espacio<em>Inteligente</em></span>
+      </a>
+      <p class="lede" style="font-size:13px;margin-top:12px;max-width:360px;color:rgba(255,255,255,0.72)">
+        An editorial smart home magazine. Honest gear, energy savings and practical home tech — backed by real specs.
+      </p>
     </div>
 
-    <div class="footer__col">
+    <nav class="site-footer__col" aria-label="Categories">
       <h4>Categories</h4>
       <ul>
         {categories.map(c => <li><a href={c.href}>{c.label}</a></li>)}
       </ul>
-    </div>
+    </nav>
 
-    <div class="footer__col">
-      <h4>Legal</h4>
-      <ul>
-        {legal.map(l => <li><a href={l.href}>{l.label}</a></li>)}
-      </ul>
-    </div>
-
-    <div class="footer__col">
+    <nav class="site-footer__col" aria-label="Connect">
       <h4>Connect</h4>
       <ul>
         <li><a href="https://youtube.com/@EspacioInteligente" target="_blank" rel="noopener">YouTube</a></li>
-                <li><a href="/rss.xml">RSS</a></li>
+        <li><a href="/rss.xml">RSS</a></li>
+        <li><a href="/about">About</a></li>
       </ul>
-    </div>
+    </nav>
 
-    <div class="footer__col">
+    <nav class="site-footer__col site-footer__col--sites" aria-label="Our sites">
       <h4>Our sites</h4>
       <ul>
-        <li><a href="https://vida-sana-360.com" target="_blank" rel="noopener">VidaSana360</a></li>
-        <li><a href="https://saludlongevidad.org" target="_blank" rel="noopener">SaludLongevidad</a></li>
-        <li><a href="https://finanzasclara.uk" target="_blank" rel="noopener">FinanzasClara</a></li>
-        <li><a href="https://catbrothers.uk" target="_blank" rel="noopener">CatBrothers</a></li>
-        <li><a href="https://cash-cafe.org" target="_blank" rel="noopener">Cash Cafe</a></li>
+        {sites.map(s => (
+          <li><a href={s.href} target="_blank" rel="noopener">{s.label}</a></li>
+        ))}
       </ul>
-    </div>
+    </nav>
   </div>
 
-  <div class="footer__bottom">
-    <div class="container">
-      <p>&copy; {year} EspacioInteligente. Honest reviews and opinions. Affiliate links included.</p>
+  <div class="site-footer__bar">
+    <div class="container site-footer__bar-inner">
+      <span class="micro" style="color:rgba(255,255,255,0.6)">&copy; {year} EspacioInteligente · Smart home magazine · Affiliate links may be included</span>
+      <ul class="site-footer__legal">
+        {legal.map(l => <li><a href={l.href}>{l.label}</a></li>)}
+      </ul>
     </div>
   </div>
 </footer>
 
 <style>
-  .footer {
-    background: var(--color-text);
-    color: #D1D5DB;
-    margin-top: 4rem;
-    padding-top: 3rem;
+  .site-footer {
+    border-top: 1px solid rgba(14, 165, 233, 0.18);
+    padding: 56px 0 0;
+    margin-top: 64px;
+    background: var(--slate-deep);
+    color: rgba(255, 255, 255, 0.72);
+    position: relative;
+    overflow: hidden;
   }
-  .footer__inner {
+  .site-footer::before {
+    content: ""; position: absolute; inset: 0; pointer-events: none;
+    background:
+      radial-gradient(ellipse 50% 80% at 0% 0%, rgba(14, 165, 233, 0.12) 0%, transparent 60%),
+      radial-gradient(ellipse 60% 80% at 100% 100%, rgba(99, 102, 241, 0.10) 0%, transparent 60%);
+  }
+  .site-footer__inner,
+  .site-footer__bar { position: relative; z-index: 1; }
+  .site-footer__inner {
     display: grid;
-    grid-template-columns: 1.5fr repeat(4, 1fr);
-    gap: 2rem;
-    padding-bottom: 2rem;
+    grid-template-columns: 1.5fr repeat(3, 1fr);
+    gap: 32px;
+    padding-bottom: 40px;
   }
-  .footer__logo {
-    font-size: 1.25rem;
-    font-weight: 600;
-    color: white;
-  }
-  .footer__logo strong { color: var(--color-primary-light); }
-  .footer__tagline {
-    margin-top: 0.5rem;
-    font-size: 0.875rem;
-    color: #9CA3AF;
-  }
-  .footer__col h4 {
-    color: white;
-    font-size: 0.875rem;
+  .site-footer__col h4 {
+    color: #fff;
+    font-family: var(--font-sans);
+    font-size: 12px;
+    font-weight: 700;
     text-transform: uppercase;
-    letter-spacing: 0.05em;
-    margin-bottom: 1rem;
+    letter-spacing: 0.12em;
+    margin-bottom: 14px;
   }
-  .footer__col ul { list-style: none; }
-  .footer__col li { margin-bottom: 0.5rem; }
-  .footer__col a {
-    color: #9CA3AF;
-    font-size: 0.875rem;
-    transition: color 0.2s;
+  .site-footer__col ul { list-style: none; padding: 0; margin: 0; }
+  .site-footer__col li { margin-bottom: 8px; }
+  .site-footer__col a {
+    color: rgba(255, 255, 255, 0.72);
+    font-size: 13.5px;
+    text-decoration: none;
+    transition: color 0.15s;
   }
-  .footer__col a:hover { color: white; }
-  .footer__bottom {
-    border-top: 1px solid #374151;
-    padding: 1.25rem 0;
-  }
-  .footer__bottom p {
-    font-size: 0.8125rem;
-    color: #6B7280;
-    text-align: center;
-  }
+  .site-footer__col a:hover { color: var(--accent); }
 
-  @media (max-width: 700px) {
-    .footer__inner { grid-template-columns: 1fr 1fr; }
-    .footer__brand { grid-column: 1 / -1; }
+  .site-footer__bar {
+    border-top: 1px solid rgba(255, 255, 255, 0.10);
+    padding: 18px 0 28px;
+  }
+  .site-footer__bar-inner {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 14px;
+  }
+  .site-footer__legal {
+    list-style: none;
+    display: flex;
+    gap: 18px;
+    margin: 0;
+    padding: 0;
+  }
+  .site-footer__legal a {
+    font-size: 12px;
+    color: rgba(255, 255, 255, 0.5);
+    text-decoration: none;
+  }
+  .site-footer__legal a:hover { color: #fff; }
+
+  @media (max-width: 880px) {
+    .site-footer__inner {
+      grid-template-columns: 1fr 1fr;
+      gap: 28px;
+    }
+    .site-footer__brand { grid-column: 1 / -1; }
+  }
+  @media (max-width: 520px) {
+    .site-footer__inner { grid-template-columns: 1fr; }
+    .site-footer__bar-inner { justify-content: flex-start; }
   }
 </style>

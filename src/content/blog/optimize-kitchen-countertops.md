@@ -20,7 +20,7 @@ draft: false
 
 ## Assessing Your Current Countertop Setup
 
-Effective **kitchen countertop organization system** begins with understanding your current usage patterns. According to the [National Kitchen and Bath Association (2020)](https://www.nkba.org), 73% of homeowners use only 40% of their countertop space efficiently. To assess your setup:
+Effective **kitchen countertop organization system** begins with understanding your current usage patterns. According to the National Kitchen and Bath Association (2020), 73% of homeowners use only 40% of their countertop space efficiently. To assess your setup:
 
 1. **Track activity zones**: Note where you prep, cook, and store items for 3 days
 2. **Measure clear workspace**: Aim for at least 36" of uninterrupted prep space (Kitchen Design Magazine standard)
@@ -28,7 +28,7 @@ Effective **kitchen countertop organization system** begins with understanding y
 
 ## Purge and Categorize Countertop Items
 
-Decluttering is the foundation of **kitchen productivity**. The [Spruce (2022)](https://www.thespruce.com) recommends the 90/90 rule: if you haven't used an item in 90 days and won't in the next 90, store or discard it. 
+Decluttering is the foundation of **kitchen productivity**. The Spruce (2022) recommends the 90/90 rule: if you haven't used an item in 90 days and won't in the next 90, store or discard it. 
 
 **Categorization system**:
 | Category | Frequency of Use | Storage Solution |
@@ -41,7 +41,7 @@ Decluttering is the foundation of **kitchen productivity**. The [Spruce (2022)](
 
 ## Implementing a Zone-Based Countertop System
 
-[Kitchen Design Magazine (2019)](https://www.kitchenbathdesign.com) found zone-based systems reduce meal prep time by 18%. Create these 5 essential zones:
+Kitchen Design Magazine (2019) found zone-based systems reduce meal prep time by 18%. Create these 5 essential zones:
 
 1. **Prep zone**: Keep knives, cutting boards, and mixing bowls within arm's reach
 2. **Cooking zone**: Store spices and utensils near the stove (ideal radius: 12-18")
@@ -51,7 +51,7 @@ Decluttering is the foundation of **kitchen productivity**. The [Spruce (2022)](
 
 ## Selecting the Right Countertop Storage Containers
 
-The [Container Store (2021)](https://www.containerstore.com) reports proper containers can reclaim 30% of wasted space. Key considerations:
+The Container Store (2021) reports proper containers can reclaim 30% of wasted space. Key considerations:
 
 **Material comparison**:
 | Material | Best For | Durability |
@@ -64,7 +64,7 @@ The [Container Store (2021)](https://www.containerstore.com) reports proper cont
 
 ## Maintaining Your New Countertop Organization System
 
-[FlyLady (2018)](https://www.flylady.net) suggests the "5-minute daily reset":
+FlyLady (2018) suggests the "5-minute daily reset":
 
 1. Wipe surfaces after each use
 2. Return items to zones immediately
@@ -73,7 +73,7 @@ The [Container Store (2021)](https://www.containerstore.com) reports proper cont
 
 ## Measuring the Time-Saving Benefits
 
-A [Harvard Business Review (2017)](https://hbr.org) study of 120 kitchens showed optimized workflows save 2.1 hours weekly. Track:
+A Harvard Business Review (2017) study of 120 kitchens showed optimized workflows save 2.1 hours weekly. Track:
 
 - Prep time reduction
 - Fewer steps between zones

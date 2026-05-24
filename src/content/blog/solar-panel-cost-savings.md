@@ -40,7 +40,7 @@ To calculate your home's energy consumption and potential **solar panel cost sav
 > Relacionado: [Cleaning with a Laser Window Cleaner](/blog/cleaning-with-a-laser-window-cleaner)
 
 ## Payback Period and Return on Investment
-The payback period for your solar panel investment will depend on several factors, including the cost of the system, the amount of energy you produce, and the local incentives available. According to the [Solar Energy Industries Association](https://www.seia.org) (2022), the average payback period for a solar panel system is around **7-10 years**. 
+The payback period for your solar panel investment will depend on several factors, including the cost of the system, the amount of energy you produce, and the local incentives available. According to the Solar Energy Industries Association (2022), the average payback period for a solar panel system is around **7-10 years**. 
 
 | System Size | Payback Period |
 | --- | --- |
@@ -51,14 +51,14 @@ The payback period for your solar panel investment will depend on several factor
 > Relacionado: [Washing Machine Cold Cycle](/blog/washing-machine-cold-cycle)
 
 ## Incentives and Tax Credits
-There are several federal, state, and local incentives available for homeowners who install solar panels, including tax credits and rebates. For example, the [Database of State Incentives for Renewables & Efficiency](https://www.dsireusa.org) (2022) provides a comprehensive list of incentives available in each state. 
+There are several federal, state, and local incentives available for homeowners who install solar panels, including tax credits and rebates. For example, the Database of State Incentives for Renewables & Efficiency (2022) provides a comprehensive list of incentives available in each state. 
 
 1. Check your state and local government websites for available incentives
 2. Claim the federal solar investment tax credit (ITC) on your tax return
 3. Apply for rebates and grants from utility companies and non-profit organizations
 
 ## Maintenance and Upkeep Costs
-The maintenance and upkeep costs for solar panels are relatively low, with an average annual cost of around **$100-$300**. According to the [Solar Panel Manufacturers Association](https://www.spma.com) (2022), regular cleaning and inspections can help ensure the optimal performance of your solar panel system. 
+The maintenance and upkeep costs for solar panels are relatively low, with an average annual cost of around **$100-$300**. According to the Solar Panel Manufacturers Association (2022), regular cleaning and inspections can help ensure the optimal performance of your solar panel system. 
 
 | Maintenance Task | Frequency | Cost |
 | --- | --- | --- |

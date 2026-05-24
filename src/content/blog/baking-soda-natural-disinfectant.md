@@ -23,7 +23,7 @@ draft: false
 Baking soda, also known as sodium bicarbonate, is a **natural disinfectant** with antimicrobial properties, making it an effective **baking soda cleaning solution** for household cleaning. According to a study published in the [Journal of Applied Microbiology](https://www.sciencedirect.com/journal/journal-of-applied-microbiology), 2018, baking soda's chemical composition allows it to inhibit the growth of certain bacteria and fungi.
 
 ## How Baking Soda Neutralizes Odors
-The science behind baking soda's ability to absorb and neutralize unpleasant smells lies in its **pH level**. As stated by the [American Chemical Society](https://www.acs.org), 2020, baking soda has a pH level of around 8.3, which enables it to neutralize acidic odors. This property makes baking soda an effective **natural disinfectant** for household cleaning.
+The science behind baking soda's ability to absorb and neutralize unpleasant smells lies in its **pH level**. As stated by the American Chemical Society, 2020, baking soda has a pH level of around 8.3, which enables it to neutralize acidic odors. This property makes baking soda an effective **natural disinfectant** for household cleaning.
 
 ## DIY Baking Soda Cleaning Solutions
 To make a **baking soda cleaning solution**, mix 1 cup of baking soda with 1 gallon of warm water. For a more effective **non-toxic cleaner**, add 1/2 cup of white vinegar to the solution. The [Environmental Protection Agency](https://www.epa.gov) recommends using baking soda as a natural alternative to commercial cleaning products.
@@ -47,25 +47,25 @@ Here are some practical recipes for making natural cleaning products using bakin
 | Commercial Cleaners | 8/10 | **Toxic** and **non-biodegradable** |
 
 ## Conclusion and Future Applications
-The potential for baking soda to be used in a variety of cleaning applications, from laundry to carpet deodorizing, is vast. According to a study published in the [Journal of Cleaner Production](https://www.jclepro.com), 2021, baking soda can be used as a natural alternative to commercial cleaning products.
+The potential for baking soda to be used in a variety of cleaning applications, from laundry to carpet deodorizing, is vast. According to a study published in the Journal of Cleaner Production, 2021, baking soda can be used as a natural alternative to commercial cleaning products.
 
 ## Frequently Asked Questions
 ### What is baking soda used for?
 Baking soda is used as a **natural disinfectant** and **non-toxic cleaner** for household cleaning. The [World Health Organization](https://www.who.int) recommends using baking soda as a natural alternative to commercial cleaning products.
 ### How does baking soda work?
-Baking soda works by neutralizing acidic odors and inhibiting the growth of certain bacteria and fungi. The [Mayo Clinic](https://www.mayoclinic.org) states that baking soda is effective in reducing odor and preventing the growth of bacteria.
+Baking soda works by neutralizing acidic odors and inhibiting the growth of certain bacteria and fungi. The Mayo Clinic states that baking soda is effective in reducing odor and preventing the growth of bacteria.
 ### Can I use baking soda on all surfaces?
 No, baking soda should not be used on all surfaces. The [Environmental Protection Agency](https://www.epa.gov) recommends testing baking soda on a small area before using it on a larger surface.
 ### Is baking soda safe for pets and children?
 Yes, baking soda is safe for pets and children when used properly. The [Centers for Disease Control and Prevention](https://www.cdc.gov) recommends keeping baking soda out of reach of children and pets to avoid accidental ingestion.
 ### Can I use baking soda with other cleaning products?
-Yes, baking soda can be used with other cleaning products, but it's essential to follow the instructions on the label. The [American Chemical Society](https://www.acs.org) recommends mixing baking soda with white vinegar for a more effective **non-toxic cleaner**.
+Yes, baking soda can be used with other cleaning products, but it's essential to follow the instructions on the label. The American Chemical Society recommends mixing baking soda with white vinegar for a more effective **non-toxic cleaner**.
 ### How often should I use baking soda?
 The frequency of using baking soda depends on the surface and the level of cleaning required. The [National Institute of Environmental Health Sciences](https://www.niehs.nih.gov) recommends using baking soda at least once a week for general cleaning.
 
 ## My Take
 As an app developer and professional chef, I've always been interested in finding natural and effective cleaning solutions. I've used baking soda in my kitchen for years, and I can attest to its effectiveness in neutralizing odors and cleaning surfaces. One of my favorite recipes is a **baking soda and vinegar** solution that I use to clean my countertops and sink.
-I've also used [Arm & Hammer Baking Soda](https://www.armandhammer.com) and [Seventh Generation Natural All-Purpose Cleaner](https://www.seventhgeneration.com) to make my cleaning routine more efficient. I recommend using these products in conjunction with baking soda for a more effective cleaning solution.
+I've also used Arm & Hammer Baking Soda and Seventh Generation Natural All-Purpose Cleaner to make my cleaning routine more efficient. I recommend using these products in conjunction with baking soda for a more effective cleaning solution.
 In conclusion, baking soda is a versatile and effective **natural disinfectant** that can be used in a variety of cleaning applications. With its **biodegradable** and **non-toxic** properties, baking soda is an excellent alternative to commercial cleaning products.
 
 
@@ -85,7 +85,7 @@ In conclusion, baking soda is a versatile and effective **natural disinfectant**
 * Test baking soda on a small area before using it on a larger surface.
 * Keep baking soda out of reach of children and pets to avoid accidental ingestion.
 * Use baking soda at least once a week for general cleaning.
-* Consider using [Arm & Hammer Baking Soda](https://www.armandhammer.com) and [Seventh Generation Natural All-Purpose Cleaner](https://www.seventhgeneration.com) for a more efficient cleaning routine.
+* Consider using Arm & Hammer Baking Soda and Seventh Generation Natural All-Purpose Cleaner for a more efficient cleaning routine.
 
 
 ---

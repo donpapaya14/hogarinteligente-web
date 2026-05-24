@@ -29,7 +29,7 @@ To start, take inventory of your pantry, categorize items by type and expiration
 3. **Check expiration dates**: Discard expired items.
 
 ## Use Clear, Labeled Containers for Storage
-Using **airtight, clear containers** with labels can make tracking contents and expiration dates easier. A study in the [Journal of Food Science, 2019](https://jfoodsci.onlinelibrary.wiley.com) found that proper storage can extend the shelf life of food. Consider using the [OXO Good Grips POP Container](https://www.amazon.com) for efficient storage.
+Using **airtight, clear containers** with labels can make tracking contents and expiration dates easier. A study in the Journal of Food Science, 2019 found that proper storage can extend the shelf life of food. Consider using the [OXO Good Grips POP Container](https://www.amazon.com) for efficient storage.
 
 ## Implement the FIFO (First In, First Out) Method
 The FIFO method involves arranging items so that older products are used first, reducing spoilage and waste. The [Food and Nutrition Service, 2021](https://www.fns.usda.gov) recommends this method for managing inventory. Here’s how to implement it:
@@ -37,14 +37,14 @@ The FIFO method involves arranging items so that older products are used first, 
 2. **Store items by date**: Place newer items behind older ones.
 
 ## Create Designated Zones for Different Food Types
-Grouping similar items together can improve visibility and accessibility. The [National Association of Professional Organizers, 2022](https://www.napo.net) suggests creating zones for different types of food. For example:
+Grouping similar items together can improve visibility and accessibility. The National Association of Professional Organizers, 2022 suggests creating zones for different types of food. For example:
 | Zone | Items |
 | --- | --- |
 | Grains | Rice, pasta, cereals |
 | Canned Goods | Vegetables, fruits, meats |
 
 ## Regularly Audit and Clean Your Pantry
-Regular checks can help remove expired items, clean shelves, and reorganize as needed. [Consumer Reports, 2021](https://www.consumerreports.org) recommends scheduling these audits monthly. Here’s a checklist:
+Regular checks can help remove expired items, clean shelves, and reorganize as needed. Consumer Reports, 2021 recommends scheduling these audits monthly. Here’s a checklist:
 1. **Remove expired items**.
 2. **Wipe down shelves**.
 3. **Reorganize items**.
@@ -56,15 +56,15 @@ Planning meals around items you already have can prevent overbuying and ensure n
 ### How much food waste can a pantry organization system reduce?
 The amount of food waste reduced by a pantry organization system can vary, but according to the [World Health Organization](https://www.who.int), proper food storage and planning can reduce waste by up to **50%**.
 ### What are the benefits of using clear, labeled containers?
-Using clear, labeled containers can make tracking contents and expiration dates easier, reducing the likelihood of expired or spoiled food. The [Mayo Clinic](https://www.mayoclinic.org) suggests using airtight containers to keep food fresh.
+Using clear, labeled containers can make tracking contents and expiration dates easier, reducing the likelihood of expired or spoiled food. The Mayo Clinic suggests using airtight containers to keep food fresh.
 ### How often should I audit my pantry?
 It is recommended to audit your pantry **monthly** to remove expired items, clean shelves, and reorganize as needed. The [Environmental Protection Agency](https://www.epa.gov) provides tips on reducing food waste through proper pantry management.
 ### What is the best way to implement the FIFO method?
-The best way to implement the FIFO method is by labeling items with the date they were stored and placing newer items behind older ones. The [Food and Agriculture Organization of the United Nations](https://www.fao.org) provides guidelines on managing food inventory.
+The best way to implement the FIFO method is by labeling items with the date they were stored and placing newer items behind older ones. The Food and Agriculture Organization of the United Nations provides guidelines on managing food inventory.
 ### Can a pantry organization system save me money?
-Yes, a pantry organization system can save you money by reducing food waste and preventing the purchase of duplicate items. According to a study by the [National Resources Defense Council, 2020](https://www.nrdc.org), the average American household throws away **$1,500** worth of food per year.
+Yes, a pantry organization system can save you money by reducing food waste and preventing the purchase of duplicate items. According to a study by the National Resources Defense Council, 2020, the average American household throws away **$1,500** worth of food per year.
 ### How can I make meal planning easier?
-Meal planning can be made easier by using a meal planning app, creating a grocery list based on the items you already have, and planning meals around seasonal produce. The [Academy of Nutrition and Dietetics](https://www.andjrnl.org) provides tips on meal planning and grocery shopping.
+Meal planning can be made easier by using a meal planning app, creating a grocery list based on the items you already have, and planning meals around seasonal produce. The Academy of Nutrition and Dietetics provides tips on meal planning and grocery shopping.
 
 ## My Take
 As an app developer and professional chef, I have seen firsthand the impact of a well-organized pantry on reducing food waste. In my own kitchen, I use a combination of clear, labeled containers and the FIFO method to ensure that older items are used before they expire. I also plan my meals around the items I already have, which not only reduces waste but also saves me money.

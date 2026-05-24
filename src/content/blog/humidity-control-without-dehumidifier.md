@@ -20,10 +20,10 @@ draft: false
 ---
 
 ## Introduction to Humidity Control Without Dehumidifier
-Humidity control without dehumidifier is a topic of interest for many, especially in regions with high humidity levels. According to the [ASHRAE Handbook 2013: Refrigeration](https://www.ashrae.org/), the ideal humidity range for different climates varies, but generally falls between **30-60%** relative humidity. 
+Humidity control without dehumidifier is a topic of interest for many, especially in regions with high humidity levels. According to the ASHRAE Handbook 2013: Refrigeration, the ideal humidity range for different climates varies, but generally falls between **30-60%** relative humidity. 
 
 ## Why Dehumidifiers Fail: Understanding the Humidity Threshold
-Dehumidifiers often fail to effectively control humidity due to the concept of dew point, which is the temperature at which the air becomes saturated with water vapor and can no longer hold any more moisture. As stated in the [ASHRAE Handbook 2013: Refrigeration](https://www.ashrae.org/), the dew point is a critical factor in humidity control. 
+Dehumidifiers often fail to effectively control humidity due to the concept of dew point, which is the temperature at which the air becomes saturated with water vapor and can no longer hold any more moisture. As stated in the ASHRAE Handbook 2013: Refrigeration, the dew point is a critical factor in humidity control. 
 
 1. **Determine the dew point**: Calculate the dew point temperature using a hygrometer or a psychrometric chart.
 2. **Assess the humidity level**: Measure the relative humidity in the space to determine if it's within the ideal range.
@@ -49,13 +49,13 @@ Increasing air circulation with fans can help reduce humidity levels by promotin
 > Relacionado: [Organize Closet with Shelves](/blog/organize-closet-with-shelves)
 
 ## Method 3: Using a Heat Source to Evaporate Moisture
-Using a heat source like a space heater or radiator can evaporate moisture from the air, reducing humidity levels. However, as noted in the [International Journal of Heat and Mass Transfer (2015)](https://www.journals.elsevier.com/international-journal-of-heat-and-mass-transfer/), this method has potential drawbacks and limitations. 
+Using a heat source like a space heater or radiator can evaporate moisture from the air, reducing humidity levels. However, as noted in the International Journal of Heat and Mass Transfer (2015), this method has potential drawbacks and limitations. 
 
 ## Method 4: Implementing a Ventilation System
-Implementing a ventilation system can help control humidity by removing moist air and introducing dry air. According to the [American Society of Heating, Refrigerating and Air-Conditioning Engineers (ASHRAE) guidelines for ventilation (2019)](https://www.ashrae.org/), proper system maintenance and upkeep are crucial. 
+Implementing a ventilation system can help control humidity by removing moist air and introducing dry air. According to the American Society of Heating, Refrigerating and Air-Conditioning Engineers (ASHRAE) guidelines for ventilation (2019), proper system maintenance and upkeep are crucial. 
 
 ## Method 5: Using a Water-Based Humidity Control System
-A water-based humidity control system can be an effective way to control humidity levels. As stated in a [Water Research Journal study on water-based humidity control (2017)](https://www.waterresearchjournal.com/), this system can be effective in different environments. 
+A water-based humidity control system can be an effective way to control humidity levels. As stated in a Water Research Journal study on water-based humidity control (2017), this system can be effective in different environments. 
 
 ## Method 6: Implementing a Humidity-Controlled Insulation System
 Implementing a humidity-controlled insulation system can help reduce humidity levels by minimizing moisture infiltration. According to a [National Renewable Energy Laboratory (NREL) study on humidity-controlled insulation (2016)](https://www.nrel.gov/), this system can be beneficial in different climates. 
@@ -66,7 +66,7 @@ For those looking for alternative solutions, consider the [Honeywell 5600 Whole 
 ### What is the ideal humidity range for my home?
 The ideal humidity range for your home is between **30-60%** relative humidity, depending on the climate. According to the [World Health Organization](https://www.who.int/), this range can help prevent moisture-related issues. 
 ### How often should I check the humidity level in my home?
-Check the humidity level in your home **at least once a week** to ensure it's within the ideal range. As stated in the [Mayo Clinic](https://www.mayoclinic.org/), regular monitoring can help prevent health issues related to humidity. 
+Check the humidity level in your home **at least once a week** to ensure it's within the ideal range. As stated in the Mayo Clinic, regular monitoring can help prevent health issues related to humidity. 
 ### Can I use a dehumidifier and a humidifier at the same time?
 Yes, you can use a dehumidifier and a humidifier at the same time, but it's essential to **monitor the humidity level closely** to avoid over-humidification or over-dehumidification. According to the [US Environmental Protection Agency (EPA)](https://www.epa.gov/), this can help maintain a healthy indoor environment. 
 ### What are the benefits of using a desiccant to control humidity?
@@ -74,7 +74,7 @@ Using a desiccant to control humidity can be beneficial because it's **energy-ef
 ### How can I reduce humidity levels in my basement?
 To reduce humidity levels in your basement, **improve air circulation** by using fans, **use a dehumidifier**, and **seal any cracks or leaks** to prevent moisture infiltration. According to the [Federal Emergency Management Agency (FEMA)](https://www.fema.gov/), these steps can help minimize moisture-related issues. 
 ### Can I use a heat source to control humidity in my home?
-Yes, you can use a heat source to control humidity in your home, but it's essential to **use caution** and **monitor the humidity level closely** to avoid over-dehumidification. As stated in the [International Journal of Heat and Mass Transfer](https://www.journals.elsevier.com/international-journal-of-heat-and-mass-transfer/), this method has potential drawbacks and limitations. 
+Yes, you can use a heat source to control humidity in your home, but it's essential to **use caution** and **monitor the humidity level closely** to avoid over-dehumidification. As stated in the International Journal of Heat and Mass Transfer, this method has potential drawbacks and limitations. 
 
 ## My Take
 As an app developer and professional chef, I've had my fair share of experiences with humidity control. In my kitchen, I use a combination of **desiccants** and **fans** to maintain a comfortable humidity level. I've found that this approach not only helps prevent moisture-related issues but also improves the overall cooking experience. 

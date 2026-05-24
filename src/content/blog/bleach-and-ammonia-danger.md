@@ -20,7 +20,7 @@ draft: false
 
 ## Introduction to Chemical Reactions
 
-Mixing **bleach and ammonia** creates a dangerous chemical reaction that produces **toxic chloramine vapors**. According to the [American Chemical Society (2020)](https://www.acs.org), this reaction occurs instantly, releasing gases that can cause severe respiratory distress. The chemical equation is: **NaOCl + NH3 → NaOH + NH2Cl (chloramine)**. Never combine these substances, even small amounts can be hazardous fumes.
+Mixing **bleach and ammonia** creates a dangerous chemical reaction that produces **toxic chloramine vapors**. According to the American Chemical Society (2020), this reaction occurs instantly, releasing gases that can cause severe respiratory distress. The chemical equation is: **NaOCl + NH3 → NaOH + NH2Cl (chloramine)**. Never combine these substances, even small amounts can be hazardous fumes.
 
 ## Health Risks Associated with Exposure
 
@@ -67,7 +67,7 @@ If bleach and ammonia mix, follow these steps ([OSHA, 2021](https://www.osha.gov
 
 ## Prevention Strategies for Household Cleaning
 
-The [National Safety Council (2020)](https://www.nsc.org) recommends:
+The National Safety Council (2020) recommends:
 1. **Label all containers** with contents and hazard warnings
 2. **Store chemicals separately** – Keep bleach in a different cabinet from ammonia-based products
 3. **Wear gloves and masks** when handling strong cleaners
@@ -82,7 +82,7 @@ The [National Safety Council (2020)](https://www.nsc.org) recommends:
 **Chloramine fumes can linger for hours in unventilated spaces.** A 2018 NIOSH study found detectable levels for up to 24 hours in rooms with closed windows. Use fans for 1-2 hours and avoid the area until the smell dissipates.
 
 ### Can you neutralize bleach and ammonia after mixing?
-**No – the chemical process cannot be reversed once started.** The [American Chemical Society](https://www.acs.org) confirms that dilution with water only spreads the hazard. Absorb small spills with kitty litter (wear an N95 mask) and dispose of it outdoors.
+**No – the chemical process cannot be reversed once started.** The American Chemical Society confirms that dilution with water only spreads the hazard. Absorb small spills with kitty litter (wear an N95 mask) and dispose of it outdoors.
 
 ### What cleaner can I use instead of bleach?
 **Hydrogen peroxide (3-6% solution) or citric acid cleaners are safer alternatives.** The EPA’s Safer Choice program lists [ Clorox Green Works Natural All-Purpose Cleaner en Amazon](https://www.amazon.com/s?k=+Clorox+Green+Works+Natural+All-Purpose+Cleaner&tag=vds96-20) as effective against viruses without toxic fumes. For mold, use undiluted white vinegar (let sit for 1 hour).

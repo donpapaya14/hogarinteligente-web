@@ -28,7 +28,7 @@ To ensure older items are consumed before they expire, implement a first-in-firs
 3. Consider using airtight containers to preserve food freshness.
 
 ## Optimizing Pantry Storage Containers
-The right storage containers can make a big difference in preserving food freshness. According to a study published in the [Journal of Food Science (2018)](https://jfoodsci.onlinelibrary.wiley.com), airtight bins, glass jars, and other types of containers can help extend shelf life. Here are some options to consider:
+The right storage containers can make a big difference in preserving food freshness. According to a study published in the Journal of Food Science (2018), airtight bins, glass jars, and other types of containers can help extend shelf life. Here are some options to consider:
 | Container Type | Benefits |
 | --- | --- |
 | Airtight Bins | Preserves freshness, keeps pests out |
@@ -36,13 +36,13 @@ The right storage containers can make a big difference in preserving food freshn
 | Shelf-Life Extension Containers | Specifically designed to extend shelf life |
 
 ## Meal Planning and Grocery Shopping Strategies
-Meal planning and smart grocery shopping can also help reduce food waste. According to the [Academy of Nutrition and Dietetics (2022)](https://www.andjrnl.org), planning meals around pantry staples can help reduce the amount of food that goes to waste. Here are some tips:
+Meal planning and smart grocery shopping can also help reduce food waste. According to the Academy of Nutrition and Dietetics (2022), planning meals around pantry staples can help reduce the amount of food that goes to waste. Here are some tips:
 1. Plan meals for the week ahead of time.
 2. Make a grocery list and stick to it.
 3. Shop for groceries only when necessary.
 
 ## Maintaining the Organized Pantry
-To keep your pantry organized, regular maintenance is necessary. According to [Good Housekeeping (2021)](https://www.goodhousekeeping.com), cleaning schedules, expiration date checks, and adjusting the organization system as needed can help. Here are some tips:
+To keep your pantry organized, regular maintenance is necessary. According to Good Housekeeping (2021), cleaning schedules, expiration date checks, and adjusting the organization system as needed can help. Here are some tips:
 1. Clean the pantry every 3-6 months.
 2. Check expiration dates regularly.
 3. Adjust the organization system as needed.
@@ -57,15 +57,15 @@ There are many success stories of individuals and families who have reduced food
 ### What is the best way to organize a pantry?
 The best way to organize a pantry is to implement a first-in-first-out system, use airtight containers, and plan meals around pantry staples. According to the [National Institute of Diabetes and Digestive and Kidney Diseases (2019)](https://www.niddk.nih.gov), this can help reduce food waste and preserve food freshness.
 ### How often should I clean my pantry?
-You should clean your pantry every 3-6 months, according to [Good Housekeeping (2021)](https://www.goodhousekeeping.com). This can help prevent pests and keep the pantry organized.
+You should clean your pantry every 3-6 months, according to Good Housekeeping (2021). This can help prevent pests and keep the pantry organized.
 ### What are the benefits of using airtight containers?
-Airtight containers can help preserve food freshness, keep pests out, and extend shelf life. According to the [Journal of Food Science (2018)](https://jfoodsci.onlinelibrary.wiley.com), they are a great option for storing food.
+Airtight containers can help preserve food freshness, keep pests out, and extend shelf life. According to the Journal of Food Science (2018), they are a great option for storing food.
 ### How can I reduce food waste?
-You can reduce food waste by planning meals around pantry staples, making a grocery list, and shopping smart. According to the [Academy of Nutrition and Dietetics (2022)](https://www.andjrnl.org), this can help reduce the amount of food that goes to waste.
+You can reduce food waste by planning meals around pantry staples, making a grocery list, and shopping smart. According to the Academy of Nutrition and Dietetics (2022), this can help reduce the amount of food that goes to waste.
 ### What is the best type of storage container?
-The best type of storage container is one that is airtight, non-toxic, and can be used for canning. According to the [Journal of Food Science (2018)](https://jfoodsci.onlinelibrary.wiley.com), glass jars and airtight bins are great options.
+The best type of storage container is one that is airtight, non-toxic, and can be used for canning. According to the Journal of Food Science (2018), glass jars and airtight bins are great options.
 ### How can I maintain my organized pantry?
-You can maintain your organized pantry by cleaning it regularly, checking expiration dates, and adjusting the organization system as needed. According to [Good Housekeeping (2021)](https://www.goodhousekeeping.com), this can help keep the pantry organized and reduce food waste.
+You can maintain your organized pantry by cleaning it regularly, checking expiration dates, and adjusting the organization system as needed. According to Good Housekeeping (2021), this can help keep the pantry organized and reduce food waste.
 
 ## My Take
 As an app developer and professional chef, I have seen firsthand the importance of pantry organization. In my own kitchen, I use [Rubbermaid Brilliance Pantry Storage Containers](https://www.amazon.com/Rubbermaid-Brilliance-Pantry-Storage-Containers) to keep my ingredients fresh and organized. I also recommend using [ OXO Good Grips Airtight Containers en Amazon](https://www.amazon.com/s?k=+OXO+Good+Grips+Airtight+Containers&tag=vds96-20)(https://www.amazon.com/OXO-Good-Grips-Airtight-Containers) and [ Glass Jar with Lid en Amazon](https://www.amazon.com/s?k=+Glass+Jar+with+Lid&tag=vds96-20)(https://www.amazon.com/Glass-Jar-with-Lid) for storing food and preserving freshness.

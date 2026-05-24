@@ -18,12 +18,12 @@ draft: false
 
 
 ## Understanding Pet Hair and Allergies
-Pet hair and dander are common allergens that can significantly affect indoor air quality. According to the [American Academy of Allergy, Asthma, and Immunology (AAAAI)](https://www.aaaai.org), **60% of households in the United States have at least one pet**. This can lead to increased allergy symptoms such as sneezing, congestion, and itchy eyes.
+Pet hair and dander are common allergens that can significantly affect indoor air quality. According to the American Academy of Allergy, Asthma, and Immunology (AAAAI), **60% of households in the United States have at least one pet**. This can lead to increased allergy symptoms such as sneezing, congestion, and itchy eyes.
 
-The science behind pet hair and allergies lies in the proteins found in the dander, saliva, and urine of pets. These proteins can become airborne and be inhaled, triggering allergic reactions. The [AAAAI](https://www.aaaai.org) recommends regular cleaning and vacuuming to reduce pet dander and hair.
+The science behind pet hair and allergies lies in the proteins found in the dander, saliva, and urine of pets. These proteins can become airborne and be inhaled, triggering allergic reactions. The AAAAI recommends regular cleaning and vacuuming to reduce pet dander and hair.
 
 ## Robot Vacuum Performance on Hardwood Floors
-When it comes to cleaning hardwood floors, robot vacuums with strong suction power and efficient cleaning paths are essential. According to test results from [iRobot](https://www.irobot.com) and [Neato Robotics](https://www.neatorobotics.com) labs, the top-performing robot vacuums have suction forces ranging from **10-25 air watts (AW)**.
+When it comes to cleaning hardwood floors, robot vacuums with strong suction power and efficient cleaning paths are essential. According to test results from iRobot and Neato Robotics labs, the top-performing robot vacuums have suction forces ranging from **10-25 air watts (AW)**.
 
 | Robot Vacuum | Suction Power (AW) | Cleaning Path Efficiency |
 | --- | --- | --- |

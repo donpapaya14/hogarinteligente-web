@@ -31,10 +31,10 @@ Here's a comparison of top smart plugs with energy monitoring:
 | Belkin WeMo Insight | $40 | **±1%** | Energy Monitoring, Smart Home Automation |
 | Amazon Smart Plug | $25 | **±2%** | Voice Control, Smart Home Integration |
 
-According to [Consumer Reports](https://www.consumerreports.org), 2023, these smart plugs offer a range of features and accuracy levels.
+According to Consumer Reports, 2023, these smart plugs offer a range of features and accuracy levels.
 
 ## Accuracy Tests: Lab vs. Real Homes
-In controlled tests, these smart plugs have shown **±1-3%** error rates, according to [CNET Smart Home Lab](https://www.cnet.com), 2023. However, in real-world scenarios, the error rates can be higher due to various factors such as **interference** and **calibration** issues.
+In controlled tests, these smart plugs have shown **±1-3%** error rates, according to CNET Smart Home Lab, 2023. However, in real-world scenarios, the error rates can be higher due to various factors such as **interference** and **calibration** issues.
 
 ## Hidden Costs You Might Miss
 When choosing a smart plug, consider the following hidden costs:
@@ -42,7 +42,7 @@ When choosing a smart plug, consider the following hidden costs:
 * Hub requirements: Some smart plugs require a **hub** to function, which can add to the overall cost.
 * Compatibility gotchas: Check if the smart plug is compatible with your **smart home system**, such as Apple HomeKit.
 
-According to [Wirecutter](https://www.wirecutter.com), 2023, these hidden costs can add up quickly.
+According to Wirecutter, 2023, these hidden costs can add up quickly.
 
 ## Pro Tips for Maximum Savings
 To get the most out of your smart plug, follow these tips:
@@ -50,7 +50,7 @@ To get the most out of your smart plug, follow these tips:
 2. Set **alerts** for energy spikes to identify areas of improvement.
 3. Integrate your smart plug with **solar panels** to optimize energy usage.
 
-According to the [Energy Saving Trust](https://www.energysavingtrust.org.uk), 2021, these tips can help you save up to **£100** per year.
+According to the Energy Saving Trust, 2021, these tips can help you save up to **£100** per year.
 
 ### Recommended Products
 Consider the [TP-Link Kasa Smart Plug with Energy Monitoring](https://www.amazon.com/TP-Link-Kasa-Smart-Plug) and the [Amazon Smart Plug](https://www.amazon.com/Amazon-Smart-Plug) for your smart home needs.
@@ -61,13 +61,13 @@ The best smart plug for energy monitoring is the **TP-Link Kasa Smart Plug**, wh
 ### How much can I save with a smart plug?
 You can save up to **10-20%** on your energy bills by using a smart plug, according to the [U.S. Department of Energy](https://www.energy.gov), 2022.
 ### What is the most accurate smart plug?
-The most accurate smart plug is the **Belkin WeMo Insight**, which offers **±1%** accuracy, according to [Consumer Reports](https://www.consumerreports.org), 2023.
+The most accurate smart plug is the **Belkin WeMo Insight**, which offers **±1%** accuracy, according to Consumer Reports, 2023.
 ### Can I use a smart plug with solar panels?
-Yes, you can use a smart plug with **solar panels** to optimize energy usage and save up to **£100** per year, according to the [Energy Saving Trust](https://www.energysavingtrust.org.uk), 2021.
+Yes, you can use a smart plug with **solar panels** to optimize energy usage and save up to **£100** per year, according to the Energy Saving Trust, 2021.
 ### What is the cheapest smart plug?
-The cheapest smart plug is the **Wyze Plug**, which costs **$15** and offers a range of features, according to [CNET Smart Home Lab](https://www.cnet.com), 2023.
+The cheapest smart plug is the **Wyze Plug**, which costs **$15** and offers a range of features, according to CNET Smart Home Lab, 2023.
 ### Is a smart plug worth the investment?
-Yes, a smart plug is worth the investment, as it can help you save up to **10-20%** on your energy bills and offer a range of features, according to [Wirecutter](https://www.wirecutter.com), 2023.
+Yes, a smart plug is worth the investment, as it can help you save up to **10-20%** on your energy bills and offer a range of features, according to Wirecutter, 2023.
 
 ## My Take
 As an app developer and professional chef, I have always been interested in finding ways to optimize energy usage in my home and kitchen. I have tried several smart plugs, and I can attest that they are a game-changer. My favorite smart plug is the **TP-Link Kasa Smart Plug**, which offers a range of features and **±1%** accuracy.

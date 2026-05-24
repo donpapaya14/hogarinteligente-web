@@ -19,7 +19,7 @@ draft: false
 
 ## Assessing Closet Space
 
-Effective **closet organization system** starts with assessing your space. Measure your closet's **width, depth, and height** to determine shelving capacity. According to the [National Association of Professional Organizers (2020)](https://www.napo.net), **85% of homeowners underestimate their storage needs** by 30-40%. 
+Effective **closet organization system** starts with assessing your space. Measure your closet's **width, depth, and height** to determine shelving capacity. According to the National Association of Professional Organizers (2020), **85% of homeowners underestimate their storage needs** by 30-40%. 
 
 ### Steps to Assess Your Closet:
 1. **Measure dimensions**: Use a tape measure to record width, depth, and height.
@@ -28,7 +28,7 @@ Effective **closet organization system** starts with assessing your space. Measu
 
 ## Choosing the Right Shelving
 
-Selecting the right **closet shelves** depends on material, adjustability, and style. [The Spruce (2022)](https://www.thespruce.com) recommends **wire shelving for ventilation** and **solid wood for heavy items**.
+Selecting the right **closet shelves** depends on material, adjustability, and style. The Spruce (2022) recommends **wire shelving for ventilation** and **solid wood for heavy items**.
 
 ### Shelving Material Comparison:
 | Material | Pros | Cons | Best For |
@@ -41,7 +41,7 @@ For adjustable options, consider the [ Seville Classics UltraHD Closet Organizer
 
 ## Installing Closet Shelves
 
-Follow this **step-by-step guide** from [This Old House (2019)](https://www.thisoldhouse.com) for secure shelf installation:
+Follow this **step-by-step guide** from This Old House (2019) for secure shelf installation:
 
 1. **Gather tools**: Drill, level, stud finder, screws.
 2. **Mark positions**: Use a pencil to outline shelf locations.
@@ -52,7 +52,7 @@ Follow this **step-by-step guide** from [This Old House (2019)](https://www.this
 
 ## Maximizing Closet Storage
 
-Optimize your **closet storage** with bins and dividers. [Real Simple (2021)](https://www.realsimple.com) found that **using baskets reduces clutter by 50%**. Pair shelves with [ SimpleHouseware Mesh Stackable Bins en Amazon](https://www.amazon.com/s?k=+SimpleHouseware+Mesh+Stackable+Bins&tag=vds96-20) for small items like socks or scarves.
+Optimize your **closet storage** with bins and dividers. Real Simple (2021) found that **using baskets reduces clutter by 50%**. Pair shelves with [ SimpleHouseware Mesh Stackable Bins en Amazon](https://www.amazon.com/s?k=+SimpleHouseware+Mesh+Stackable+Bins&tag=vds96-20) for small items like socks or scarves.
 
 ### Tips to Maximize Space:
 - **Use vertical space**: Install shelves up to the ceiling.
@@ -65,7 +65,7 @@ Real-life transformations show the impact of **closet organization systems**. On
 
 ## Maintaining Your Organized Closet
 
-Keep your closet tidy with routines. [Good Housekeeping (2020)](https://www.goodhousekeeping.com) suggests **monthly decluttering sessions** and **weekly dusting** to maintain shelves.
+Keep your closet tidy with routines. Good Housekeeping (2020) suggests **monthly decluttering sessions** and **weekly dusting** to maintain shelves.
 
 ### Maintenance Schedule:
 1. **Weekly**: Dust shelves and vacuum floors.

@@ -23,7 +23,7 @@ draft: false
 To **clean grout naturally with hydrogen peroxide and baking soda**, it's essential to understand the science behind these common household items. Hydrogen peroxide (H2O2) is a powerful oxidizing agent that breaks down into water and oxygen, lifting stains and whitening surfaces. According to a study published in the [Journal of Applied Microbiology](https://www.sciencedirect.com/journal/journal-of-applied-microbiology), **hydrogen peroxide efficacy against mold** is well-documented, making it an ideal choice for removing mold from grout.
 
 ## Why Hydrogen Peroxide and Baking Soda Work Better Than Vinegar
-The combination of hydrogen peroxide and baking soda offers a superior cleaning solution compared to vinegar. The **oxidation reaction** of hydrogen peroxide, coupled with the **abrasiveness of baking soda**, enhances scrubbing and stain removal. Furthermore, the pH levels of hydrogen peroxide and baking soda are more effective for mold removal than those of vinegar. A study by the [American Chemical Society](https://www.acs.org/) highlights the importance of pH levels in cleaning solutions.
+The combination of hydrogen peroxide and baking soda offers a superior cleaning solution compared to vinegar. The **oxidation reaction** of hydrogen peroxide, coupled with the **abrasiveness of baking soda**, enhances scrubbing and stain removal. Furthermore, the pH levels of hydrogen peroxide and baking soda are more effective for mold removal than those of vinegar. A study by the American Chemical Society highlights the importance of pH levels in cleaning solutions.
 
 ### Comparison of Cleaning Solutions
 | Solution | pH Level | Effectiveness Against Mold |
@@ -33,7 +33,7 @@ The combination of hydrogen peroxide and baking soda offers a superior cleaning 
 | Vinegar | 2.4 | Low |
 
 ## Exact Ratios and Mixing Method for Maximum Effectiveness
-To achieve the best results, mix **1 part 3% hydrogen peroxide with 2 parts baking soda**. This ratio provides an optimal balance between the oxidizing power of hydrogen peroxide and the abrasive properties of baking soda. When mixing, add the hydrogen peroxide slowly to the baking soda to avoid over-foaming. The resulting paste should have a **thick, consistent texture**. For more information on the chemistry behind this mixture, refer to the [American Chemical Society](https://www.acs.org/).
+To achieve the best results, mix **1 part 3% hydrogen peroxide with 2 parts baking soda**. This ratio provides an optimal balance between the oxidizing power of hydrogen peroxide and the abrasive properties of baking soda. When mixing, add the hydrogen peroxide slowly to the baking soda to avoid over-foaming. The resulting paste should have a **thick, consistent texture**. For more information on the chemistry behind this mixture, refer to the American Chemical Society.
 
 ## Pro Application Technique for Stubborn Stains
 For **stubborn stains**, use an old toothbrush to apply the paste directly to the grout. Let it sit for **10-15 minutes** to allow the hydrogen peroxide to penetrate and break down the stain. If the stain persists, reapply the paste and let it sit for an additional 10-15 minutes. When working with light-colored grout, avoid using colored hydrogen peroxide to prevent discoloration. The [Oatey 31113 Heavy Duty Grout Brush](https://www.amazon.com/Oatey-31113-Heavy-Duty-Grout-Brush) is a useful tool for applying the paste and scrubbing the grout.
@@ -42,11 +42,11 @@ For **stubborn stains**, use an old toothbrush to apply the paste directly to th
 When working with hydrogen peroxide and baking soda, it's crucial to take **safety precautions**. Never mix hydrogen peroxide with vinegar, as this creates **peracetic acid**, a potent and potentially harmful substance. Additionally, avoid mixing hydrogen peroxide with chlorine bleach, as this can produce **toxic fumes**. Always work in a well-ventilated area and wear **gloves** to protect your skin. The [CDC Household Chemical Safety Guidelines](https://www.cdc.gov/) provide more information on safe handling practices.
 
 ## Long-term Grout Maintenance After Cleaning
-After cleaning your grout, it's essential to **seal it** to prevent future stains and mold growth. Apply a grout sealer, such as [511 Impregnator](https://www.amazon.com/511-Impregnator-Sealer-16-Ounce), to protect the grout and make future cleaning easier. To prevent mold growth, spray a **diluted solution of hydrogen peroxide** (1 part hydrogen peroxide to 10 parts water) on the grout once a week. The [Tile Council of North America](https://www.tcnatile.com/) recommends regular maintenance to extend the life of your grout.
+After cleaning your grout, it's essential to **seal it** to prevent future stains and mold growth. Apply a grout sealer, such as [511 Impregnator](https://www.amazon.com/511-Impregnator-Sealer-16-Ounce), to protect the grout and make future cleaning easier. To prevent mold growth, spray a **diluted solution of hydrogen peroxide** (1 part hydrogen peroxide to 10 parts water) on the grout once a week. The Tile Council of North America recommends regular maintenance to extend the life of your grout.
 
 ## Frequently Asked Questions
 ### How often should I clean my grout?
-Cleaning your grout depends on the amount of foot traffic and moisture in the area. As a general rule, clean your grout every **3-6 months**. For high-traffic areas, consider cleaning every **1-2 months**. According to the [National Kitchen and Bath Association](https://www.nkba.org/), regular cleaning can help prevent the growth of mold and mildew.
+Cleaning your grout depends on the amount of foot traffic and moisture in the area. As a general rule, clean your grout every **3-6 months**. For high-traffic areas, consider cleaning every **1-2 months**. According to the National Kitchen and Bath Association, regular cleaning can help prevent the growth of mold and mildew.
 
 ### Can I use hydrogen peroxide on colored grout?
 When working with **colored grout**, it's best to use a **colorless hydrogen peroxide** to avoid discoloration. If you're unsure about the safety of using hydrogen peroxide on your grout, test a small, inconspicuous area first.

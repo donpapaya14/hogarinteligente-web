@@ -22,10 +22,10 @@ draft: false
 The **Refrigerator Defrost Cycle Mistake** is a common issue that can lead to increased energy consumption and reduced appliance lifespan. According to [Energy Star](https://www.energystar.gov), a program of the U.S. Environmental Protection Agency, 2022, regular maintenance of the defrost cycle can save up to **$100** per year on energy bills.
 
 ## What is the Common Defrost Cycle Mistake?
-The defrost cycle works by periodically turning off the compressor and fan to allow the frost to melt. However, the most common mistake people make is not using the 'defrost' mode or not cleaning the condenser coils regularly. This can lead to a **25%** increase in energy consumption, as reported by [The Journal of Refrigeration](https://www.journalofrefrigeration.com), Vol. 35, Issue 3, 2018.
+The defrost cycle works by periodically turning off the compressor and fan to allow the frost to melt. However, the most common mistake people make is not using the 'defrost' mode or not cleaning the condenser coils regularly. This can lead to a **25%** increase in energy consumption, as reported by The Journal of Refrigeration, Vol. 35, Issue 3, 2018.
 
 ## Why is the Defrost Cycle Important?
-Maintaining the defrost cycle is crucial for the refrigerator's performance and **Energy Efficiency**. Neglecting it can lead to a **30%** decrease in the appliance's lifespan, according to [The Association of Home Appliance Manufacturers](https://www.aham.org), 2020.
+Maintaining the defrost cycle is crucial for the refrigerator's performance and **Energy Efficiency**. Neglecting it can lead to a **30%** decrease in the appliance's lifespan, according to The Association of Home Appliance Manufacturers, 2020.
 
 ## How to Fix the Defrost Cycle Mistake?
 To fix the defrost cycle mistake, follow these steps:
@@ -52,13 +52,13 @@ Common refrigerator models that are prone to the defrost cycle mistake include:
 
 ## Frequently Asked Questions
 ### What is the defrost cycle in a refrigerator?
-The defrost cycle is a process that periodically turns off the compressor and fan to allow the frost to melt, according to [The National Resources Defense Council](https://www.nrdc.org), 2019.
+The defrost cycle is a process that periodically turns off the compressor and fan to allow the frost to melt, according to The National Resources Defense Council, 2019.
 ### How often should I clean the condenser coils?
-Clean the condenser coils every **3-6 months** to maintain optimal performance, as recommended by [Consumer Reports](https://www.consumerreports.org), 2022.
+Clean the condenser coils every **3-6 months** to maintain optimal performance, as recommended by Consumer Reports, 2022.
 ### What are the consequences of neglecting the defrost cycle?
-Neglecting the defrost cycle can lead to a **30%** decrease in the appliance's lifespan and a **25%** increase in energy consumption, according to [The Journal of Refrigeration](https://www.journalofrefrigeration.com), Vol. 35, Issue 3, 2018.
+Neglecting the defrost cycle can lead to a **30%** decrease in the appliance's lifespan and a **25%** increase in energy consumption, according to The Journal of Refrigeration, Vol. 35, Issue 3, 2018.
 ### Can I fix the defrost cycle mistake myself?
-Yes, you can fix the defrost cycle mistake yourself by following the steps outlined in this article, according to [The Association of Home Appliance Manufacturers](https://www.aham.org), 2020.
+Yes, you can fix the defrost cycle mistake yourself by following the steps outlined in this article, according to The Association of Home Appliance Manufacturers, 2020.
 ### What are the benefits of using a refrigerator with an automatic defrost feature?
 The benefits of using a refrigerator with an automatic defrost feature include reduced energy consumption and increased appliance lifespan, according to [Energy Star](https://www.energystar.gov), 2022.
 ### How much can I save by fixing the defrost cycle mistake?

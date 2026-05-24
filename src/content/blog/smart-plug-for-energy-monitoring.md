@@ -22,7 +22,7 @@ draft: false
 A **smart plug energy monitoring** system can help you reduce your electricity bill by up to **23%**, according to the [U.S. Department of Energy](https://www.energy.gov), 2020. Smart plugs are devices that can be plugged into a wall outlet and then have a device, such as a lamp or television, plugged into them. They can be controlled remotely using a smartphone app and can also track and report energy usage.
 
 ## How Smart Plugs Monitor Energy
-Smart plugs use **advanced sensors** to track and report energy usage in real-time, as stated in the [IEEE Journal of Smart Grid](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5165411), 2019. They can also provide **detailed analytics** on energy consumption patterns, allowing users to identify areas where they can reduce their energy usage.
+Smart plugs use **advanced sensors** to track and report energy usage in real-time, as stated in the IEEE Journal of Smart Grid, 2019. They can also provide **detailed analytics** on energy consumption patterns, allowing users to identify areas where they can reduce their energy usage.
 
 ### Technical Details
 The technical details of how smart plugs monitor energy are as follows:
@@ -31,7 +31,7 @@ The technical details of how smart plugs monitor energy are as follows:
 * They can provide **real-time energy usage data**, allowing users to monitor their energy consumption and make adjustments as needed.
 
 ## Top 3 Smart Plugs for Under $30
-Here are the top 3 smart plugs for under $30, based on features, pricing, and customer reviews from [Consumer Reports](https://www.consumerreports.org/), 2022:
+Here are the top 3 smart plugs for under $30, based on features, pricing, and customer reviews from Consumer Reports, 2022:
 | Smart Plug | Price | Features |
 | --- | --- | --- |
 | TP-Link Smart Plug | $25 | Wi-Fi, energy monitoring, scheduling |
@@ -58,13 +58,13 @@ The use of smart plugs for energy monitoring is just one part of the broader con
 
 ## Frequently Asked Questions
 ### What is the average cost of a smart plug?
-The average cost of a smart plug is around **$25**, according to [Consumer Reports](https://www.consumerreports.org/), 2022. However, prices can vary depending on the brand and features.
+The average cost of a smart plug is around **$25**, according to Consumer Reports, 2022. However, prices can vary depending on the brand and features.
 ### How do smart plugs work?
-Smart plugs use **advanced sensors** to track and report energy usage in real-time, as stated in the [IEEE Journal of Smart Grid](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5165411), 2019.
+Smart plugs use **advanced sensors** to track and report energy usage in real-time, as stated in the IEEE Journal of Smart Grid, 2019.
 ### Can smart plugs be used with any device?
 Most smart plugs can be used with any device that plugs into a standard wall outlet, including lamps, televisions, and computers. However, it's always a good idea to check the compatibility of the device with the smart plug before purchasing.
 ### How do I install a smart plug?
-Installing a smart plug is a straightforward process that can be completed in a few steps, as outlined in the [Smart Plug User Manual](https://www.tp-link.com/us/support/), 2021.
+Installing a smart plug is a straightforward process that can be completed in a few steps, as outlined in the Smart Plug User Manual, 2021.
 ### Can smart plugs help me save money on my energy bill?
 Yes, smart plugs can help you save money on your energy bill by providing you with detailed analytics on your energy usage and allowing you to make adjustments to reduce your consumption.
 ### Are smart plugs secure?

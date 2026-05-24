@@ -53,7 +53,7 @@ In conclusion, **laser window cleaners** are a game-changer in the world of wind
 ### What is the best way to clean windows?
 The best way to clean windows is by using a **laser window cleaner**, which offers a more efficient and streak-free alternative to traditional methods. According to [World Health Organization](https://www.who.int), clean windows can improve mental health and wellbeing.
 ### How often should I clean my windows?
-You should clean your windows at least **once a month** to maintain their appearance and prevent dirt and grime from building up. As reported by [Mayo Clinic](https://www.mayoclinic.org), regular cleaning can also help reduce the risk of respiratory problems.
+You should clean your windows at least **once a month** to maintain their appearance and prevent dirt and grime from building up. As reported by Mayo Clinic, regular cleaning can also help reduce the risk of respiratory problems.
 ### What are the benefits of using a laser window cleaner?
 The benefits of using a **laser window cleaner** include increased efficiency, effectiveness, and streak-free results. According to [University of California, Berkeley](https://www.berkeley.edu), laser window cleaners can also reduce cleaning time by up to **30%**.
 ### Can I use a laser window cleaner on any type of window?

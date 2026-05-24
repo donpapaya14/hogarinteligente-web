@@ -134,3 +134,9 @@ As someone who’s tripped on my own stairs at 3 AM more times than I’d like t
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@EspacioInteligente).*
+
+## 📚 Continue reading
+
+- [smart air vent cover to regulate room heat](/blog/smart-air-vent-cover-to-regulate-room-heat)
+- [Smart Home Devices Under 30 for Home Automation](/blog/smart-home-devices-under-30-for-home-automation)
+- [Smart Outlet Timer for Christmas Lights](/blog/smart-outlet-timer-for-christmas-lights)

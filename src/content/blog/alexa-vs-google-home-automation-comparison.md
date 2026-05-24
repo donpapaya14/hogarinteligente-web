@@ -105,3 +105,9 @@ Here are some concrete actions you can take to get started with **Alexa** or **G
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@EspacioInteligente).*
+
+## 📚 Continue reading
+
+- [Smart Home Automation Hubs](/blog/smart-home-automation-hubs)
+- [Best Smart Plugs for Energy Monitoring](/blog/best-smart-plugs-for-energy-monitoring)
+- [Smart Plug Hacks for Energy Efficiency](/blog/smart-plug-hacks-for-energy-efficiency)

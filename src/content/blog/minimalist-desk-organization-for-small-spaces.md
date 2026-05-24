@@ -89,3 +89,9 @@ To create a **minimalist desk organization** system for **small spaces**, follow
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@EspacioInteligente).*
+
+## 📚 Continue reading
+
+- [Best Amazon Closet Shelf Dividers](/blog/best-amazon-closet-shelf-dividers-2026-05-19)
+- [Minimalist Desk Organization](/blog/minimalist-desk-organization)
+- [under-bed storage system with Amazon organizers](/blog/under-bed-storage-system-with-amazon-organizers)

@@ -105,3 +105,9 @@ Now, I coach my team to **‘tray test’ new hires**: if their essentials overf
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@EspacioInteligente).*
+
+## 📚 Continue reading
+
+- [Minimalist Entryway Organization with Baskets and Shelves](/blog/minimalist-entryway-organization-with-baskets-and-shelves)
+- [Best Amazon Kitchen Drawer Organizers with Prices](/blog/best-amazon-kitchen-drawer-organizers-with-prices)
+- [Reducing Pantry Food Waste with First-In-First-Out Storage](/blog/reducing-pantry-food-waste-with-first-in-first-out-storage)

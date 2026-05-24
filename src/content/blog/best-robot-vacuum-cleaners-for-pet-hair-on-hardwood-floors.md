@@ -110,3 +110,9 @@ Overall, I highly recommend investing in a robot vacuum, especially if you're a 
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@EspacioInteligente).*
+
+## 📚 Continue reading
+
+- [how to clean grout with hydrogen peroxide and baking soda](/blog/how-to-clean-grout-with-hydrogen-peroxide-and-baking-soda)
+- [Winbot Window Cleaning Robot](/blog/winbot-window-cleaning-robot)
+- [Best robot vacuums under $200 with real suction power tests](/blog/best-robot-vacuums-under-200-with-real-suction-power-tests)

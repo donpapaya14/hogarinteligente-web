@@ -85,3 +85,9 @@ To stay safe and healthy while cleaning, follow these concrete action bullets:
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@EspacioInteligente).*
+
+## 📚 Continue reading
+
+- [Centrifugal Spin Mop](/blog/centrifugal-spin-mop)
+- [Elevator Mop Head Sanitizing Wipes](/blog/elevator-mop-head-sanitizing-wipes)
+- [how to clean grout with hydrogen peroxide and baking soda](/blog/how-to-clean-grout-with-hydrogen-peroxide-and-baking-soda)

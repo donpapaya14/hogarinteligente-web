@@ -98,3 +98,9 @@ Overall, I highly recommend using a spiralizer for zucchini noodles and other ve
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@EspacioInteligente-q2q).*
+
+## 📚 Continue reading
+
+- [Best Spice Grinders for Small Kitchens](/blog/best-spice-grinders-for-small-kitchens)
+- [best immersion blenders for smooth soups 2024](/blog/best-immersion-blenders-for-smooth-soups-2024)
+- [Instant Pot Duo Crisp Review](/blog/instant-pot-duo-crisp-review)

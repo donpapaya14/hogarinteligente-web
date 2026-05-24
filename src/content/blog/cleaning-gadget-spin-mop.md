@@ -116,3 +116,9 @@ Pro tip: Keep an extra mop head soaked in disinfectant for spills. It’s saved 
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@EspacioInteligente).*
+
+## 📚 Continue reading
+
+- [Best robot vacuums under $200 with real suction power tests](/blog/best-robot-vacuums-under-200-with-real-suction-power-tests)
+- [Centrifugal Spin Mop](/blog/centrifugal-spin-mop)
+- [Winbot Window Cleaning Robot](/blog/winbot-window-cleaning-robot)

@@ -98,3 +98,9 @@ Here are some practical steps to follow:
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@EspacioInteligente).*
+
+## 📚 Continue reading
+
+- [smart thermostat settings for maximum savings in winter](/blog/smart-thermostat-settings-for-maximum-savings-in-winter)
+- [best smart plugs for energy monitoring with real-time data](/blog/best-smart-plugs-for-energy-monitoring-with-real-time-data)
+- [smart air vent cover to regulate room heat](/blog/smart-air-vent-cover-to-regulate-room-heat)

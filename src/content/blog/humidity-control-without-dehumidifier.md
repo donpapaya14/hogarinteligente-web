@@ -106,3 +106,9 @@ Here are some concrete steps to control humidity without a dehumidifier:
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@EspacioInteligente).*
+
+## 📚 Continue reading
+
+- [Solar Panel Cost and Savings Analysis](/blog/solar-panel-cost-and-savings-analysis)
+- [LED Bulb Replacement Savings](/blog/led-bulb-replacement-savings)
+- [Fixing Dishwasher Mistake](/blog/fixing-dishwasher-mistake)

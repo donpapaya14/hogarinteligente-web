@@ -97,3 +97,9 @@ Here are some concrete action bullets to take away:
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@EspacioInteligente).*
+
+## 📚 Continue reading
+
+- [dishwasher salt mistake that damages appliance](/blog/dishwasher-salt-mistake-that-damages-appliance-2026-05-24)
+- [Spiralizer for Zucchini Noodles](/blog/spiralizer-for-zucchini-noodles)
+- [Best Graters for Hard Cheese](/blog/best-graters-for-hard-cheese)

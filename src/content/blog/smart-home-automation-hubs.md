@@ -115,3 +115,9 @@ As an app developer, I’ve tested every major **smart home automation hub** for
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@EspacioInteligente).*
+
+## 📚 Continue reading
+
+- [Smart Thermostat Savings and Top Picks](/blog/smart-thermostat-savings-and-top-picks)
+- [Smart Home Devices Under 30 for Home Automation](/blog/smart-home-devices-under-30-for-home-automation)
+- [Alexa vs Google Home for multi-room audio in 2024](/blog/alexa-vs-google-home-for-multi-room-audio-in-2024)

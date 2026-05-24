@@ -91,3 +91,9 @@ Here are some concrete actions you can take to protect your home from water dama
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@EspacioInteligente).*
+
+## 📚 Continue reading
+
+- [Smart Home Devices Under 30 for Home Automation](/blog/smart-home-devices-under-30-for-home-automation)
+- [smart air vent cover to regulate room heat](/blog/smart-air-vent-cover-to-regulate-room-heat)
+- [Best Smart Plugs Compatible with Google Home and Alexa](/blog/best-smart-plugs-compatible-with-google-home-and-alexa)

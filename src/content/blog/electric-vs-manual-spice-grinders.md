@@ -112,3 +112,9 @@ As a professional chef and app developer, I have had the opportunity to try out 
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@EspacioInteligente).*
+
+## 📚 Continue reading
+
+- [Kitchen Cart Organization](/blog/kitchen-cart-organization)
+- [best immersion blenders for soups and sauces](/blog/best-immersion-blenders-for-soups-and-sauces)
+- [Instant Pot Duo Crisp Review](/blog/instant-pot-duo-crisp-review)

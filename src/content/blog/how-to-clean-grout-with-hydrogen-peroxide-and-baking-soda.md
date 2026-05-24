@@ -91,3 +91,9 @@ In my kitchen, I use a **grout brush** to apply the paste and scrub the grout. I
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@EspacioInteligente).*
+
+## 📚 Continue reading
+
+- [Baking Soda Natural Disinfectant](/blog/baking-soda-natural-disinfectant)
+- [Natural Cleaning Solutions with Baking Soda and Hydrogen Peroxide](/blog/natural-cleaning-solutions-with-baking-soda-and-hydrogen-peroxide)
+- [Best Robot Vacuum Cleaners for Pet Hair on Hardwood Floors](/blog/best-robot-vacuum-cleaners-for-pet-hair-on-hardwood-floors)

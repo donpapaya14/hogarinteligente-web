@@ -91,3 +91,9 @@ Here are some concrete action bullets to help you get started with using an imme
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@EspacioInteligente).*
+
+## 📚 Continue reading
+
+- [Instant Pot Duo Crisp Review](/blog/instant-pot-duo-crisp-review)
+- [dishwasher salt mistake that damages appliance](/blog/dishwasher-salt-mistake-that-damages-appliance-2026-05-24)
+- [Best Graters for Hard Cheese](/blog/best-graters-for-hard-cheese)

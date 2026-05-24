@@ -92,3 +92,9 @@ Here are some concrete steps you can take to start saving energy with a smart th
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@EspacioInteligente).*
+
+## 📚 Continue reading
+
+- [Smart Plugs vs Bulbs vs Cameras: Best for Home Security 2024](/blog/smart-plugs-vs-bulbs-vs-cameras-best-for-home-security-2024)
+- [Smart Home Devices Under 30 for Home Automation](/blog/smart-home-devices-under-30-for-home-automation)
+- [Motion-sensing Nightlight for Stairs](/blog/motion-sensing-nightlight-for-stairs)

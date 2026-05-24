@@ -123,3 +123,9 @@ One tip: **Layer flavors** by sautéing onions/garlic in the pot before pressure
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@EspacioInteligente).*
+
+## 📚 Continue reading
+
+- [Best Pastry Dough Rolling Tools](/blog/best-pastry-dough-rolling-tools)
+- [Best Stand Mixers for Whipping Cream](/blog/best-stand-mixers-for-whipping-cream)
+- [Spiralizer for Zucchini Noodles](/blog/spiralizer-for-zucchini-noodles)

@@ -95,3 +95,9 @@ Here are some concrete actions you can take to optimize your temperature setting
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@EspacioInteligente).*
+
+## 📚 Continue reading
+
+- [8 Home Hacks That Actually Cut Your Electricity Bill (With Real Numbers)](/blog/home-hacks-cut-electricity-bill)
+- [Humidity control without a dehumidifier](/blog/humidity-control-without-a-dehumidifier)
+- [Optimal Thermostat Temperature Settings for Energy Efficiency](/blog/optimal-thermostat-temperature-settings-for-energy-efficiency)

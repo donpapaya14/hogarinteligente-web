@@ -87,3 +87,9 @@ Here are some concrete actions you can take to start cooking frozen vegetables w
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@EspacioInteligente).*
+
+## 📚 Continue reading
+
+- [Best Spice Grinders for Small Kitchens](/blog/best-spice-grinders-for-small-kitchens)
+- [Optimize Kitchen Countertops](/blog/optimize-kitchen-countertops)
+- [dishwasher salt mistake that damages appliance](/blog/dishwasher-salt-mistake-that-damages-appliance-2026-05-24)

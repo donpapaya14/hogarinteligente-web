@@ -87,3 +87,9 @@ Here are some concrete actions you can take to start using natural disinfectant 
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@EspacioInteligente).*
+
+## 📚 Continue reading
+
+- [Natural Cleaning Solutions with Baking Soda and Hydrogen Peroxide](/blog/natural-cleaning-solutions-with-baking-soda-and-hydrogen-peroxide)
+- [Dyson V11 Vacuum Filter Cleaning](/blog/dyson-v11-vacuum-filter-cleaning)
+- [Baking Soda Natural Disinfectant](/blog/baking-soda-natural-disinfectant)

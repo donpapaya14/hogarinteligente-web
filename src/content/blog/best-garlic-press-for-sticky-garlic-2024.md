@@ -86,3 +86,9 @@ Here are some concrete action bullets to take away:
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@EspacioInteligente).*
+
+## 📚 Continue reading
+
+- [Electric Griddle vs Skillet vs Grill Pan](/blog/electric-griddle-vs-skillet-vs-grill-pan)
+- [Best Spice Grinders for Small Kitchens](/blog/best-spice-grinders-for-small-kitchens)
+- [Best Pastry Dough Rolling Tools](/blog/best-pastry-dough-rolling-tools)

@@ -113,3 +113,9 @@ One pro tip: Mark your calendar for filter cleaning. It’s easy to forget, but 
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@EspacioInteligente).*
+
+## 📚 Continue reading
+
+- [Baking Soda Natural Disinfectant](/blog/baking-soda-natural-disinfectant)
+- [Winbot Window Cleaning Robot](/blog/winbot-window-cleaning-robot)
+- [Remove Limescale with Vinegar](/blog/remove-limescale-with-vinegar)

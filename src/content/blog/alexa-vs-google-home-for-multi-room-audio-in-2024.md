@@ -112,3 +112,9 @@ Here are some concrete steps you can take to set up a **multi-room audio system*
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@EspacioInteligente).*
+
+## 📚 Continue reading
+
+- [Best Smart Plugs for Energy Monitoring](/blog/best-smart-plugs-for-energy-monitoring)
+- [Smart Thermostat Savings Guide](/blog/smart-thermostat-savings-guide)
+- [Alexa vs Google Home](/blog/alexa-vs-google-home)

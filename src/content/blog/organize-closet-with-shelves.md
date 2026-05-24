@@ -115,3 +115,9 @@ As Vladys Z., an app developer and professional chef, I’ve learned that **orga
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@EspacioInteligente).*
+
+## 📚 Continue reading
+
+- [Minimalist Desk Organization](/blog/minimalist-desk-organization)
+- [Garage Storage Solutions](/blog/garage-storage-solutions)
+- [Reducing Pantry Food Waste with First-In-First-Out Storage](/blog/reducing-pantry-food-waste-with-first-in-first-out-storage)

@@ -132,3 +132,9 @@ The game-changer? **Labeling everything**. When my partner and I started using c
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@EspacioInteligente).*
+
+## 📚 Continue reading
+
+- [Minimalist Desk Organization for Small Spaces](/blog/minimalist-desk-organization-for-small-spaces)
+- [Bathroom Countertop Organization with Amazon](/blog/bathroom-countertop-organization-with-amazon)
+- [Pantry organization system to reduce food waste](/blog/pantry-organization-system-to-reduce-food-waste)

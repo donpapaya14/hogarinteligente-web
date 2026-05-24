@@ -99,3 +99,9 @@ Here are some concrete actions you can take to optimize your energy usage:
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@EspacioInteligente).*
+
+## 📚 Continue reading
+
+- [Smart Home Devices Under 30 for Home Automation](/blog/smart-home-devices-under-30-for-home-automation)
+- [smart blinds for water leak detection](/blog/smart-blinds-for-water-leak-detection)
+- [Smart Plug for Energy Monitoring](/blog/smart-plug-for-energy-monitoring)

@@ -99,3 +99,9 @@ Here are some concrete action bullets to help you get started:
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@EspacioInteligente).*
+
+## 📚 Continue reading
+
+- [Garage Storage Solutions](/blog/garage-storage-solutions)
+- [Minimalist Closet Organizer System with Shelf Dividers](/blog/minimalist-closet-organizer-system-with-shelf-dividers)
+- [Tiny Home Office Organization with Shelves and Drawers](/blog/tiny-home-office-organization-with-shelves-and-drawers)

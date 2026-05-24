@@ -118,3 +118,9 @@ At home, I’ve switched to microfiber cloths + hot water for 90% of cleaning. F
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@EspacioInteligente).*
+
+## 📚 Continue reading
+
+- [how to clean grout with hydrogen peroxide and baking soda](/blog/how-to-clean-grout-with-hydrogen-peroxide-and-baking-soda)
+- [Dangers of Mixing Hydrogen Peroxide and Baking Soda](/blog/dangers-of-mixing-hydrogen-peroxide-and-baking-soda)
+- [Natural Disinfectant Sprays with Vinegar and Tea Tree Oil](/blog/natural-disinfectant-sprays-with-vinegar-and-tea-tree-oil)

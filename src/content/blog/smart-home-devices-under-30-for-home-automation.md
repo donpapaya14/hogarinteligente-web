@@ -103,3 +103,9 @@ Here are some concrete action bullets to get you started:
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@EspacioInteligente).*
+
+## 📚 Continue reading
+
+- [Smart Plug Hacks for Energy Efficiency](/blog/smart-plug-hacks-for-energy-efficiency)
+- [Smart Thermostat Savings Guide](/blog/smart-thermostat-savings-guide)
+- [Smart Plug for Energy Monitoring](/blog/smart-plug-for-energy-monitoring)

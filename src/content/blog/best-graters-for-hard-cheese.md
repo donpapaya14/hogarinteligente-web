@@ -84,3 +84,9 @@ Here are some concrete action bullets to take away:
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@EspacioInteligente).*
+
+## 📚 Continue reading
+
+- [Spiralizer for Zucchini Noodles](/blog/spiralizer-for-zucchini-noodles)
+- [Best Spice Grinders for Small Kitchens](/blog/best-spice-grinders-for-small-kitchens)
+- [Electric Griddle vs Skillet vs Grill Pan](/blog/electric-griddle-vs-skillet-vs-grill-pan)

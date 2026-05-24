@@ -93,3 +93,9 @@ Here are some concrete action bullets to reduce energy consumption when using a 
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@EspacioInteligente).*
+
+## 📚 Continue reading
+
+- [Passive Dehumidification Methods](/blog/passive-dehumidification-methods)
+- [Solar Panel Payback Period](/blog/solar-panel-payback-period)
+- [Reduce Electricity Bills with Power Strips and Timers](/blog/reduce-electricity-bills-with-power-strips-and-timers)

@@ -99,3 +99,9 @@ In my experience, the key to a well-organized space is finding the right balance
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@EspacioInteligente).*
+
+## 📚 Continue reading
+
+- [Organize Closet with Shelves](/blog/organize-closet-with-shelves)
+- [under-bed storage system with Amazon organizers](/blog/under-bed-storage-system-with-amazon-organizers)
+- [Minimalist Desk Organization](/blog/minimalist-desk-organization)

@@ -108,3 +108,9 @@ Here are some concrete action bullets to get you started with smart plugs:
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@EspacioInteligente).*
+
+## 📚 Continue reading
+
+- [Best Smart Plugs for Energy Monitoring](/blog/best-smart-plugs-for-energy-monitoring)
+- [Smart Home Automation Hubs](/blog/smart-home-automation-hubs)
+- [smart thermostat settings for maximum savings in winter](/blog/smart-thermostat-settings-for-maximum-savings-in-winter)

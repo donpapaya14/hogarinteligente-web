@@ -91,3 +91,9 @@ To achieve optimal central heating temperatures and energy savings, follow these
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@EspacioInteligente).*
+
+## 📚 Continue reading
+
+- [Solar Panel Cost and Savings Analysis](/blog/solar-panel-cost-and-savings-analysis)
+- [Washing Machine Cold Cycle](/blog/washing-machine-cold-cycle)
+- [Optimal Temperature Setting for Energy Savings](/blog/optimal-temperature-setting-for-energy-savings)

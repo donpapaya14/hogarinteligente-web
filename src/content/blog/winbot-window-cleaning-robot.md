@@ -137,3 +137,9 @@ One pro tip: **pre-clean heavily soiled windows** with a vinegar solution (1:4 r
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@EspacioInteligente).*
+
+## 📚 Continue reading
+
+- [best grout cleaning products with real results](/blog/best-grout-cleaning-products-with-real-results)
+- [Natural Cleaning Solutions with Baking Soda and Hydrogen Peroxide](/blog/natural-cleaning-solutions-with-baking-soda-and-hydrogen-peroxide)
+- [Natural Disinfectant Sprays with Vinegar and Tea Tree Oil](/blog/natural-disinfectant-sprays-with-vinegar-and-tea-tree-oil)

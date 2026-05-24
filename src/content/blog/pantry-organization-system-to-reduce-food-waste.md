@@ -96,3 +96,9 @@ Here are some concrete actions you can take to reduce food waste through pantry 
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@EspacioInteligente).*
+
+## 📚 Continue reading
+
+- [Organize Closet with Shelves](/blog/organize-closet-with-shelves)
+- [Tiny Home Office Organization with Shelves and Drawers](/blog/tiny-home-office-organization-with-shelves-and-drawers)
+- [Best Amazon Closet Shelf Dividers](/blog/best-amazon-closet-shelf-dividers-2026-05-19)

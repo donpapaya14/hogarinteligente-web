@@ -136,3 +136,9 @@ Here are 8 concrete action bullets to help you achieve fluffy whipped cream with
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@EspacioInteligente).*
+
+## 📚 Continue reading
+
+- [Spiralizer for Zucchini Noodles](/blog/spiralizer-for-zucchini-noodles)
+- [Instant Pot Duo Crisp Review](/blog/instant-pot-duo-crisp-review)
+- [best immersion blenders for soups and sauces](/blog/best-immersion-blenders-for-soups-and-sauces)

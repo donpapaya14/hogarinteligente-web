@@ -92,3 +92,9 @@ Here are the key takeaways to optimize your smart thermostat settings for maximu
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@EspacioInteligente).*
+
+## 📚 Continue reading
+
+- [Smart Home Automation Hubs](/blog/smart-home-automation-hubs)
+- [Smart Plugs vs Bulbs vs Cameras: Best for Home Security 2024](/blog/smart-plugs-vs-bulbs-vs-cameras-best-for-home-security-2024)
+- [Best Smart Plugs Compatible with Google Home and Alexa](/blog/best-smart-plugs-compatible-with-google-home-and-alexa)

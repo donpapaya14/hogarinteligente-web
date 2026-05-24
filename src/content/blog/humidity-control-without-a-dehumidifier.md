@@ -88,3 +88,9 @@ Here are some concrete actions you can take to control humidity without a dehumi
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@EspacioInteligente).*
+
+## 📚 Continue reading
+
+- [Solar Panel Installation Costs](/blog/solar-panel-installation-costs)
+- [Solar Panel Cost Savings](/blog/solar-panel-cost-savings-2026-05-11)
+- [Passive Dehumidification Methods](/blog/passive-dehumidification-methods)

@@ -135,3 +135,9 @@ If you're interested in purchasing a smart air vent cover, I recommend checking 
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@EspacioInteligente).*
+
+## 📚 Continue reading
+
+- [Alexa vs Google Home](/blog/alexa-vs-google-home)
+- [best smart plugs for energy monitoring with real-time data](/blog/best-smart-plugs-for-energy-monitoring-with-real-time-data)
+- [Alexa vs Google Home Automation Comparison](/blog/alexa-vs-google-home-automation-comparison)

@@ -128,3 +128,9 @@ Modern phone chargers draw 0.1-0.5W when plugged in but not charging. Unplugging
 - **Cold water washing** — saves $60/year, works just as well with modern detergents
 - **Air dry dishes** — open dishwasher after cycle, skip heated dry setting
 - **Seal air leaks** around doors and windows — biggest impact per dollar spent
+
+## 📚 Continue reading
+
+- [Optimal Temperature Setting for Energy Savings](/blog/optimal-temperature-setting-for-energy-savings)
+- [Passive Dehumidification Methods](/blog/passive-dehumidification-methods)
+- [Humidity Control Without Dehumidifier](/blog/humidity-control-without-dehumidifier)

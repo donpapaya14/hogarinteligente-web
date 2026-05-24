@@ -129,3 +129,9 @@ Pro tip: Take photos of your organized pantry after each refresh. When things ge
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@EspacioInteligente).*
+
+## 📚 Continue reading
+
+- [minimalist under-sink organization with clear bins](/blog/minimalist-under-sink-organization-with-clear-bins)
+- [Best Amazon Closet Shelf Dividers](/blog/best-amazon-closet-shelf-dividers)
+- [under-bed storage system with Amazon organizers](/blog/under-bed-storage-system-with-amazon-organizers)

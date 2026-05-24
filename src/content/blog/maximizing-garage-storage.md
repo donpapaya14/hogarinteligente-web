@@ -83,3 +83,9 @@ To maximize garage storage, follow these steps:
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@EspacioInteligente).*
+
+## 📚 Continue reading
+
+- [Minimalist Desk Organization for Small Spaces](/blog/minimalist-desk-organization-for-small-spaces)
+- [under-bed storage system with Amazon organizers](/blog/under-bed-storage-system-with-amazon-organizers)
+- [Tiny Home Office Organization with Shelves and Drawers](/blog/tiny-home-office-organization-with-shelves-and-drawers)

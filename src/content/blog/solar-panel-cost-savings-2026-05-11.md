@@ -114,3 +114,9 @@ For urban dwellers, community solar programs (available in 40+ states) offer sav
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@EspacioInteligente).*
+
+## 📚 Continue reading
+
+- [Solar Panel Cost and Savings Analysis](/blog/solar-panel-cost-and-savings-analysis)
+- [Solar Panel Installation Costs](/blog/solar-panel-installation-costs)
+- [Fix Refrigerator Defrost Cycle Mistake](/blog/fix-refrigerator-defrost-cycle-mistake)

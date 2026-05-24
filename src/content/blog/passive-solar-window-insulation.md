@@ -100,3 +100,9 @@ For renters, **tension rods + blackout linens** are a game-changer. I’ve measu
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@EspacioInteligente).*
+
+## 📚 Continue reading
+
+- [Fixing Dishwasher Mistake](/blog/fixing-dishwasher-mistake)
+- [LED Bulb Replacement Savings](/blog/led-bulb-replacement-savings)
+- [Reduce Electricity Bills with Power Strips and Timers](/blog/reduce-electricity-bills-with-power-strips-and-timers)

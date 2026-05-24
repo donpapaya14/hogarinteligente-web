@@ -92,3 +92,9 @@ Overall, I am impressed by the **laser window cleaner** and its potential to rev
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@EspacioInteligente-q2q).*
+
+## 📚 Continue reading
+
+- [Cleaning Gadget: Spin Mop](/blog/cleaning-gadget-spin-mop)
+- [Homemade Oven Cleaner with Baking Soda and Vinegar](/blog/homemade-oven-cleaner-with-baking-soda-and-vinegar)
+- [Natural Cleaning Solutions with Baking Soda and Hydrogen Peroxide](/blog/natural-cleaning-solutions-with-baking-soda-and-hydrogen-peroxide)

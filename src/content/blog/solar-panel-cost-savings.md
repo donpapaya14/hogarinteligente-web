@@ -121,3 +121,9 @@ In my experience, the benefits of solar panels far outweigh the costs, and I wou
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@EspacioInteligente).*
+
+## 📚 Continue reading
+
+- [Passive Dehumidification Methods](/blog/passive-dehumidification-methods)
+- [Passive Solar Window Insulation](/blog/passive-solar-window-insulation)
+- [Ceiling fan direction for winter savings](/blog/ceiling-fan-direction-for-winter-savings)

@@ -94,3 +94,9 @@ Here are some concrete action bullets to get you started with smart door locks w
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@EspacioInteligente).*
+
+## 📚 Continue reading
+
+- [Best Smart Plugs for Energy Monitoring](/blog/best-smart-plugs-for-energy-monitoring)
+- [Smart Plugs vs Bulbs vs Cameras: Best for Home Security 2024](/blog/smart-plugs-vs-bulbs-vs-cameras-best-for-home-security-2024)
+- [smart blinds for water leak detection](/blog/smart-blinds-for-water-leak-detection)

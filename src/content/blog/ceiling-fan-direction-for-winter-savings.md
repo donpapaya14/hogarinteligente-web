@@ -90,3 +90,9 @@ As an app developer and professional chef, I have always been interested in find
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@EspacioInteligente).*
+
+## 📚 Continue reading
+
+- [Optimal Temperature Setting for Energy Savings](/blog/optimal-temperature-setting-for-energy-savings)
+- [Optimal Central Heating Temperature for Energy Savings](/blog/optimal-central-heating-temperature-for-energy-savings)
+- [Solar Panel Cost Savings](/blog/solar-panel-cost-savings-2026-05-11)

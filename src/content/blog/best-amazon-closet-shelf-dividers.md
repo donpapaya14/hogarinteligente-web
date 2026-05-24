@@ -89,3 +89,9 @@ Here are 6 concrete action bullets to help you get started with **closet shelf d
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@EspacioInteligente).*
+
+## 📚 Continue reading
+
+- [Tiny Home Office Organization with Shelves and Drawers](/blog/tiny-home-office-organization-with-shelves-and-drawers)
+- [Best Amazon Organizers for Kitchen, Bathroom, and Closet](/blog/best-amazon-organizers-for-kitchen-bathroom-and-closet)
+- [under-bed storage system with Amazon organizers](/blog/under-bed-storage-system-with-amazon-organizers)

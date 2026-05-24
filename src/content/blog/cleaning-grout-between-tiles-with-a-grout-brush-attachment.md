@@ -104,3 +104,9 @@ Here are some concrete action bullets to summarize the article:
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@EspacioInteligente).*
+
+## 📚 Continue reading
+
+- [Best Robot Vacuum Cleaners for Pet Hair on Hardwood Floors](/blog/best-robot-vacuum-cleaners-for-pet-hair-on-hardwood-floors)
+- [Bleach and Ammonia Danger](/blog/bleach-and-ammonia-danger)
+- [Centrifugal Spin Mop](/blog/centrifugal-spin-mop)

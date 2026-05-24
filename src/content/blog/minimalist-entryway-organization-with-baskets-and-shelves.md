@@ -111,3 +111,9 @@ Here are some concrete action bullets to help you get started:
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@EspacioInteligente).*
+
+## 📚 Continue reading
+
+- [Best Amazon Kitchen Drawer Organizers with Prices](/blog/best-amazon-kitchen-drawer-organizers-with-prices)
+- [minimalist under-sink organization with clear bins](/blog/minimalist-under-sink-organization-with-clear-bins)
+- [Best Amazon Organizers for Kitchen, Bathroom, and Closet](/blog/best-amazon-organizers-for-kitchen-bathroom-and-closet)

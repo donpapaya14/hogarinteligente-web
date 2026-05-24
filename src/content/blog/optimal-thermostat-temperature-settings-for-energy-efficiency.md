@@ -102,3 +102,9 @@ Here are some concrete action bullets to help you optimize your thermostat tempe
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@EspacioInteligente).*
+
+## 📚 Continue reading
+
+- [Washing Machine Mistake](/blog/washing-machine-mistake)
+- [Humidity control without a dehumidifier](/blog/humidity-control-without-a-dehumidifier)
+- [LED Bulb Replacement Savings](/blog/led-bulb-replacement-savings)

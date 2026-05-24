@@ -96,3 +96,9 @@ Here are some practical steps to get started with a smart plug:
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@EspacioInteligente).*
+
+## 📚 Continue reading
+
+- [Alexa vs Google Home Automation Comparison](/blog/alexa-vs-google-home-automation-comparison)
+- [Smart Thermostat Savings and Top Picks](/blog/smart-thermostat-savings-and-top-picks)
+- [Smart Plugs vs Bulbs vs Cameras: Best for Home Security 2024](/blog/smart-plugs-vs-bulbs-vs-cameras-best-for-home-security-2024)

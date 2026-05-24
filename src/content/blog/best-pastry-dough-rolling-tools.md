@@ -90,3 +90,9 @@ Here are some concrete actions you can take to improve your pastry dough rolling
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@EspacioInteligente).*
+
+## 📚 Continue reading
+
+- [Electric vs Manual Spice Grinders](/blog/electric-vs-manual-spice-grinders)
+- [dishwasher salt mistake that damages appliance](/blog/dishwasher-salt-mistake-that-damages-appliance)
+- [Best knife sharpeners for cooks with arthritis](/blog/best-knife-sharpeners-for-cooks-with-arthritis)

@@ -94,3 +94,9 @@ Here are some concrete action bullets to get you started:
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@EspacioInteligente).*
+
+## 📚 Continue reading
+
+- [Smart Home Automation Hubs](/blog/smart-home-automation-hubs)
+- [Smart Plug Hacks for Energy Efficiency](/blog/smart-plug-hacks-for-energy-efficiency)
+- [smart air vent cover to regulate room heat](/blog/smart-air-vent-cover-to-regulate-room-heat)

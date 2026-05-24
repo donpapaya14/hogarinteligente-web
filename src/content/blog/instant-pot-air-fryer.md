@@ -89,3 +89,9 @@ Here are some concrete actions you can take to get started with the Instant Pot 
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@EspacioInteligente).*
+
+## 📚 Continue reading
+
+- [Best knife sharpeners for cooks with arthritis](/blog/best-knife-sharpeners-for-cooks-with-arthritis)
+- [Optimize Kitchen Countertops](/blog/optimize-kitchen-countertops)
+- [Best Garlic Presses for Mincing](/blog/best-garlic-presses-for-mincing)

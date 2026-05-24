@@ -106,3 +106,9 @@ Here are some concrete actions you can take to start saving energy with a smart 
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@EspacioInteligente).*
+
+## 📚 Continue reading
+
+- [Smart Door Locks with Biometric Fingerprint Scanner](/blog/smart-door-locks-with-biometric-fingerprint-scanner)
+- [Motion-sensing Nightlight for Stairs](/blog/motion-sensing-nightlight-for-stairs)
+- [best smart plugs for energy monitoring with real-time data](/blog/best-smart-plugs-for-energy-monitoring-with-real-time-data)

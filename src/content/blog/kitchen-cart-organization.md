@@ -97,3 +97,9 @@ Here are 6 concrete action bullets to get you started:
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@EspacioInteligente).*
+
+## 📚 Continue reading
+
+- [Best Spice Grinders for Small Kitchens](/blog/best-spice-grinders-for-small-kitchens)
+- [Instant Pot Duo Crisp Review](/blog/instant-pot-duo-crisp-review)
+- [best garlic press for sticky garlic](/blog/best-garlic-press-for-sticky-garlic)

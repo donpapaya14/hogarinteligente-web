@@ -81,3 +81,9 @@ In conclusion, the choice between **Alexa** and **Google Home** depends on your 
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@EspacioInteligente-q2q).*
+
+## 📚 Continue reading
+
+- [smart plug energy monitoring with real usage data](/blog/smart-plug-energy-monitoring-with-real-usage-data)
+- [Smart Door Locks with Biometric Fingerprint Scanner](/blog/smart-door-locks-with-biometric-fingerprint-scanner)
+- [smart air vent cover to regulate room heat](/blog/smart-air-vent-cover-to-regulate-room-heat)

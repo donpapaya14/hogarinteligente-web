@@ -96,3 +96,9 @@ I recommend it to anyone looking for a high-quality knife sharpener that is easy
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@EspacioInteligente).*
+
+## 📚 Continue reading
+
+- [Electric Griddle vs Skillet vs Grill Pan](/blog/electric-griddle-vs-skillet-vs-grill-pan)
+- [Instant Pot vs Pressure Cooker for Cooking Frozen Veggies](/blog/instant-pot-vs-pressure-cooker-for-cooking-frozen-veggies)
+- [Best Pastry Dough Rolling Tools](/blog/best-pastry-dough-rolling-tools)

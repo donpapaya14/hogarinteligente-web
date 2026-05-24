@@ -85,3 +85,9 @@ To create a tiny home office that is organized and productive, follow these step
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@EspacioInteligente).*
+
+## 📚 Continue reading
+
+- [Garage Storage Solutions](/blog/garage-storage-solutions)
+- [Minimalist Entryway Organization with Baskets and Shelves](/blog/minimalist-entryway-organization-with-baskets-and-shelves)
+- [Best Amazon Closet Shelf Dividers](/blog/best-amazon-closet-shelf-dividers-2026-05-19)

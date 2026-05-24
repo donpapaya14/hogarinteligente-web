@@ -99,3 +99,9 @@ Here are 6 concrete action bullets to help you get started with **smart plug ene
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@EspacioInteligente).*
+
+## 📚 Continue reading
+
+- [Smart Door Locks with Biometric Fingerprint Scanner](/blog/smart-door-locks-with-biometric-fingerprint-scanner)
+- [smart air vent cover to regulate room heat](/blog/smart-air-vent-cover-to-regulate-room-heat)
+- [smart blinds for water leak detection](/blog/smart-blinds-for-water-leak-detection)

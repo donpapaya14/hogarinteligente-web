@@ -88,3 +88,9 @@ Here are some concrete action bullets to get you started with natural cleaning s
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@EspacioInteligente).*
+
+## 📚 Continue reading
+
+- [Cleaning Gadget: Spin Mop](/blog/cleaning-gadget-spin-mop)
+- [Best Robot Vacuum Cleaners for Pet Hair on Hardwood Floors](/blog/best-robot-vacuum-cleaners-for-pet-hair-on-hardwood-floors)
+- [Remove Limescale with Vinegar](/blog/remove-limescale-with-vinegar)

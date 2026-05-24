@@ -120,3 +120,9 @@ I also learned that **energy monitoring apps** (like SolarEdge) are crucial. Tra
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@EspacioInteligente).*
+
+## 📚 Continue reading
+
+- [Fix Refrigerator Defrost Cycle Mistake](/blog/fix-refrigerator-defrost-cycle-mistake)
+- [Reduce Electricity Bills with Power Strips and Timers](/blog/reduce-electricity-bills-with-power-strips-and-timers)
+- [Humidity Control Without Dehumidifier](/blog/humidity-control-without-dehumidifier)

@@ -98,3 +98,9 @@ Here are some concrete actions you can take to start using smart plugs for energ
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@EspacioInteligente).*
+
+## 📚 Continue reading
+
+- [smart air vent cover to regulate room heat](/blog/smart-air-vent-cover-to-regulate-room-heat)
+- [smart plug energy monitoring with real usage data](/blog/smart-plug-energy-monitoring-with-real-usage-data)
+- [Smart Plug Compatible with Google Home and Alexa](/blog/smart-plug-compatible-with-google-home-and-alexa)

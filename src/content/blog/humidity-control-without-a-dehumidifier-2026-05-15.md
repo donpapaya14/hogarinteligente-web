@@ -75,3 +75,9 @@ As an app developer and professional chef, I have always been interested in find
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@EspacioInteligente).*
+
+## 📚 Continue reading
+
+- [Humidity Control Without Dehumidifier](/blog/humidity-control-without-dehumidifier)
+- [Fix Refrigerator Defrost Cycle Mistake](/blog/fix-refrigerator-defrost-cycle-mistake)
+- [Solar Panel Installation Costs](/blog/solar-panel-installation-costs)

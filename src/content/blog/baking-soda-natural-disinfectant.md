@@ -99,3 +99,9 @@ In conclusion, baking soda is a versatile and effective **natural disinfectant**
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@EspacioInteligente).*
+
+## 📚 Continue reading
+
+- [Natural Disinfectants with Essential Oils vs Bleach](/blog/natural-disinfectants-with-essential-oils-vs-bleach)
+- [Cleaning Grout Between Tiles with a Grout Brush Attachment](/blog/cleaning-grout-between-tiles-with-a-grout-brush-attachment)
+- [Natural Disinfectant Sprays with Vinegar and Tea Tree Oil](/blog/natural-disinfectant-sprays-with-vinegar-and-tea-tree-oil)

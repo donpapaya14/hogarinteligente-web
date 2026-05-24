@@ -81,3 +81,9 @@ Here are some concrete actions you can take to promote a healthier office enviro
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@EspacioInteligente).*
+
+## 📚 Continue reading
+
+- [Homemade Oven Cleaner with Baking Soda and Vinegar](/blog/homemade-oven-cleaner-with-baking-soda-and-vinegar)
+- [Centrifugal Spin Mop](/blog/centrifugal-spin-mop)
+- [Cleaning Gadget: Spin Mop](/blog/cleaning-gadget-spin-mop)

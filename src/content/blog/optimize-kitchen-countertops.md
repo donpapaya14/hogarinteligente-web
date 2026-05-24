@@ -126,3 +126,9 @@ The game-changer was treating my countertop like a workbench: only tools activel
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@EspacioInteligente).*
+
+## 📚 Continue reading
+
+- [Best Pastry Dough Rolling Tools](/blog/best-pastry-dough-rolling-tools)
+- [Instant Pot vs Pressure Cooker for Cooking Frozen Veggies](/blog/instant-pot-vs-pressure-cooker-for-cooking-frozen-veggies)
+- [Electric Griddle vs Skillet vs Grill Pan](/blog/electric-griddle-vs-skillet-vs-grill-pan)

@@ -37,7 +37,7 @@ Choosing the right **grout brush attachment for tile floors** can be a bit overw
 3. **Attachment size**: The size of the brush attachment is also important, as it needs to be small enough to fit into the grout lines, but large enough to be effective at cleaning.
 
 ## Amazon Product Recommendation
-For those looking for a high-quality **grout brush attachment for tile floors**, the [Grout Brush Attachment for Tile Floors by OXO](https://www.amazon.com) is a great option. This attachment is designed to fit onto a variety of cleaning devices, including vacuum cleaners and scrubbers, and features a small, rotating brush head that is perfect for cleaning grout lines. It is available on Amazon for around $15.
+For those looking for a high-quality **grout brush attachment for tile floors**, the [Grout Brush Attachment for Tile Floors by OXO](https://amazon.com/?tag=vds96-20) is a great option. This attachment is designed to fit onto a variety of cleaning devices, including vacuum cleaners and scrubbers, and features a small, rotating brush head that is perfect for cleaning grout lines. It is available on Amazon for around $15.
 
 ## DIY Grout Brush Attachment Tutorial
 For those who are handy with DIY projects, creating a **grout brush attachment for tile floors** can be a fun and rewarding project. According to [The Family Handyman (2018)](https://www.familyhandyman.com), some of the materials needed include:
@@ -77,7 +77,7 @@ According to [Good Housekeeping Institute (2019)](https://www.goodhousekeeping.c
 Some complementary products to use with a **grout brush attachment for tile floors** include [ Grout Cleaner en Amazon](https://www.amazon.com/s?k=+Grout+Cleaner&tag=vds96-20) and [ Tile and Grout Sealer en Amazon](https://www.amazon.com/s?k=+Tile+and+Grout+Sealer&tag=vds96-20).
 
 ## My Take
-As an app developer and professional chef, I have had my fair share of experience with cleaning grout between tiles. In my opinion, using a **grout brush attachment for tile floors** is one of the most effective ways to keep grout lines clean. I have tried several different types of attachments, and I have found that the [Grout Brush Attachment for Tile Floors by OXO](https://www.amazon.com) is one of the best.
+As an app developer and professional chef, I have had my fair share of experience with cleaning grout between tiles. In my opinion, using a **grout brush attachment for tile floors** is one of the most effective ways to keep grout lines clean. I have tried several different types of attachments, and I have found that the [Grout Brush Attachment for Tile Floors by OXO](https://amazon.com/?tag=vds96-20) is one of the best.
 I have also found that using a **grout brush attachment for tile floors** can be a bit tricky, and it is important to avoid common mistakes such as using the wrong attachment size or applying too much pressure. By following the tips and advice outlined in this article, I hope that readers will be able to get the most out of their **grout brush attachment for tile floors** and keep their grout lines clean and looking their best.
 
 

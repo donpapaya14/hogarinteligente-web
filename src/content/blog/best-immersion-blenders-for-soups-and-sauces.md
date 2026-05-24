@@ -57,7 +57,7 @@ Here are three immersion blenders to consider, ranging from budget to premium:
 
 ## Frequently Asked Questions
 ### What is the best immersion blender for soups?
-The best immersion blender for soups is one that combines power, efficiency, and ease of use. According to [Amazon Verified Purchase Reviews](https://www.amazon.com), the Breville BSB510XL is a top choice.
+The best immersion blender for soups is one that combines power, efficiency, and ease of use. According to [Amazon Verified Purchase Reviews](https://amazon.com/?tag=vds96-20), the Breville BSB510XL is a top choice.
 ### How do I prevent splattering when using an immersion blender?
 To prevent splattering, use an immersion blender with an anti-splash design, and make sure to blend slowly and carefully. As noted in [America's Test Kitchen](https://www.americastestkitchen.com), a slow-motion video can help to illustrate the importance of this feature.
 ### What is the difference between stainless steel and nylon blades?

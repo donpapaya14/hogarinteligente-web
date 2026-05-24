@@ -32,8 +32,8 @@ Testing your water hardness is essential to determine if you need to use dishwas
 ## The Right Salt Type (Not Table Salt)
 Using the right type of salt is crucial for your dishwasher's maintenance. **Granular salt** and **tablet salt** are the most common types of dishwasher salts. However, **iodized salt** should be avoided as it can corrode the resin tank. Some affordable and effective brands include:
 * Finish Dishwasher Salt
-* [ OxiClean Dishwasher Salt en Amazon](https://www.amazon.com/s?k=+OxiClean+Dishwasher+Salt&tag=vds96-20)(https://www.amazon.com/)
-* [ Cascade ActionPacs Dishwasher Salt en Amazon](https://www.amazon.com/s?k=+Cascade+ActionPacs+Dishwasher+Salt&tag=vds96-20)(https://www.amazon.com/)
+* [ OxiClean Dishwasher Salt en Amazon](https://www.amazon.com/s?k=+OxiClean+Dishwasher+Salt&tag=vds96-20)(https://www.amazon.com/?tag=vds96-20)
+* [ Cascade ActionPacs Dishwasher Salt en Amazon](https://www.amazon.com/s?k=+Cascade+ActionPacs+Dishwasher+Salt&tag=vds96-20)(https://www.amazon.com/?tag=vds96-20)
 According to the [American Cleaning Institute (2023)](https://www.cleaninginstitute.org/), using the right type of salt can improve your dishwasher's performance and lifespan.
 
 ## Annual Maintenance That Saves $300+
@@ -59,7 +59,7 @@ Dishwasher salt can cost between **$5 to $15 per year**, depending on the brand 
 ## My Take
 As an app developer and professional chef, I've learned the importance of maintaining my dishwasher. I've made the mistake of overfilling the salt compartment and underfilling it, but now I make sure to check the level before each cycle. I recommend using **Finish Dishwasher Salt** and following the manufacturer's instructions for the best results.
 In my experience, using the right type of salt and maintaining my dishwasher regularly has improved its performance and extended its lifespan. I've also saved money by avoiding costly repairs.
-If you're looking for a reliable and affordable dishwasher salt, I recommend checking out [ OxiClean Dishwasher Salt en Amazon](https://www.amazon.com/s?k=+OxiClean+Dishwasher+Salt&tag=vds96-20)(https://www.amazon.com/) or [ Cascade ActionPacs Dishwasher Salt en Amazon](https://www.amazon.com/s?k=+Cascade+ActionPacs+Dishwasher+Salt&tag=vds96-20)(https://www.amazon.com/).
+If you're looking for a reliable and affordable dishwasher salt, I recommend checking out [ OxiClean Dishwasher Salt en Amazon](https://www.amazon.com/s?k=+OxiClean+Dishwasher+Salt&tag=vds96-20)(https://www.amazon.com/?tag=vds96-20) or [ Cascade ActionPacs Dishwasher Salt en Amazon](https://www.amazon.com/s?k=+Cascade+ActionPacs+Dishwasher+Salt&tag=vds96-20)(https://www.amazon.com/?tag=vds96-20).
 
 
 
@@ -77,7 +77,7 @@ Here are some concrete actions to take:
 * Avoid using **iodized salt**, which can corrode the resin tank.
 * Check the salt level before each cycle and maintain the recommended level.
 * Run an empty cycle with **vinegar** every month to remove any residue.
-* Consider using [ Finish Dishwasher Salt en Amazon](https://www.amazon.com/s?k=+Finish+Dishwasher+Salt&tag=vds96-20)(https://www.amazon.com/) or other affordable and effective brands.
+* Consider using [ Finish Dishwasher Salt en Amazon](https://www.amazon.com/s?k=+Finish+Dishwasher+Salt&tag=vds96-20)(https://www.amazon.com/?tag=vds96-20) or other affordable and effective brands.
 * Follow the manufacturer's instructions for the best results.
 
 

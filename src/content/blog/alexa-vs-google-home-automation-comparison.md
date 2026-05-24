@@ -77,7 +77,7 @@ Yes, you can use **Alexa** or **Google Home** to play music from popular service
 ## My Take
 As an app developer and professional chef, I have used both **Alexa** and **Google Home** in my daily life. I find that **Alexa** is more convenient for controlling my **smart home devices**, while **Google Home** is more useful for providing information and answering questions.
 
-In my experience, **Alexa** is more seamless in terms of integration with other **Amazon** devices, such as the **[ Amazon Echo (4th Generation) Smart Speaker with Alexa en Amazon](https://www.amazon.com/s?k=+Amazon+Echo+(4th+Generation)+Smart+Speaker+with+Alexa&tag=vds96-20)**. On the other hand, **Google Home** is more versatile in terms of its ability to understand natural language and provide personalized responses.
+In my experience, **Alexa** is more seamless in terms of integration with other **Amazon** devices, such as the **[ Amazon Echo (4th Generation) Smart Speaker with Alexa en Amazon](https://www.amazon.com/s?k=+Amazon+Echo+(4th+Generation&tag=vds96-20)+Smart+Speaker+with+Alexa&tag=vds96-20)**. On the other hand, **Google Home** is more versatile in terms of its ability to understand natural language and provide personalized responses.
 
 Overall, I think that both **Alexa** and **Google Home** are excellent choices for anyone looking to automate their home and make their life easier.
 

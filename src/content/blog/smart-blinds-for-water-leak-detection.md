@@ -37,7 +37,7 @@ Here's a breakdown of the costs:
 | Yoolax Smart Blinds with Water Detection | $150 |
 | Traditional Leak Detector | $50 |
 | Smart Blinds without Water Detection | $100 |
-As you can see, investing in **smart blinds with water leak detection** can save you money in the long run by providing dual functionality. This data is based on [Amazon price tracking data (June 2024)](https://www.amazon.com/).
+As you can see, investing in **smart blinds with water leak detection** can save you money in the long run by providing dual functionality. This data is based on [Amazon price tracking data (June 2024)](https://www.amazon.com/?tag=vds96-20).
 
 ## Limitations and When to Use Alternatives
 While **smart blinds with water leak detection** are an excellent solution for many homeowners, there are scenarios where standalone sensors work better, such as in basements or whole-house systems. Additionally, compatibility issues with certain window types may require alternative solutions. The [Smart Home Water Safety Council case studies](https://www.smhsc.org/) provide valuable insights into the limitations and potential alternatives.

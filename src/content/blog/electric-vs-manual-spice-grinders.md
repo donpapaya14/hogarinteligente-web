@@ -100,7 +100,7 @@ As a professional chef and app developer, I have had the opportunity to try out 
 * Consider using a spice grinder for other tasks, such as grinding coffee beans or nuts.
 * Always clean and maintain your spice grinder to ensure optimal performance.
 
-**Amazon Keywords:** [Cuisinart SG-10 Electric Spice Grinder](https://www.amazon.com/Cuisinart-SG-10-Electric-Spice-Grinder), [Kuhn Rikon Spice Grinder](https://www.amazon.com/Kuhn-Rikon-Spice-Grinder)
+**Amazon Keywords:** [Cuisinart SG-10 Electric Spice Grinder](https://www.amazon.com/Cuisinart-SG-10-Electric-Spice-Grinder?tag=vds96-20), [Kuhn Rikon Spice Grinder](https://www.amazon.com/Kuhn-Rikon-Spice-Grinder?tag=vds96-20)
 **Tags:** kitchen gadgets, spice grinders, electric spice grinders, manual spice grinders, cooking, food, kitchen tools
 **Sources:**
 * Cook's Illustrated (2019). Spice Grinders: A Guide to Choosing the Right One.

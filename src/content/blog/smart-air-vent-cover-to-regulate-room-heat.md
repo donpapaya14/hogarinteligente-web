@@ -111,7 +111,7 @@ If you're interested in purchasing a smart air vent cover, I recommend checking 
 * [EnergyStar 2023 case study on zoned heating](https://www.energystar.gov)
 * [National Renewable Energy Lab 2021 study](https://www.nrel.gov)
 * [SmartThings compatibility documentation 2023](https://www.smartthings.com/docs/compatibility)
-* [Keen Smart Vent Cover (compatible with Alexa)](https://www.amazon.com/Keen-Smart-Vent-Cover-Alexa)
+* [Keen Smart Vent Cover (compatible with Alexa)](https://www.amazon.com/Keen-Smart-Vent-Cover-Alexa?tag=vds96-20)
 
 **Tags**
 

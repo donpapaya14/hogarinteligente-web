@@ -27,14 +27,14 @@ Looking for **smart home devices under 30 dollars** that can enhance your home a
 
 ## Top 5 Smart Home Devices Under 30 Dollars
 Here's a curated list of the top 5 smart home devices under $30, including their functions and Amazon links:
-* [TP-Link Smart Plug with Energy Monitoring](https://www.amazon.com/TP-Link-Smart-Plug-Energy-Monitoring): A smart plug that monitors energy usage and can be controlled remotely.
+* [TP-Link Smart Plug with Energy Monitoring](https://www.amazon.com/TP-Link-Smart-Plug-Energy-Monitoring?tag=vds96-20): A smart plug that monitors energy usage and can be controlled remotely.
 * Smart Lighting Dimmer: A device that allows you to adjust the brightness of your lights with ease.
 * Smart Thermostat for Small Spaces: A thermostat designed for small spaces that can help you save energy and money.
 * Smart Door Sensor for Home Security: A sensor that alerts you when someone enters or leaves your home.
 * Smart Outlet for Multiple Devices: An outlet that can charge multiple devices at once and can be controlled remotely.
 
 ## Device 1: Smart Plug with Energy Monitoring
-The **TP-Link Smart Plug with Energy Monitoring** is a great device for those who want to monitor their energy usage. According to the [Amazon Product Description](https://www.amazon.com), this device can monitor energy usage in real-time and provide you with detailed reports. It's also compatible with **Alexa** and **Google Assistant**.
+The **TP-Link Smart Plug with Energy Monitoring** is a great device for those who want to monitor their energy usage. According to the [Amazon Product Description](https://amazon.com/?tag=vds96-20), this device can monitor energy usage in real-time and provide you with detailed reports. It's also compatible with **Alexa** and **Google Assistant**.
 
 ## Device 2: Smart Lighting Dimmer
 A **smart lighting dimmer** is a great way to adjust the brightness of your lights with ease. According to the [Smart Lighting Institute (2022)](https://www.smartlightinginstitute.org), smart lighting dimmers can help reduce energy consumption by up to **20%**. Here are some benefits of using a smart lighting dimmer:

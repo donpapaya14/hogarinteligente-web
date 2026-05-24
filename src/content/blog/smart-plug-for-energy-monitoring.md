@@ -71,7 +71,7 @@ Yes, smart plugs can help you save money on your energy bill by providing you wi
 Most smart plugs have **built-in security features**, such as encryption and password protection, to protect your data and prevent unauthorized access.
 
 ## My Take
-As an app developer and professional chef, I have always been interested in finding ways to reduce my energy consumption and promote sustainability. When I first started using smart plugs, I was amazed at how much energy I was wasting on devices that were not in use. By using the data provided by the smart plug, I was able to make adjustments to my usage patterns and reduce my energy consumption by **20%**. I highly recommend using a smart plug, such as the [TP-Link Smart Plug](https://www.amazon.com/TP-Link-Smart-Plug), to anyone looking to reduce their energy consumption and promote sustainability.
+As an app developer and professional chef, I have always been interested in finding ways to reduce my energy consumption and promote sustainability. When I first started using smart plugs, I was amazed at how much energy I was wasting on devices that were not in use. By using the data provided by the smart plug, I was able to make adjustments to my usage patterns and reduce my energy consumption by **20%**. I highly recommend using a smart plug, such as the [TP-Link Smart Plug](https://www.amazon.com/TP-Link-Smart-Plug?tag=vds96-20), to anyone looking to reduce their energy consumption and promote sustainability.
 
 
 
@@ -88,9 +88,9 @@ Here are some concrete steps you can take to reduce your energy consumption usin
 * Identify devices that are using the most energy and replace them with more energy-efficient models.
 * Schedule devices to turn off when not in use.
 * Adjust your usage patterns to reduce peak demand.
-* Consider using a smart plug with **voice control**, such as the [Belkin WeMo Smart Plug](https://www.amazon.com/Belkin-WeMo-Smart-Plug), for added convenience.
+* Consider using a smart plug with **voice control**, such as the [Belkin WeMo Smart Plug](https://www.amazon.com/Belkin-WeMo-Smart-Plug?tag=vds96-20), for added convenience.
 * Use the data provided by the smart plug to make informed decisions about your energy consumption.
-* Look for smart plugs with **energy monitoring** features, such as the [Amazon Smart Plug](https://www.amazon.com/Amazon-Smart-Plug), to get detailed analytics on your energy usage.
+* Look for smart plugs with **energy monitoring** features, such as the [Amazon Smart Plug](https://www.amazon.com/Amazon-Smart-Plug?tag=vds96-20), to get detailed analytics on your energy usage.
 
 
 ---

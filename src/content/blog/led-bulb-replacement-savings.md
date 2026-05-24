@@ -127,8 +127,8 @@ As an app developer and professional chef, I've always been interested in findin
 
 **Amazon Products:**
 
-* [Philips LED Bulb, 9W, Dimmable](https://www.amazon.com/Philips-LED-Bulb-9W-Dimmable/dp/B07B9FZJ9K/)
-* [LIFX LED Bulb, 1100 Lumens, Cool White](https://www.amazon.com/LIFX-LED-Bulb-1100-Lumens-Cool/dp/B07B9FZJ9K/)
+* [Philips LED Bulb, 9W, Dimmable](https://www.amazon.com/Philips-LED-Bulb-9W-Dimmable/dp/B07B9FZJ9K/?tag=vds96-20)
+* [LIFX LED Bulb, 1100 Lumens, Cool White](https://www.amazon.com/LIFX-LED-Bulb-1100-Lumens-Cool/dp/B07B9FZJ9K/?tag=vds96-20)
 
 **Sources:**
 

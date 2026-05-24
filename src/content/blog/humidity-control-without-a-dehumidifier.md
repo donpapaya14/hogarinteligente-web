@@ -23,7 +23,7 @@ draft: false
 Humidity control without a dehumidifier is possible by understanding the concept of **psychrometry**, which is the study of the relationship between air temperature and humidity. According to ASHRAE, the ideal relative humidity level for indoor spaces is between **30-60%**. High humidity can lead to **mold growth**, increased **energy consumption**, and poor **indoor air quality**. A study by ASHRAE in 2020 found that maintaining optimal humidity levels can reduce energy consumption by **10-15%**.
 
 ## Zeolite-based humidity control
-Zeolites are natural or synthetic minerals that have the ability to absorb moisture from the air. According to the Zeolite Industry Association, zeolites can absorb up to **30%** of their weight in water. Zeolite-based products, such as desiccant packets or zeolite-filled containers, can be used to control humidity in small spaces. For example, the [Honeywell HUMIDISTAT Digital Humidity Gauge](https://www.amazon.com/Honeywell-HUMIDISTAT-Digital-Humidity-Gauge) can be used to monitor humidity levels.
+Zeolites are natural or synthetic minerals that have the ability to absorb moisture from the air. According to the Zeolite Industry Association, zeolites can absorb up to **30%** of their weight in water. Zeolite-based products, such as desiccant packets or zeolite-filled containers, can be used to control humidity in small spaces. For example, the [Honeywell HUMIDISTAT Digital Humidity Gauge](https://www.amazon.com/Honeywell-HUMIDISTAT-Digital-Humidity-Gauge?tag=vds96-20) can be used to monitor humidity levels.
 
 ## Natural ventilation and humidity control
 Natural ventilation is an effective way to control humidity without using a dehumidifier. According to the [US Department of Energy](https://www.energy.gov), natural ventilation can reduce humidity levels by **20-30%**. This can be achieved by opening windows, using vents, or installing solar chimneys. Here are some tips for optimizing natural ventilation:
@@ -32,10 +32,10 @@ Natural ventilation is an effective way to control humidity without using a dehu
 3. Install solar chimneys to heat air and increase ventilation.
 
 ## Evaporation-based humidity control
-Evaporation-based humidity control involves using the principle of evaporation to remove moisture from the air. According to a study by the [University of California, Berkeley](https://www.berkeley.edu) in 2018, evaporation-based systems can reduce humidity levels by **40-50%**. This can be achieved using wet towels, fans, or evaporative cooling systems. For example, the [LG Evaporative Cooler](https://www.amazon.com/LG-Evaporative-Cooler) can be used to cool and dehumidify small spaces.
+Evaporation-based humidity control involves using the principle of evaporation to remove moisture from the air. According to a study by the [University of California, Berkeley](https://www.berkeley.edu) in 2018, evaporation-based systems can reduce humidity levels by **40-50%**. This can be achieved using wet towels, fans, or evaporative cooling systems. For example, the [LG Evaporative Cooler](https://www.amazon.com/LG-Evaporative-Cooler?tag=vds96-20) can be used to cool and dehumidify small spaces.
 
 ## Desiccant-based humidity control
-Desiccants are materials that absorb moisture from the air. According to Desiccant Technologies, desiccants can absorb up to **50%** of their weight in water. Desiccant-based products, such as desiccant packets or desiccant-filled containers, can be used to control humidity in small spaces. For example, the [Silica Gel Desiccant Packets](https://www.amazon.com/Silica-Gel-Desiccant-Packets) can be used to absorb moisture in closets or storage rooms.
+Desiccants are materials that absorb moisture from the air. According to Desiccant Technologies, desiccants can absorb up to **50%** of their weight in water. Desiccant-based products, such as desiccant packets or desiccant-filled containers, can be used to control humidity in small spaces. For example, the [Silica Gel Desiccant Packets](https://www.amazon.com/Silica-Gel-Desiccant-Packets?tag=vds96-20) can be used to absorb moisture in closets or storage rooms.
 
 ## Cost-effectiveness of humidity control methods
 The cost-effectiveness of humidity control methods varies depending on the method used. According to a study by the [National Institute of Standards and Technology](https://www.nist.gov) in 2017, zeolite-based humidity control is the most cost-effective method, with a cost savings of **$100-200** per year. Here is a comparison of the cost-effectiveness of different humidity control methods:
@@ -81,7 +81,7 @@ Here are some concrete actions you can take to control humidity without a dehumi
 * Use evaporation-based systems to cool and dehumidify small spaces.
 * Install solar chimneys to heat air and increase ventilation.
 * Use desiccant-based products to absorb moisture from the air.
-* Monitor humidity levels using a digital humidity gauge, such as the [Honeywell HUMIDISTAT Digital Humidity Gauge](https://www.amazon.com/Honeywell-HUMIDISTAT-Digital-Humidity-Gauge).
+* Monitor humidity levels using a digital humidity gauge, such as the [Honeywell HUMIDISTAT Digital Humidity Gauge](https://www.amazon.com/Honeywell-HUMIDISTAT-Digital-Humidity-Gauge?tag=vds96-20).
 * Optimize natural ventilation by opening windows on opposite sides of the house and using vents or whole-house fans.
 
 

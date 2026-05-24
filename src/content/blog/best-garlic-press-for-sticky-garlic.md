@@ -30,9 +30,9 @@ When looking for a non-stick garlic press, there are several key features to con
 Here are the top 3 garlic presses that have been tested and proven to work well with sticky garlic:
 | Garlic Press | Crush Efficiency | Stickiness | Cleanup Time |
 | --- | --- | --- | --- |
-| [OXO Good Grips Garlic Press](https://www.amazon.com) | 9/10 | 2/10 | 5 minutes |
-| [Joseph Joseph Garlic Press](https://www.amazon.com) | 8.5/10 | 3/10 | 6 minutes |
-| [Silpat Garlic Press](https://www.amazon.com) | 8/10 | 4/10 | 7 minutes |
+| [OXO Good Grips Garlic Press](https://amazon.com/?tag=vds96-20) | 9/10 | 2/10 | 5 minutes |
+| [Joseph Joseph Garlic Press](https://amazon.com/?tag=vds96-20) | 8.5/10 | 3/10 | 6 minutes |
+| [Silpat Garlic Press](https://amazon.com/?tag=vds96-20) | 8/10 | 4/10 | 7 minutes |
 According to [Serious Eats](https://www.seriouseats.com) in 2023, these garlic presses have been tested and proven to perform well with sticky garlic.
 
 ## Pro Tip: How to Prep Garlic to Minimize Sticking
@@ -62,8 +62,8 @@ The benefits of using a garlic press include **easy cleanup**, **efficient crush
 Yes, you can use a garlic press with other ingredients, such as **ginger** and **lemon**. According to [America's Test Kitchen](https://www.americastestkitchen.com) in 2023, a garlic press can be a versatile tool in your kitchen.
 
 ## My Take
-As a professional chef and app developer, I have used many garlic presses in my kitchen. I can attest that a good garlic press can make a significant difference in your cooking experience. My personal favorite is the [OXO Good Grips Garlic Press](https://www.amazon.com), which I have found to be **easy to use** and **clean**. I also appreciate the **ergonomic design**, which makes it comfortable to hold and use.
-In my experience, a garlic press is an essential tool in any kitchen. It can help you to **crush garlic efficiently**, **reduce stickiness**, and **make cooking easier**. I highly recommend investing in a good garlic press, such as the [OXO Good Grips Garlic Press](https://www.amazon.com) or the [Joseph Joseph Garlic Press](https://www.amazon.com).
+As a professional chef and app developer, I have used many garlic presses in my kitchen. I can attest that a good garlic press can make a significant difference in your cooking experience. My personal favorite is the [OXO Good Grips Garlic Press](https://amazon.com/?tag=vds96-20), which I have found to be **easy to use** and **clean**. I also appreciate the **ergonomic design**, which makes it comfortable to hold and use.
+In my experience, a garlic press is an essential tool in any kitchen. It can help you to **crush garlic efficiently**, **reduce stickiness**, and **make cooking easier**. I highly recommend investing in a good garlic press, such as the [OXO Good Grips Garlic Press](https://amazon.com/?tag=vds96-20) or the [Joseph Joseph Garlic Press](https://amazon.com/?tag=vds96-20).
 In conclusion, a garlic press is a valuable tool in any kitchen. By choosing the right garlic press and maintaining it correctly, you can **make cooking easier** and **more enjoyable**. I hope this article has provided you with the information you need to choose the best garlic press for your kitchen.
 
 
@@ -84,7 +84,7 @@ Here are the key takeaways from this article:
 * Avoid using a **dishwasher**, as it can damage the press.
 * Replace your garlic press every **6-12 months**, depending on usage.
 * Use a garlic press to **crush garlic efficiently**, **reduce stickiness**, and **make cooking easier**.
-* Consider investing in a good garlic press, such as the [OXO Good Grips Garlic Press](https://www.amazon.com) or the [Joseph Joseph Garlic Press](https://www.amazon.com).
+* Consider investing in a good garlic press, such as the [OXO Good Grips Garlic Press](https://amazon.com/?tag=vds96-20) or the [Joseph Joseph Garlic Press](https://amazon.com/?tag=vds96-20).
 
 
 ---

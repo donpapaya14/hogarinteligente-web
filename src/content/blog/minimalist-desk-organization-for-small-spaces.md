@@ -29,7 +29,7 @@ A clutter-free workspace can lead to **reduced stress**, **increased focus**, an
 ## Choosing the Right Desk and Office Supplies
 When selecting a desk and office supplies for a **small space**, consider the following tips:
 * Choose a compact desk with built-in storage, such as the [ Amazon Basics Compact Desk en Amazon](https://www.amazon.com/s?k=+Amazon+Basics+Compact+Desk&tag=vds96-20).
-* Select office supplies that promote minimalism, such as a paper tray and a [Paper Mate Clear View Pen](https://www.amazon.com).
+* Select office supplies that promote minimalism, such as a paper tray and a [Paper Mate Clear View Pen](https://amazon.com/?tag=vds96-20).
 
 ## Categorizing and Storing Office Supplies
 To maintain a clutter-free workspace, follow these steps to categorize and store office supplies:
@@ -62,7 +62,7 @@ To maintain a clutter-free workspace, set aside **10-15 minutes each week** to t
 ### What are some digital tools that can help with minimalist desk organization?
 Some digital tools that can help with minimalist desk organization include [Evernote](https://evernote.com) and [Trello](https://trello.com). These tools can help streamline workflow and reduce paper clutter.
 ### How can I implement a 'one touch' rule?
-To implement a **'one touch' rule**, deal with each piece of paper or document immediately, either by filing it away, throwing it away, or taking action on it. Consider using a [Paper Mate Clear View Pen](https://www.amazon.com) to keep track of tasks and deadlines.
+To implement a **'one touch' rule**, deal with each piece of paper or document immediately, either by filing it away, throwing it away, or taking action on it. Consider using a [Paper Mate Clear View Pen](https://amazon.com/?tag=vds96-20) to keep track of tasks and deadlines.
 
 ## My Take
 As an app developer and professional chef, I understand the importance of a clutter-free workspace. In my own experience, I have found that a **minimalist desk organization** system can significantly improve productivity and reduce stress. I recommend implementing a **'one touch' rule** and using digital tools, such as [Evernote](https://evernote.com), to streamline workflow and reduce paper clutter.
@@ -79,7 +79,7 @@ As an app developer and professional chef, I understand the importance of a clut
 ## Practical Summary
 To create a **minimalist desk organization** system for **small spaces**, follow these concrete action bullets:
 * Choose a compact desk with built-in storage, such as the [ Amazon Basics Compact Desk en Amazon](https://www.amazon.com/s?k=+Amazon+Basics+Compact+Desk&tag=vds96-20).
-* Select office supplies that promote minimalism, such as a paper tray and a [Paper Mate Clear View Pen](https://www.amazon.com).
+* Select office supplies that promote minimalism, such as a paper tray and a [Paper Mate Clear View Pen](https://amazon.com/?tag=vds96-20).
 * Implement a **'one touch' rule** to deal with each piece of paper or document immediately.
 * Use digital tools, such as [Evernote](https://evernote.com) or [Trello](https://trello.com), to streamline workflow and reduce paper clutter.
 * Set aside **10-15 minutes each week** to tidy up and review organizational systems.

@@ -43,7 +43,7 @@ Tests show it cleans **99.3% of surface area** in one cycle, missing only extrem
 
 ## Amazon Price and Reviews
 
-As of 2024, the [ Ecovacs Winbot 950 Window Cleaning Robot en Amazon](https://www.amazon.com/s?k=+Ecovacs+Winbot+950+Window+Cleaning+Robot&tag=vds96-20) retails for **$399** with 4.2/5 stars from 1,100+ reviews. Key feedback from the [Amazon product page](https://www.amazon.com):
+As of 2024, the [ Ecovacs Winbot 950 Window Cleaning Robot en Amazon](https://www.amazon.com/s?k=+Ecovacs+Winbot+950+Window+Cleaning+Robot&tag=vds96-20) retails for **$399** with 4.2/5 stars from 1,100+ reviews. Key feedback from the [Amazon product page](https://amazon.com/?tag=vds96-20):
 
 | Pros | Cons |
 |------|------|

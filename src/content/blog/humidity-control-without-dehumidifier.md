@@ -60,7 +60,7 @@ A water-based humidity control system can be an effective way to control humidit
 ## Method 6: Implementing a Humidity-Controlled Insulation System
 Implementing a humidity-controlled insulation system can help reduce humidity levels by minimizing moisture infiltration. According to a [National Renewable Energy Laboratory (NREL) study on humidity-controlled insulation (2016)](https://www.nrel.gov/), this system can be beneficial in different climates. 
 
-For those looking for alternative solutions, consider the [Honeywell 5600 Whole House Dehumidifier (without a dehumidifier)](https://www.amazon.com/) or complementary products like [ silica gel desiccant packets en Amazon](https://www.amazon.com/s?k=+silica+gel+desiccant+packets&tag=vds96-20) for additional humidity control. 
+For those looking for alternative solutions, consider the [Honeywell 5600 Whole House Dehumidifier (without a dehumidifier)](https://www.amazon.com/?tag=vds96-20) or complementary products like [ silica gel desiccant packets en Amazon](https://www.amazon.com/s?k=+silica+gel+desiccant+packets&tag=vds96-20) for additional humidity control. 
 
 ## Frequently Asked Questions
 ### What is the ideal humidity range for my home?

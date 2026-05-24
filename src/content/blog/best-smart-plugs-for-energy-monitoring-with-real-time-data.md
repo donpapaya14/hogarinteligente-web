@@ -53,7 +53,7 @@ To get the most out of your smart plug, follow these tips:
 According to the Energy Saving Trust, 2021, these tips can help you save up to **£100** per year.
 
 ### Recommended Products
-Consider the [TP-Link Kasa Smart Plug with Energy Monitoring](https://www.amazon.com/TP-Link-Kasa-Smart-Plug) and the [Amazon Smart Plug](https://www.amazon.com/Amazon-Smart-Plug) for your smart home needs.
+Consider the [TP-Link Kasa Smart Plug with Energy Monitoring](https://www.amazon.com/TP-Link-Kasa-Smart-Plug?tag=vds96-20) and the [Amazon Smart Plug](https://www.amazon.com/Amazon-Smart-Plug?tag=vds96-20) for your smart home needs.
 
 ## Frequently Asked Questions
 ### What is the best smart plug for energy monitoring?

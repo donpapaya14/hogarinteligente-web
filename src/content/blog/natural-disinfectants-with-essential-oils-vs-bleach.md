@@ -56,7 +56,7 @@ When using essential oils, it's important to take safety precautions to avoid sk
 To test the effectiveness of essential oil-based disinfectants, you can use microbial growth inhibitors and antimicrobial susceptibility testing. According to the [Association of Public Health Laboratories (APHL)](https://www.aphl.org), these methods can help determine the effectiveness of a disinfectant against a wide range of microorganisms.
 
 ## Amazon Product: Plant Therapy Essential Oils Kit
-If you're looking to get started with essential oils, I recommend checking out the [Plant Therapy Essential Oils Kit](https://www.amazon.com/Plant-Therapy-Essential-Oils-Kit). This kit includes a variety of essential oils, including **tea tree oil** and **lemon oil**, as well as a diffuser and other accessories.
+If you're looking to get started with essential oils, I recommend checking out the [Plant Therapy Essential Oils Kit](https://www.amazon.com/Plant-Therapy-Essential-Oils-Kit?tag=vds96-20). This kit includes a variety of essential oils, including **tea tree oil** and **lemon oil**, as well as a diffuser and other accessories.
 
 ## Frequently Asked Questions
 ### What are the benefits of using natural disinfectants?
@@ -77,7 +77,7 @@ As an app developer and professional chef, I've always been interested in findin
 
 I've also noticed that using essential oils has helped reduce the amount of harsh chemicals I use in my home. According to the [World Health Organization (WHO)](https://www.who.int), reducing our exposure to harsh chemicals can have a significant impact on our health and wellbeing.
 
-In addition to using essential oils, I also recommend checking out the [Better Life Natural All-Purpose Cleaner](https://www.amazon.com/Better-Life-Natural-All-Purpose-Cleaner) and the [Ecover Zero Fragrance Laundry Detergent](https://www.amazon.com/Ecover-Zero-Fragrance-Laundry-Detergent). These products are eco-friendly and effective, making them a great addition to any cleaning routine.
+In addition to using essential oils, I also recommend checking out the [Better Life Natural All-Purpose Cleaner](https://www.amazon.com/Better-Life-Natural-All-Purpose-Cleaner?tag=vds96-20) and the [Ecover Zero Fragrance Laundry Detergent](https://www.amazon.com/Ecover-Zero-Fragrance-Laundry-Detergent?tag=vds96-20). These products are eco-friendly and effective, making them a great addition to any cleaning routine.
 
 
 
@@ -94,8 +94,8 @@ Here are some concrete actions you can take to start using natural disinfectants
 * Use **lemon oil** and **eucalyptus oil** to create a natural disinfectant spray.
 * Always dilute essential oils with water and avoid using them on sensitive skin.
 * Store essential oils in a cool, dark place, away from children and pets.
-* Check out the [Plant Therapy Essential Oils Kit](https://www.amazon.com/Plant-Therapy-Essential-Oils-Kit) to get started with essential oils.
-* Consider using eco-friendly cleaning products, such as the [Better Life Natural All-Purpose Cleaner](https://www.amazon.com/Better-Life-Natural-All-Purpose-Cleaner) and the [Ecover Zero Fragrance Laundry Detergent](https://www.amazon.com/Ecover-Zero-Fragrance-Laundry-Detergent).
+* Check out the [Plant Therapy Essential Oils Kit](https://www.amazon.com/Plant-Therapy-Essential-Oils-Kit?tag=vds96-20) to get started with essential oils.
+* Consider using eco-friendly cleaning products, such as the [Better Life Natural All-Purpose Cleaner](https://www.amazon.com/Better-Life-Natural-All-Purpose-Cleaner?tag=vds96-20) and the [Ecover Zero Fragrance Laundry Detergent](https://www.amazon.com/Ecover-Zero-Fragrance-Laundry-Detergent?tag=vds96-20).
 * Always follow the instructions on the label and take safety precautions when using essential oils.
 
 

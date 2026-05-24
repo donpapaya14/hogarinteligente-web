@@ -61,7 +61,7 @@ Optimize your **closet storage** with bins and dividers. Real Simple (2021) foun
 
 ## Before and After Results
 
-Real-life transformations show the impact of **closet organization systems**. One [Amazon Customer Review (2022)](https://www.amazon.com) reported a **70% increase in usable space** after installing the Seville Classics system. Include before/after photos to visualize changes.
+Real-life transformations show the impact of **closet organization systems**. One [Amazon Customer Review (2022)](https://amazon.com/?tag=vds96-20) reported a **70% increase in usable space** after installing the Seville Classics system. Include before/after photos to visualize changes.
 
 ## Maintaining Your Organized Closet
 

@@ -64,7 +64,7 @@ Installation steps:
 - **Size**: 15-20L for singles, 30L+ for families
 - **Features**: Handles (for carrying), labels (for sorting)
 
-Place baskets near sorting zones or under shelves. The [Amazon: Honey-Can-Do Collapsible Laundry Basket](https://www.amazon.com) folds to 2" thick when empty.
+Place baskets near sorting zones or under shelves. The [Amazon: Honey-Can-Do Collapsible Laundry Basket](https://amazon.com/?tag=vds96-20) folds to 2" thick when empty.
 
 ## Implementing a 'Sorting Station' with Amazon Products
 

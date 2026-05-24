@@ -46,9 +46,9 @@ For heavy users, cleaning the filter every **2-3 weeks** is recommended. Light u
 > Relacionado: [Pantry organization system to reduce food waste](/blog/pantry-organization-system-to-reduce-food-waste)
 
 ## Amazon Price and Availability of the Dyson V11 Filter Cleaning Tool
-The tool is available on [Amazon](https://www.amazon.com) for **$24.99** (as of 2023). Customer reviews highlight its ease of use, with 4.7/5 stars from 1,200+ ratings. Complementary products like the [Dyson V11 replacement filters en Amazon](https://www.amazon.com/s?k=Dyson+V11+replacement+filters&tag=vds96-20) are also popular for backup.
+The tool is available on [Amazon](https://amazon.com/?tag=vds96-20) for **$24.99** (as of 2023). Customer reviews highlight its ease of use, with 4.7/5 stars from 1,200+ ratings. Complementary products like the [Dyson V11 replacement filters en Amazon](https://www.amazon.com/s?k=Dyson+V11+replacement+filters&tag=vds96-20) are also popular for backup.
 
-Key features from the [Amazon Product Page (2023)](https://www.amazon.com) include:
+Key features from the [Amazon Product Page (2023)](https://amazon.com/?tag=vds96-20) include:
 - **Compact design**: Fits in storage compartments.
 - **Reusable**: No need for water or drying time.
 - **Compatibility**: Works with all Dyson V11 models.

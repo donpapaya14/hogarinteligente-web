@@ -66,7 +66,7 @@ Not all smart thermostats are compatible with all HVAC systems, so it's essentia
 Yes, many smart thermostats are compatible with Amazon Alexa, allowing you to control your thermostat with voice commands.
 
 ## My Take
-As an app developer and professional chef, I've had the opportunity to try out several smart thermostats in my own home. I've been impressed with the **Ecobee SmartThermostat**, which has helped me save money on my energy bills and stay comfortable with its advanced features. I've also appreciated the **[ Ecobee SmartThermostat en Amazon](https://www.amazon.com/s?k=+Ecobee+SmartThermostat&tag=vds96-20)(https://www.amazon.com/Ecobee-SmartThermostat)** for its ease of use and compatibility with my existing HVAC system.
+As an app developer and professional chef, I've had the opportunity to try out several smart thermostats in my own home. I've been impressed with the **Ecobee SmartThermostat**, which has helped me save money on my energy bills and stay comfortable with its advanced features. I've also appreciated the **[ Ecobee SmartThermostat en Amazon](https://www.amazon.com/s?k=+Ecobee+SmartThermostat&tag=vds96-20)(https://www.amazon.com/Ecobee-SmartThermostat?tag=vds96-20)** for its ease of use and compatibility with my existing HVAC system.
 
 
 
@@ -82,7 +82,7 @@ Here are some concrete steps you can take to start saving energy with a smart th
 * Research and compare different smart thermostat models to find the best one for your needs and budget.
 * Install your smart thermostat and configure its settings to optimize your energy usage.
 * Use features like scheduling, geofencing, and energy reports to get the most out of your smart thermostat.
-* Consider investing in complementary products like the **[ LIFX Smart Light Bulb en Amazon](https://www.amazon.com/s?k=+LIFX+Smart+Light+Bulb&tag=vds96-20)(https://www.amazon.com/LIFX-Smart-Light-Bulb)** to further reduce your energy consumption.
+* Consider investing in complementary products like the **[ LIFX Smart Light Bulb en Amazon](https://www.amazon.com/s?k=+LIFX+Smart+Light+Bulb&tag=vds96-20)(https://www.amazon.com/LIFX-Smart-Light-Bulb?tag=vds96-20)** to further reduce your energy consumption.
 * Check your energy reports regularly to identify areas for improvement and adjust your settings accordingly.
 * Take advantage of rebates and incentives offered by your utility company or government for installing a smart thermostat.
 * Share your experience with friends and family to help them save energy and money with a smart thermostat.

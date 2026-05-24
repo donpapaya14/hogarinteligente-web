@@ -43,7 +43,7 @@ To create an effective under-sink organization system, it's essential to divide 
 
 When it comes to choosing clear bins for your under-sink organization system, there are many options available on Amazon. One of the best slim-profile clear bins is the IRIS USA 3-Drawer Plastic Storage Organizer. This bin has a height of 12 inches and a width of 18 inches, making it perfect for under-sink storage.
 
-[IRIS USA 3-Drawer Plastic Storage Organizer](https://www.amazon.com/IRIS-USA-3-Drawer-Plastic-Storage/dp/B0014X7T9A)
+[IRIS USA 3-Drawer Plastic Storage Organizer](https://www.amazon.com/IRIS-USA-3-Drawer-Plastic-Storage/dp/B0014X7T9A?tag=vds96-20)
 
 ### How to Store Tall Bottles Sideways
 
@@ -123,7 +123,7 @@ I hope that this article has provided you with the information and inspiration y
 * Use a 3-zone under-sink system to increase organization and reduce clutter.
 * Choose the right cleaning supplies for your under-sink area based on the types of surfaces you will be cleaning and the level of cleaning power you need.
 
-**Amazon Keywords:** [IRIS USA 3-Drawer Plastic Storage Organizer](https://www.amazon.com/IRIS-USA-3-Drawer-Plastic-Storage/dp/B0014X7T9A), [IRIS USA 2-Drawer Plastic Storage Organizer](https://www.amazon.com/IRIS-USA-2-Drawer-Plastic-Storage/dp/B0014X7T9A)
+**Amazon Keywords:** [IRIS USA 3-Drawer Plastic Storage Organizer](https://www.amazon.com/IRIS-USA-3-Drawer-Plastic-Storage/dp/B0014X7T9A?tag=vds96-20), [IRIS USA 2-Drawer Plastic Storage Organizer](https://www.amazon.com/IRIS-USA-2-Drawer-Plastic-Storage/dp/B0014X7T9A?tag=vds96-20)
 
 
 ---

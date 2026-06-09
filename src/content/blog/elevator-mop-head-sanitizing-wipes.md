@@ -27,7 +27,7 @@ When selecting sanitizing wipes, consider factors such as EPA approval and effec
 * Concentration of active ingredients
 
 ## Amazon Product Recommendation
-For effective elevator mop head sanitizing, consider the [Sanistat Elevator Mop Head Sanitizing Wipes, 20-count (B079M9P6VQ)](https://amazon.com/?tag=vds96-20). This product has a **4.5-star rating** on Amazon and is **EPA-registered**. Additionally, you can complement your cleaning protocol with [ Clorox Disinfecting Wipes, 35-count en Amazon](https://www.amazon.com/s?k=+Clorox+Disinfecting+Wipes,+35-count&tag=vds96-20) and [ Lysol Disinfectant Spray, 19 oz en Amazon](https://www.amazon.com/s?k=+Lysol+Disinfectant+Spray,+19+oz&tag=vds96-20).
+For effective elevator mop head sanitizing, consider the [Sanistat Elevator Mop Head Sanitizing Wipes, 20-count (B079M9P6VQ)](https://amazon.com/?tag=vladys-21). This product has a **4.5-star rating** on Amazon and is **EPA-registered**. Additionally, you can complement your cleaning protocol with [ Clorox Disinfecting Wipes, 35-count en Amazon](https://www.amazon.es/s?k=+Clorox+Disinfecting+Wipes,+35-count&tag=vladys-21) and [ Lysol Disinfectant Spray, 19 oz en Amazon](https://www.amazon.es/s?k=+Lysol+Disinfectant+Spray,+19+oz&tag=vladys-21).
 
 ## How to Use Elevator Mop Head Sanitizing Wipes
 To use elevator mop head sanitizing wipes effectively, follow these steps:
@@ -72,7 +72,7 @@ Here are some concrete actions you can take to promote a healthier office enviro
 * Use elevator mop head sanitizing wipes after each use of the mop head
 * Choose sanitizing wipes that are EPA-registered and have a kill claim against a broad spectrum of pathogens
 * Store sanitizing wipes in a cool, dry place to maintain their effectiveness
-* Consider using complementary products such as [ Clorox Disinfecting Wipes, 35-count en Amazon](https://www.amazon.com/s?k=+Clorox+Disinfecting+Wipes,+35-count&tag=vds96-20) and [ Lysol Disinfectant Spray, 19 oz en Amazon](https://www.amazon.com/s?k=+Lysol+Disinfectant+Spray,+19+oz&tag=vds96-20)
+* Consider using complementary products such as [ Clorox Disinfecting Wipes, 35-count en Amazon](https://www.amazon.es/s?k=+Clorox+Disinfecting+Wipes,+35-count&tag=vladys-21) and [ Lysol Disinfectant Spray, 19 oz en Amazon](https://www.amazon.es/s?k=+Lysol+Disinfectant+Spray,+19+oz&tag=vladys-21)
 * Follow the manufacturer's instructions for use and take necessary precautions to avoid cross-contamination
 * Promote a culture of cleanliness and hygiene in your office by educating employees on the importance of using elevator mop head sanitizing wipes
 * Monitor and evaluate the effectiveness of your cleaning protocol and make adjustments as necessary

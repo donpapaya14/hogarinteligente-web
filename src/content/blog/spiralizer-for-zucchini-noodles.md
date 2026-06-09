@@ -48,14 +48,14 @@ Zucchini noodles are low in calories and carbs, and high in vitamins and mineral
 A spiralizer can be used to create a variety of dishes, including beet, carrot, and sweet potato noodles. As shown on Food Network, 2021, these recipes can add creativity and nutrition to meals. 
 
 ## Product Review: Brieftons Spiralizer
-The Brieftons Spiralizer is a popular and highly-rated device. According to [Amazon customer reviews](https://www.amazon.com/?tag=vds96-20), 2022, it has a **4.5-star rating** and is considered a worthwhile investment. 
+The Brieftons Spiralizer is a popular and highly-rated device. According to [Amazon customer reviews](https://www.amazon.es/?tag=vladys-21), 2022, it has a **4.5-star rating** and is considered a worthwhile investment. 
 
 ### Comparison of Spiralizers
 | Product | Features | Price |
 | --- | --- | --- |
 | Brieftons Spiralizer | 4-blade, suction cup, easy cleaning | $25 |
-| [ Spiralizer 5-Blade en Amazon](https://www.amazon.com/s?k=+Spiralizer+5-Blade&tag=vds96-20)(https://www.amazon.com/?tag=vds96-20) | 5-blade, suction cup, easy cleaning | $30 |
-| [ KitchenAid Spiralizer en Amazon](https://www.amazon.com/s?k=+KitchenAid+Spiralizer&tag=vds96-20)(https://www.amazon.com/?tag=vds96-20) | 3-blade, suction cup, easy cleaning | $40 |
+| [ Spiralizer 5-Blade en Amazon](https://www.amazon.es/s?k=+Spiralizer+5-Blade&tag=vladys-21)(https://www.amazon.es/?tag=vladys-21) | 5-blade, suction cup, easy cleaning | $30 |
+| [ KitchenAid Spiralizer en Amazon](https://www.amazon.es/s?k=+KitchenAid+Spiralizer&tag=vladys-21)(https://www.amazon.es/?tag=vladys-21) | 3-blade, suction cup, easy cleaning | $40 |
 
 ## Frequently Asked Questions
 ### What is the best spiralizer for zucchini noodles? 

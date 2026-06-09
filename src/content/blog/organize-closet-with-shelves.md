@@ -37,7 +37,7 @@ Selecting the right **closet shelves** depends on material, adjustability, and s
 | Wood | Durable, stylish | Expensive | Heavy items |
 | Particleboard | Budget-friendly | Less durable | Temporary solutions |
 
-For adjustable options, consider the [ Seville Classics UltraHD Closet Organizer System en Amazon](https://www.amazon.com/s?k=+Seville+Classics+UltraHD+Closet+Organizer+System&tag=vds96-20), which offers **customizable heights**.
+For adjustable options, consider the [ Seville Classics UltraHD Closet Organizer System en Amazon](https://www.amazon.es/s?k=+Seville+Classics+UltraHD+Closet+Organizer+System&tag=vladys-21), which offers **customizable heights**.
 
 ## Installing Closet Shelves
 
@@ -52,7 +52,7 @@ Follow this **step-by-step guide** from This Old House (2019) for secure shelf i
 
 ## Maximizing Closet Storage
 
-Optimize your **closet storage** with bins and dividers. Real Simple (2021) found that **using baskets reduces clutter by 50%**. Pair shelves with [ SimpleHouseware Mesh Stackable Bins en Amazon](https://www.amazon.com/s?k=+SimpleHouseware+Mesh+Stackable+Bins&tag=vds96-20) for small items like socks or scarves.
+Optimize your **closet storage** with bins and dividers. Real Simple (2021) found that **using baskets reduces clutter by 50%**. Pair shelves with [ SimpleHouseware Mesh Stackable Bins en Amazon](https://www.amazon.es/s?k=+SimpleHouseware+Mesh+Stackable+Bins&tag=vladys-21) for small items like socks or scarves.
 
 ### Tips to Maximize Space:
 - **Use vertical space**: Install shelves up to the ceiling.
@@ -61,7 +61,7 @@ Optimize your **closet storage** with bins and dividers. Real Simple (2021) foun
 
 ## Before and After Results
 
-Real-life transformations show the impact of **closet organization systems**. One [Amazon Customer Review (2022)](https://amazon.com/?tag=vds96-20) reported a **70% increase in usable space** after installing the Seville Classics system. Include before/after photos to visualize changes.
+Real-life transformations show the impact of **closet organization systems**. One [Amazon Customer Review (2022)](https://amazon.com/?tag=vladys-21) reported a **70% increase in usable space** after installing the Seville Classics system. Include before/after photos to visualize changes.
 
 ## Maintaining Your Organized Closet
 
@@ -81,7 +81,7 @@ Keep your closet tidy with routines. Good Housekeeping (2020) suggests **monthly
 **Space shelves 10-12 inches apart** for folded items and 14-16 inches for hanging storage (NAPO, 2020).
 
 ### Can I install shelves in a rental closet?
-Yes, use **tension rods or freestanding units** like the [ Honey-Can-Do Closet Organizer en Amazon](https://www.amazon.com/s?k=+Honey-Can-Do+Closet+Organizer&tag=vds96-20) to avoid drilling.
+Yes, use **tension rods or freestanding units** like the [ Honey-Can-Do Closet Organizer en Amazon](https://www.amazon.es/s?k=+Honey-Can-Do+Closet+Organizer&tag=vladys-21) to avoid drilling.
 
 ### How much weight can closet shelves hold?
 **Wire shelves hold 30-50 lbs**, while wood shelves support up to **100 lbs** (This Old House, 2019).

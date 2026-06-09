@@ -19,7 +19,7 @@ draft: false
 
 ## Introduction to Electric Griddles, Skillets, and Grill Pans
 
-Choosing between an **electric griddle vs skillet** or grill pan depends on your cooking style and needs. **Electric griddles** (like the [Presto Electric Griddle en Amazon](https://www.amazon.com/s?k=Presto+Electric+Griddle&tag=vds96-20)) provide large, flat surfaces ideal for pancakes, eggs, or grilled cheese, with consistent heat distribution (Cook's Illustrated, 2022). **Non-stick skillets** (e.g., stainless steel or cast iron) excel at searing and sautéing, while **grill pans** create char marks on meats and vegetables without outdoor grilling.
+Choosing between an **electric griddle vs skillet** or grill pan depends on your cooking style and needs. **Electric griddles** (like the [Presto Electric Griddle en Amazon](https://www.amazon.es/s?k=Presto+Electric+Griddle&tag=vladys-21)) provide large, flat surfaces ideal for pancakes, eggs, or grilled cheese, with consistent heat distribution (Cook's Illustrated, 2022). **Non-stick skillets** (e.g., stainless steel or cast iron) excel at searing and sautéing, while **grill pans** create char marks on meats and vegetables without outdoor grilling.
 
 Key differences:
 - **Surface area**: Griddles (up to 200 sq in) > Skillets (typically 60–100 sq in)
@@ -59,7 +59,7 @@ Grill pans need extra attention:
 
 ## Top 3 Amazon Product Comparison
 
-| Feature          | [Presto Electric Griddle en Amazon](https://www.amazon.com/s?k=Presto+Electric+Griddle&tag=vds96-20) | [All-Clad Stainless Skillet en Amazon](https://www.amazon.com/s?k=All-Clad+Stainless+Skillet&tag=vds96-20) | [Calphalon Grill Pan en Amazon](https://www.amazon.com/s?k=Calphalon+Grill+Pan&tag=vds96-20) |
+| Feature          | [Presto Electric Griddle en Amazon](https://www.amazon.es/s?k=Presto+Electric+Griddle&tag=vladys-21) | [All-Clad Stainless Skillet en Amazon](https://www.amazon.es/s?k=All-Clad+Stainless+Skillet&tag=vladys-21) | [Calphalon Grill Pan en Amazon](https://www.amazon.es/s?k=Calphalon+Grill+Pan&tag=vladys-21) |
 |------------------|----------------------------------|-------------------------------------|------------------------------|
 | **Best For**     | Breakfast foods                  | Searing, sauces                    | Indoor grilling              |
 | **Heat Control** | Thermostat (150–400°F)           | Stovetop-dependent                 | Medium-high preheat          |

@@ -95,7 +95,7 @@ Here are some concrete action bullets to help you optimize your thermostat tempe
 * Check your thermostat temperature settings **monthly** to ensure they are optimal.
 * Adjust your thermostat temperature by **1.8°C (3.2°F)** to save **3-5%** of energy.
 * Use a programmable thermostat to automate your temperature settings.
-* Consider using complementary products like [Ecobee SmartThermostat en Amazon](https://www.amazon.com/s?k=Ecobee+SmartThermostat&tag=vds96-20) or [Honeywell Home T9 Smart Thermostat en Amazon](https://www.amazon.com/s?k=Honeywell+Home+T9+Smart+Thermostat&tag=vds96-20) to enhance your energy efficiency.
+* Consider using complementary products like [Ecobee SmartThermostat en Amazon](https://www.amazon.es/s?k=Ecobee+SmartThermostat&tag=vladys-21) or [Honeywell Home T9 Smart Thermostat en Amazon](https://www.amazon.es/s?k=Honeywell+Home+T9+Smart+Thermostat&tag=vladys-21) to enhance your energy efficiency.
 * Calculate your monthly energy savings by using a simple formula based on your energy consumption and expenditure.
 
 

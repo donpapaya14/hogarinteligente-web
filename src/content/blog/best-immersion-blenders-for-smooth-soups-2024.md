@@ -84,8 +84,8 @@ Here are some concrete action bullets to help you get started with using an imme
 
 *Este artículo contiene enlaces de afiliado. Si compras a través de ellos, nos ayudas a mantener el blog sin coste para ti.*
 
-- [Breville BSB510XL Control Grip Immersion Blender](https://www.amazon.com/s?k=Breville+BSB510XL+Control+Grip+Immersion+Blender&tag=vds96-20)
-- [Cuisinart CSB-75](https://www.amazon.com/s?k=Cuisinart+CSB-75&tag=vds96-20)
+- [Breville BSB510XL Control Grip Immersion Blender](https://www.amazon.es/s?k=Breville+BSB510XL+Control+Grip+Immersion+Blender&tag=vladys-21)
+- [Cuisinart CSB-75](https://www.amazon.es/s?k=Cuisinart+CSB-75&tag=vladys-21)
 
 
 ---

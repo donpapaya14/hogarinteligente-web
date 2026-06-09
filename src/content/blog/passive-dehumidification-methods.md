@@ -25,7 +25,7 @@ Key principles include:
 2. **Airflow optimization**: Strategic ventilation to enhance natural drying.
 3. **Hygroscopic materials**: Substances like salt or charcoal that attract and trap water molecules.
 
-For small spaces, [ Silica Gel Desiccant Packets en Amazon](https://www.amazon.com/s?k=+Silica+Gel+Desiccant+Packets&tag=vds96-20) are a cost-effective solution, absorbing moisture without electricity.
+For small spaces, [ Silica Gel Desiccant Packets en Amazon](https://www.amazon.es/s?k=+Silica+Gel+Desiccant+Packets&tag=vladys-21) are a cost-effective solution, absorbing moisture without electricity.
 
 ## Using Desiccants for Humidity Control
 Desiccants are the backbone of **passive dehumidification**. The **American Society of Heating, Refrigerating and Air-Conditioning Engineers (2019)** categorizes them by absorption capacity:
@@ -58,7 +58,7 @@ Plants and airflow can significantly impact **energy-efficient dehumidification*
 
 **Materials**:
 - 2 plastic buckets (one smaller than the other)
-- 5 lbs calcium chloride ([ DampRid Moisture Absorber en Amazon](https://www.amazon.com/s?k=+DampRid+Moisture+Absorber&tag=vds96-20))
+- 5 lbs calcium chloride ([ DampRid Moisture Absorber en Amazon](https://www.amazon.es/s?k=+DampRid+Moisture+Absorber&tag=vladys-21))
 - Drill
 
 **Steps**:

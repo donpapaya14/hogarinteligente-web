@@ -76,7 +76,7 @@ As an app developer and professional chef, I have always been interested in find
 * Consider purchasing a **Renogy 200W 12V Solar Panel Starter Kit** to get started with solar energy
 * Regularly maintain your solar panel system to ensure it is working efficiently
 * Monitor your energy usage and adjust your system as needed to maximize your energy savings
-* Look into complementary products, such as [Renogy 200W 12V Solar Panel Starter Kit en Amazon](https://www.amazon.com/s?k=Renogy+200W+12V+Solar+Panel+Starter+Kit&tag=vds96-20) and [ECO-WORTHY 200W 12V Solar Panel Kit en Amazon](https://www.amazon.com/s?k=ECO-WORTHY+200W+12V+Solar+Panel+Kit&tag=vds96-20) to enhance your solar energy experience
+* Look into complementary products, such as [Renogy 200W 12V Solar Panel Starter Kit en Amazon](https://www.amazon.es/s?k=Renogy+200W+12V+Solar+Panel+Starter+Kit&tag=vladys-21) and [ECO-WORTHY 200W 12V Solar Panel Kit en Amazon](https://www.amazon.es/s?k=ECO-WORTHY+200W+12V+Solar+Panel+Kit&tag=vladys-21) to enhance your solar energy experience
 
 
 ---

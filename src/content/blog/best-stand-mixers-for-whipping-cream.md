@@ -129,8 +129,8 @@ Here are 8 concrete action bullets to help you achieve fluffy whipped cream with
 
 *Este artículo contiene enlaces de afiliado. Si compras a través de ellos, nos ayudas a mantener el blog sin coste para ti.*
 
-- [KitchenAid KSM150PSER Artisan Series 5-Quart Stand Mixer](https://www.amazon.com/s?k=KitchenAid+KSM150PSER+Artisan+Series+5-Quart+Stand+Mixer&tag=vds96-20)
-- [Breville BEM820XL Stand Mixer](https://www.amazon.com/s?k=Breville+BEM820XL+Stand+Mixer&tag=vds96-20)
+- [KitchenAid KSM150PSER Artisan Series 5-Quart Stand Mixer](https://www.amazon.es/s?k=KitchenAid+KSM150PSER+Artisan+Series+5-Quart+Stand+Mixer&tag=vladys-21)
+- [Breville BEM820XL Stand Mixer](https://www.amazon.es/s?k=Breville+BEM820XL+Stand+Mixer&tag=vladys-21)
 
 
 ---

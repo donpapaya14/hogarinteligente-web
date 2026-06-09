@@ -39,7 +39,7 @@ Replace bleach/ammonia mixes with these EPA-approved alternatives ([Environmenta
 
 | **Product Type** | **Example** | **Effectiveness** |
 |------------------|------------|------------------|
-| Hydrogen peroxide | [ Clorox Green Works Natural All-Purpose Cleaner en Amazon](https://www.amazon.com/s?k=+Clorox+Green+Works+Natural+All-Purpose+Cleaner&tag=vds96-20) | Kills 99.9% bacteria |
+| Hydrogen peroxide | [ Clorox Green Works Natural All-Purpose Cleaner en Amazon](https://www.amazon.es/s?k=+Clorox+Green+Works+Natural+All-Purpose+Cleaner&tag=vladys-21) | Kills 99.9% bacteria |
 | Citric acid | DIY vinegar solution (1:1 water ratio) | Removes grease and soap scum |
 | Baking soda paste | 3 tbsp soda + 1 tbsp water | Non-toxic scrubbing agent |
 
@@ -85,14 +85,14 @@ The National Safety Council (2020) recommends:
 **No – the chemical process cannot be reversed once started.** The American Chemical Society confirms that dilution with water only spreads the hazard. Absorb small spills with kitty litter (wear an N95 mask) and dispose of it outdoors.
 
 ### What cleaner can I use instead of bleach?
-**Hydrogen peroxide (3-6% solution) or citric acid cleaners are safer alternatives.** The EPA’s Safer Choice program lists [ Clorox Green Works Natural All-Purpose Cleaner en Amazon](https://www.amazon.com/s?k=+Clorox+Green+Works+Natural+All-Purpose+Cleaner&tag=vds96-20) as effective against viruses without toxic fumes. For mold, use undiluted white vinegar (let sit for 1 hour).
+**Hydrogen peroxide (3-6% solution) or citric acid cleaners are safer alternatives.** The EPA’s Safer Choice program lists [ Clorox Green Works Natural All-Purpose Cleaner en Amazon](https://www.amazon.es/s?k=+Clorox+Green+Works+Natural+All-Purpose+Cleaner&tag=vladys-21) as effective against viruses without toxic fumes. For mold, use undiluted white vinegar (let sit for 1 hour).
 
 ### How can I tell if a product has ammonia?
 **Check for ammonium hydroxide, quats, or “alkaline” pH on labels.** The [NIOSH Pocket Guide](https://www.cdc.gov/niosh) notes that glass cleaners and metal polishes often contain 1-5% ammonia. When in doubt, assume any strong-smelling cleaner is hazardous when mixed with bleach.
 
 ## My Take
 
-As someone who’s worked in restaurant kitchens (where **cleaning product safety** is critical), I’ve seen firsthand how easily accidents happen. Once, a staff member mixed a floor cleaner with bleach “to make it stronger” – we had to evacuate the entire kitchen. Now, I only use color-coded spray bottles and pre-mixed solutions like [ Clorox Green Works Natural All-Purpose Cleaner en Amazon](https://www.amazon.com/s?k=+Clorox+Green+Works+Natural+All-Purpose+Cleaner&tag=vds96-20) to eliminate guesswork.
+As someone who’s worked in restaurant kitchens (where **cleaning product safety** is critical), I’ve seen firsthand how easily accidents happen. Once, a staff member mixed a floor cleaner with bleach “to make it stronger” – we had to evacuate the entire kitchen. Now, I only use color-coded spray bottles and pre-mixed solutions like [ Clorox Green Works Natural All-Purpose Cleaner en Amazon](https://www.amazon.es/s?k=+Clorox+Green+Works+Natural+All-Purpose+Cleaner&tag=vladys-21) to eliminate guesswork.
 
 At home, I’ve switched to microfiber cloths + hot water for 90% of cleaning. For tough jobs, a paste of **baking soda and castile soap** (3:1 ratio) works better than most chemicals. Remember: No cleaning task is worth risking your lungs.
 
@@ -109,7 +109,7 @@ At home, I’ve switched to microfiber cloths + hot water for 90% of cleaning. F
 - **Never mix bleach and ammonia** – produces lethal chloramine gas
 - **Ventilate immediately** if exposed (15+ minutes of cross-airflow)
 - **Store cleaners separately** – bleach in a locked cabinet, ammonia on high shelves
-- **Use alternatives**: hydrogen peroxide, vinegar, or [ Clorox Green Works Natural All-Purpose Cleaner en Amazon](https://www.amazon.com/s?k=+Clorox+Green+Works+Natural+All-Purpose+Cleaner&tag=vds96-20)
+- **Use alternatives**: hydrogen peroxide, vinegar, or [ Clorox Green Works Natural All-Purpose Cleaner en Amazon](https://www.amazon.es/s?k=+Clorox+Green+Works+Natural+All-Purpose+Cleaner&tag=vladys-21)
 - **Check labels** for ammonium hydroxide or quats
 - **Wear PPE** – gloves and N95 masks when handling strong chemicals
 - **Post Poison Control number** (1-800-222-1222) near your cleaning supplies

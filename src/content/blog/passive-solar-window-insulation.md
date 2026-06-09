@@ -43,7 +43,7 @@ A [Journal of Textile and Apparel Technology (2019)](https://www.textilesjournal
 
 ## Window Film Insulation
 
-**3M Window Film** ([ 3M Window Film en Amazon](https://www.amazon.com/s?k=+3M+Window+Film&tag=vds96-20)(https://www.amazon.com)) is a top choice for DIYers, offering **UV rejection of 99%** and reducing heat transfer by **30%** ([International Window Film Association, 2021](https://www.iwfa.com)). Installation steps:
+**3M Window Film** ([ 3M Window Film en Amazon](https://www.amazon.es/s?k=+3M+Window+Film&tag=vladys-21)(https://www.amazon.es)) is a top choice for DIYers, offering **UV rejection of 99%** and reducing heat transfer by **30%** ([International Window Film Association, 2021](https://www.iwfa.com)). Installation steps:
 1. Clean windows thoroughly.
 2. Cut film 1–2 inches larger than the pane.
 3. Apply with soapy water solution for bubble-free adhesion.
@@ -54,7 +54,7 @@ Fixed **overhangs** (12–18 inches deep) block summer sun while allowing winter
 
 ## Case Studies and Energy Savings
 
-A [National Association of Home Builders (2022)](https://www.nahb.org) analysis of 200 homes showed **$150–$300 annual savings** with passive solar window upgrades. In Colorado, a retrofit using thermal curtains and [ Frost King V73/9W Window Kit en Amazon](https://www.amazon.com/s?k=+Frost+King+V73/9W+Window+Kit&tag=vds96-20)(https://www.amazon.com) cut heating bills by **22%**.
+A [National Association of Home Builders (2022)](https://www.nahb.org) analysis of 200 homes showed **$150–$300 annual savings** with passive solar window upgrades. In Colorado, a retrofit using thermal curtains and [ Frost King V73/9W Window Kit en Amazon](https://www.amazon.es/s?k=+Frost+King+V73/9W+Window+Kit&tag=vladys-21)(https://www.amazon.es) cut heating bills by **22%**.
 
 ## Frequently Asked Questions
 

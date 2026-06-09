@@ -21,7 +21,7 @@ draft: false
 
 Solar panels convert sunlight into electricity using photovoltaic (PV) cells, offering **solar panel cost savings** by reducing reliance on grid power. The most common types are monocrystalline (15-22% efficiency), polycrystalline (13-16%), and thin-film (10-13%) panels, with monocrystalline being the most efficient but also the most expensive [National Renewable Energy Laboratory, 2022]. Key benefits include lower electricity bills, reduced carbon footprint, and increased property value.
 
-For example, a 6kW system can generate **7,000-10,000 kWh annually**, enough to power an average U.S. home [US Department of Energy, 2022]. Pairing panels with a [ Renogy 200W Solar Panel en Amazon](https://www.amazon.com/s?k=+Renogy+200W+Solar+Panel&tag=vds96-20) and a battery storage system maximizes energy independence.
+For example, a 6kW system can generate **7,000-10,000 kWh annually**, enough to power an average U.S. home [US Department of Energy, 2022]. Pairing panels with a [ Renogy 200W Solar Panel en Amazon](https://www.amazon.es/s?k=+Renogy+200W+Solar+Panel&tag=vladys-21) and a battery storage system maximizes energy independence.
 
 ## Cost of Solar Panel Installation
 
@@ -37,7 +37,7 @@ The **solar panel installation cost** ranges from **$15,000 to $25,000** for a 6
 
 > Relacionado: [Baking Soda Natural Disinfectant](/blog/baking-soda-natural-disinfectant)
 
-**Pro Tip:** Opt for micro-inverters (e.g., [ Enphase IQ8 en Amazon](https://www.amazon.com/s?k=+Enphase+IQ8&tag=vds96-20)) over string inverters for better efficiency in shaded areas.
+**Pro Tip:** Opt for micro-inverters (e.g., [ Enphase IQ8 en Amazon](https://www.amazon.es/s?k=+Enphase+IQ8&tag=vladys-21)) over string inverters for better efficiency in shaded areas.
 
 ## Energy Savings with Solar Panels
 
@@ -78,7 +78,7 @@ Most panels last **0.8-1% degradation/year**, retaining 80% efficiency after 25 
 Yes, but output drops **10-25%**. Germany, with similar sunlight to Alaska, generates 10% of its power from solar [Solar Energy Industries Association, 2023].
 
 ### Are batteries worth it for solar panels?
-Batteries (e.g., [ Tesla Powerwall en Amazon](https://www.amazon.com/s?k=+Tesla+Powerwall&tag=vds96-20)) add $10,000-$20,000 but provide backup during outages and maximize self-consumption.
+Batteries (e.g., [ Tesla Powerwall en Amazon](https://www.amazon.es/s?k=+Tesla+Powerwall&tag=vladys-21)) add $10,000-$20,000 but provide backup during outages and maximize self-consumption.
 
 ### How do I need to maintain solar panels?
 1. Clean panels **2-4 times/year** with water.
@@ -108,7 +108,7 @@ For urban dwellers, community solar programs (available in 40+ states) offer sav
 - **Maintain annually**: Clean panels and inspect wiring.
 - **Monitor output**: Use apps like SolarEdge to track savings.
 - **Consider storage**: Add a battery if outages are frequent.
-- **Start small**: Test with a [ Renogy 200W Solar Panel en Amazon](https://www.amazon.com/s?k=+Renogy+200W+Solar+Panel&tag=vds96-20) before scaling up.
+- **Start small**: Test with a [ Renogy 200W Solar Panel en Amazon](https://www.amazon.es/s?k=+Renogy+200W+Solar+Panel&tag=vladys-21) before scaling up.
 
 
 ---

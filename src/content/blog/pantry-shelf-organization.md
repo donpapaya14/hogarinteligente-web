@@ -50,7 +50,7 @@ Real Simple (2019) found that grouping similar items reduces meal prep time by *
 | Category       | Subcategories                  | Storage Solution          |
 |----------------|--------------------------------|---------------------------|
 | Dry Goods      | Pasta, rice, grains           | Airtight containers       |
-| Canned      | Vegetables, soups, proteins   | [Seville Classics UltraHD Shelf en Amazon](https://www.amazon.com/s?k=Seville+Classics+UltraHD+Shelf&tag=vds96-20) |
+| Canned      | Vegetables, soups, proteins   | [Seville Classics UltraHD Shelf en Amazon](https://www.amazon.es/s?k=Seville+Classics+UltraHD+Shelf&tag=vladys-21) |
 | Baking        | Flours, sugars, mixes         | Stackable bins          |
 
 Store heavy items at waist level and lightweight goods higher up. Keep kid-friendly snacks in labeled bins at their eye level.
@@ -59,7 +59,7 @@ Store heavy items at waist level and lightweight goods higher up. Keep kid-frien
 
 House Beautiful (2021) recommends **vertical dividers** to increase capacity by 40%. Key solutions:
 - Lazy Susans for oils and spices (rotate 180° weekly to prevent settling)
-- Tiered shelves like [YouCopia Adjustable Shelf Organizer en Amazon](https://www.amazon.com/s?k=YouCopia+Adjustable+Shelf+Organizer&tag=vds96-20) for canned goods
+- Tiered shelves like [YouCopia Adjustable Shelf Organizer en Amazon](https://www.amazon.es/s?k=YouCopia+Adjustable+Shelf+Organizer&tag=vladys-21) for canned goods
 - Hanging baskets on door backs for foil/plastic wrap
 
 For deep shelves, use pull-out trays (measure depth before purchasing). The **kitchen organization ideas** here prevent "forgotten" items in the back.
@@ -103,7 +103,7 @@ LED strip lights (3000K temperature) improve visibility by 60% versus incandesce
 
 As a chef turned app developer, I've seen both restaurant and home pantries fail from overcomplication. My rule? **If it takes more than 3 seconds to find an ingredient, the system needs work.** 
 
-In my Brooklyn apartment, I use a modified "zone" approach: One shelf per cuisine type (Italian, Asian, Baking). This mirrors how professional kitchens organize mise en place. The [Seville Classics UltraHD Shelf en Amazon](https://www.amazon.com/s?k=Seville+Classics+UltraHD+Shelf&tag=vds96-20) holds my most-used oils and vinegars at perfect arm-reach height.
+In my Brooklyn apartment, I use a modified "zone" approach: One shelf per cuisine type (Italian, Asian, Baking). This mirrors how professional kitchens organize mise en place. The [Seville Classics UltraHD Shelf en Amazon](https://www.amazon.es/s?k=Seville+Classics+UltraHD+Shelf&tag=vladys-21) holds my most-used oils and vinegars at perfect arm-reach height.
 
 Pro tip: Take photos of your organized pantry after each refresh. When things get messy (and they will), the photos serve as a quick reset guide without starting from scratch.
 

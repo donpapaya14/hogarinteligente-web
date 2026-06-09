@@ -106,8 +106,8 @@ For those new to sous vide cooking, I suggest starting with a beginner-friendly 
 
 *Este artículo contiene enlaces de afiliado. Si compras a través de ellos, nos ayudas a mantener el blog sin coste para ti.*
 
-- [Anova Precision Cooker Nano](https://www.amazon.com/s?k=Anova+Precision+Cooker+Nano&tag=vds96-20)
-- [FoodSaver V4440 vacuum sealer](https://www.amazon.com/s?k=FoodSaver+V4440+vacuum+sealer&tag=vds96-20)
+- [Anova Precision Cooker Nano](https://www.amazon.es/s?k=Anova+Precision+Cooker+Nano&tag=vladys-21)
+- [FoodSaver V4440 vacuum sealer](https://www.amazon.es/s?k=FoodSaver+V4440+vacuum+sealer&tag=vladys-21)
 
 
 ---

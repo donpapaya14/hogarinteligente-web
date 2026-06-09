@@ -104,8 +104,8 @@ Here are some concrete actions you can take to minimize the risks of **bleach an
 
 *Este artículo contiene enlaces de afiliado. Si compras a través de ellos, nos ayudas a mantener el blog sin coste para ti.*
 
-- [Seventh Generation Non-Chlorine Bleach](https://www.amazon.com/s?k=Seventh+Generation+Non-Chlorine+Bleach&tag=vds96-20)
-- [Ecover Zero Fragrance Laundry Detergent](https://www.amazon.com/s?k=Ecover+Zero+Fragrance+Laundry+Detergent&tag=vds96-20)
+- [Seventh Generation Non-Chlorine Bleach](https://www.amazon.es/s?k=Seventh+Generation+Non-Chlorine+Bleach&tag=vladys-21)
+- [Ecover Zero Fragrance Laundry Detergent](https://www.amazon.es/s?k=Ecover+Zero+Fragrance+Laundry+Detergent&tag=vladys-21)
 
 
 ---

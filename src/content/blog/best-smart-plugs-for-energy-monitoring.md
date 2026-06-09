@@ -54,7 +54,7 @@ For more information, refer to [Smart Home Review's 2022 roundup of top smart pl
 Yes, smart plugs can be used with existing lighting systems. However, it's essential to ensure compatibility and consider potential workarounds. For more information, refer to the [Smart Home Forum's 2020 discussion on using smart plugs with existing lighting systems](https://www.smarthomeforum.com).
 
 ## Amazon's best-selling smart plug for energy monitoring
-The [TP-Link Smart Plug (Wi-Fi, Energy Monitoring, and Schedule Control)](https://www.amazon.com) is Amazon's best-selling smart plug for energy monitoring. It features **real-time energy tracking**, **remote monitoring**, and **schedule control**. With a rating of 4.5/5 and over 10,000 reviews, it's a top choice among homeowners.
+The [TP-Link Smart Plug (Wi-Fi, Energy Monitoring, and Schedule Control)](https://www.amazon.es) is Amazon's best-selling smart plug for energy monitoring. It features **real-time energy tracking**, **remote monitoring**, and **schedule control**. With a rating of 4.5/5 and over 10,000 reviews, it's a top choice among homeowners.
 
 ## Frequently Asked Questions
 ### What is the average cost of a smart plug?

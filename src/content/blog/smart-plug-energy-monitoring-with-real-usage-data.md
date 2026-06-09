@@ -64,11 +64,11 @@ When choosing a smart plug, consider the following features:
 * **kWh Tracking**: Tracks the energy consumption of an appliance in kWh.
 * **Power Factor Measurement**: Measures the power factor of an appliance, which can help identify energy hogs.
 
-The [TP-Link Kasa Smart Plug with Energy Monitoring](https://www.amazon.com/TP-Link-Kasa-Smart-Plug-Energy-Monitoring?tag=vds96-20) is a basic model that tracks energy consumption in kWh. The [Belkin WeMo Insight Smart Plug](https://www.amazon.com/Belkin-WeMo-Insight-Smart-Plug?tag=vds96-20) is an advanced model that measures power factor and provides more detailed energy usage data.
+The [TP-Link Kasa Smart Plug with Energy Monitoring](https://www.amazon.es/TP-Link-Kasa-Smart-Plug-Energy-Monitoring?tag=vladys-21) is a basic model that tracks energy consumption in kWh. The [Belkin WeMo Insight Smart Plug](https://www.amazon.es/Belkin-WeMo-Insight-Smart-Plug?tag=vladys-21) is an advanced model that measures power factor and provides more detailed energy usage data.
 
 ## Frequently Asked Questions
 ### What is the best smart plug for energy tracking?
-The best smart plug for energy tracking is the [TP-Link Kasa Smart Plug with Energy Monitoring](https://www.amazon.com/TP-Link-Kasa-Smart-Plug-Energy-Monitoring?tag=vds96-20), which tracks energy consumption in kWh and provides real-time energy usage data.
+The best smart plug for energy tracking is the [TP-Link Kasa Smart Plug with Energy Monitoring](https://www.amazon.es/TP-Link-Kasa-Smart-Plug-Energy-Monitoring?tag=vladys-21), which tracks energy consumption in kWh and provides real-time energy usage data.
 ### How do I set up automated energy-saving schedules?
 To set up automated energy-saving schedules, identify energy hogs, set up schedules, and use if-this-then-that rules to automate your energy-saving schedules.
 ### What are the top energy hogs in my home?

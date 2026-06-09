@@ -66,7 +66,7 @@ When handling cleaning products, always wear protective gear, including gloves a
 
 ## My Take
 As an app developer and professional chef, I've had my fair share of experience with cleaning products. I've learned that it's essential to use safe and effective alternatives for cleaning and disinfecting. I always recommend using separate solutions of vinegar and castile soap, and following the manufacturer's instructions carefully. I also appreciate the importance of taking proper precautions when handling cleaning products, including wearing protective gear and working in a well-ventilated area.
-In my kitchen, I use [Dr. Bronner's Castile Soap](https://www.drbronner.com) for cleaning surfaces, and I've found it to be a mild and effective cleaner. I also use [ Seventh Generation Natural All-Purpose Cleaner en Amazon](https://www.amazon.com/s?k=+Seventh+Generation+Natural+All-Purpose+Cleaner&tag=vds96-20)(https://www.amazon.com) for tougher cleaning jobs, and I've been impressed with its performance.
+In my kitchen, I use [Dr. Bronner's Castile Soap](https://www.drbronner.com) for cleaning surfaces, and I've found it to be a mild and effective cleaner. I also use [ Seventh Generation Natural All-Purpose Cleaner en Amazon](https://www.amazon.es/s?k=+Seventh+Generation+Natural+All-Purpose+Cleaner&tag=vladys-21)(https://www.amazon.es) for tougher cleaning jobs, and I've been impressed with its performance.
 Overall, I believe that using safe and effective cleaning products is essential for maintaining a healthy and clean environment. By following the tips and recommendations outlined in this article, you can minimize the risks associated with cleaning products and keep your home and family safe.
 
 

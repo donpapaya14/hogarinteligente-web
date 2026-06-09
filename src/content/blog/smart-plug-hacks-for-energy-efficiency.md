@@ -42,7 +42,7 @@ Some popular smart plug devices that offer energy monitoring features include:
 | Belkin WeMo Insight Smart Plug | Energy monitoring, remote control, scheduling |
 | Energees Smart Plug | Energy monitoring, remote control, budget-friendly |
 
-These devices can be purchased on [TP-Link Smart Plug en Amazon](https://www.amazon.com/s?k=TP-Link+Smart+Plug&tag=vds96-20)(https://www.amazon.com/TP-Link-Smart-Plug-3-Prong/dp/B004QZIFD8?tag=vds96-20) and other online retailers.
+These devices can be purchased on [TP-Link Smart Plug en Amazon](https://www.amazon.es/s?k=TP-Link+Smart+Plug&tag=vladys-21)(https://www.amazon.es/TP-Link-Smart-Plug-3-Prong/dp/B004QZIFD8?tag=vladys-21) and other online retailers.
 
 ## Maximizing Energy Savings with Smart Plugs
 To maximize energy savings with smart plugs, it's essential to set up energy alerts and use smart home systems to optimize energy usage. According to the [National Renewable Energy Laboratory (2020)](https://www.nrel.gov), smart home systems can help reduce energy consumption by up to 30%.
@@ -54,7 +54,7 @@ Most smart plug devices are compatible with popular smart home systems, such as 
 For those on a budget, there are several affordable smart plug options available, including:
 * Energees Smart Plug
 * Gosund Mini Smart Plug
-These devices can be purchased on [Gosund Mini Smart Plug en Amazon](https://www.amazon.com/s?k=Gosund+Mini+Smart+Plug&tag=vds96-20)(https://www.amazon.com/Gosund-Mini-Smart-Plug/dp/B07D74PYT4?tag=vds96-20) and other online retailers.
+These devices can be purchased on [Gosund Mini Smart Plug en Amazon](https://www.amazon.es/s?k=Gosund+Mini+Smart+Plug&tag=vladys-21)(https://www.amazon.es/Gosund-Mini-Smart-Plug/dp/B07D74PYT4?tag=vladys-21) and other online retailers.
 
 ## Frequently Asked Questions
 ### What are the benefits of using smart plugs?

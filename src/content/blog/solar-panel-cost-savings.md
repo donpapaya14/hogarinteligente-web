@@ -114,8 +114,8 @@ In my experience, the benefits of solar panels far outweigh the costs, and I wou
 
 *Este artículo contiene enlaces de afiliado. Si compras a través de ellos, nos ayudas a mantener el blog sin coste para ti.*
 
-- [Renogy 200W Solar Panel](https://www.amazon.com/s?k=Renogy+200W+Solar+Panel&tag=vds96-20)
-- [solar charge controller](https://www.amazon.com/s?k=solar+charge+controller&tag=vds96-20)
+- [Renogy 200W Solar Panel](https://www.amazon.es/s?k=Renogy+200W+Solar+Panel&tag=vladys-21)
+- [solar charge controller](https://www.amazon.es/s?k=solar+charge+controller&tag=vladys-21)
 
 
 ---

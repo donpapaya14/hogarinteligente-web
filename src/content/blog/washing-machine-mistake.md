@@ -44,7 +44,7 @@ For heavily soiled items, pre-treat stains instead of using long cycles.
 
 ## The Impact of Washing Machine Temperature on Energy Consumption
 
-Switching from hot to cold water saves **$60 annually** per household, as heating water comprises **90% of a washer's energy use** ([NRDC, 2019](https://www.nrdc.org)). Modern detergents like [ Tide Coldwater Clean en Amazon](https://www.amazon.com/s?k=+Tide+Coldwater+Clean&tag=vds96-20) are formulated for cold water effectiveness. Exceptions:
+Switching from hot to cold water saves **$60 annually** per household, as heating water comprises **90% of a washer's energy use** ([NRDC, 2019](https://www.nrdc.org)). Modern detergents like [ Tide Coldwater Clean en Amazon](https://www.amazon.es/s?k=+Tide+Coldwater+Clean&tag=vladys-21) are formulated for cold water effectiveness. Exceptions:
 - Bed linens (warm water kills dust mites)
 - Oil stains (110°F for grease removal)
 
@@ -53,7 +53,7 @@ Switching from hot to cold water saves **$60 annually** per household, as heatin
 1. **Spin speed**: 1200 RPM extracts more water, cutting dryer time by 30% ([DOE, 2022](https://www.energy.gov))
 2. **Load size**: Fill to ¾ capacity (over/under loading wastes 15% energy)
 3. **Maintenance**: Clean filters monthly (clogs increase energy use by 10%)
-4. **Drying**: Use wool dryer balls ([ Smart Sheep Wool Dryer Balls en Amazon](https://www.amazon.com/s?k=+Smart+Sheep+Wool+Dryer+Balls&tag=vds96-20)) to reduce drying time by 25%
+4. **Drying**: Use wool dryer balls ([ Smart Sheep Wool Dryer Balls en Amazon](https://www.amazon.es/s?k=+Smart+Sheep+Wool+Dryer+Balls&tag=vladys-21)) to reduce drying time by 25%
 
 ## Conclusion and Call to Action
 
@@ -76,11 +76,11 @@ Off-peak hours (8PM-6AM) can save **10-15%** in areas with time-of-use rates. Al
 Except for sanitary items (towels, underwear) and grease stains, **80% of laundry** can be washed cold without compromising cleanliness.
 
 ### How often should I clean my washing machine?
-Monthly cleaning with vinegar or affresh tablets ([ affresh Washing Machine Cleaner en Amazon](https://www.amazon.com/s?k=+affresh+Washing+Machine+Cleaner&tag=vds96-20)) prevents mold and maintains **peak efficiency**.
+Monthly cleaning with vinegar or affresh tablets ([ affresh Washing Machine Cleaner en Amazon](https://www.amazon.es/s?k=+affresh+Washing+Machine+Cleaner&tag=vladys-21)) prevents mold and maintains **peak efficiency**.
 
 ## My Take
 
-As someone who's lived in both energy-conscious Germany and appliance-heavy U.S., I've seen firsthand how small changes compound. My Berlin apartment's [ Miele W1 washing machine en Amazon](https://www.amazon.com/s?k=+Miele+W1+washing+machine&tag=vds96-20) (rated A+++ for efficiency) taught me that:
+As someone who's lived in both energy-conscious Germany and appliance-heavy U.S., I've seen firsthand how small changes compound. My Berlin apartment's [ Miele W1 washing machine en Amazon](https://www.amazon.es/s?k=+Miele+W1+washing+machine&tag=vladys-21) (rated A+++ for efficiency) taught me that:
 1. **Pre-sorting** laundry by soil level (not just color) lets me use shorter cycles
 2. **Bamboo fiber clothes** (my chef uniforms) dry 40% faster than cotton
 

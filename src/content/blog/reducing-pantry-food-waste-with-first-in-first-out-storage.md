@@ -29,7 +29,7 @@ To reduce pantry food waste, implementing a **first-in-first-out** storage syste
 As recommended by the [Professional Organizer's Association](https://www.napo.net), this system ensures that older items are consumed before they expire.
 
 ## Maximizing Pantry Space with Adjustable Shelving
-Optimizing pantry space is essential for efficient storage. The [Rubbermaid Configurations 3-Shelf Adjustable Shelving Unit](https://www.amazon.com/Rubbermaid-Configurations-Adjustable-Shelving-Unit?tag=vds96-20) is a highly-rated option, offering adjustable shelves to accommodate items of varying sizes. Complementary products, such as the [OXO Good Grips Pop Container](https://www.amazon.com/OXO-Good-Grips-Pop-Container?tag=vds96-20), can help maintain a clutter-free pantry.
+Optimizing pantry space is essential for efficient storage. The [Rubbermaid Configurations 3-Shelf Adjustable Shelving Unit](https://www.amazon.es/Rubbermaid-Configurations-Adjustable-Shelving-Unit?tag=vladys-21) is a highly-rated option, offering adjustable shelves to accommodate items of varying sizes. Complementary products, such as the [OXO Good Grips Pop Container](https://www.amazon.es/OXO-Good-Grips-Pop-Container?tag=vladys-21), can help maintain a clutter-free pantry.
 
 ## Categorizing Pantry Items for Efficient Storage
 Categorizing pantry items is vital for preventing cross-contamination and ensuring easy access. The [National Kitchen and Bath Association](https://www.nkba.org) recommends the following categories:
@@ -39,7 +39,7 @@ Categorizing pantry items is vital for preventing cross-contamination and ensuri
 Store each category separately to maintain a organized and functional pantry.
 
 ## Labeling and Tracking Pantry Expiration Dates
-Labeling and tracking expiration dates is essential for minimizing food waste. The [Stickeroo Pantry Label Kit](https://www.amazon.com/Stickeroo-Pantry-Label-Kit?tag=vds96-20) offers a convenient solution for labeling items. A recommended labeling system includes:
+Labeling and tracking expiration dates is essential for minimizing food waste. The [Stickeroo Pantry Label Kit](https://www.amazon.es/Stickeroo-Pantry-Label-Kit?tag=vladys-21) offers a convenient solution for labeling items. A recommended labeling system includes:
 1. Item name
 2. Purchase date
 3. Expiration date
@@ -56,7 +56,7 @@ The average American household throws away **$1,500** worth of food per year, ac
 ### How can I reduce food waste in my pantry?
 Implementing a **first-in-first-out** storage system and regularly reviewing expiration dates can significantly reduce food waste.
 ### What are the benefits of using adjustable shelving in my pantry?
-Adjustable shelving, such as the [Rubbermaid Configurations 3-Shelf Adjustable Shelving Unit](https://www.amazon.com/Rubbermaid-Configurations-Adjustable-Shelving-Unit?tag=vds96-20), offers optimized storage and easy access to items.
+Adjustable shelving, such as the [Rubbermaid Configurations 3-Shelf Adjustable Shelving Unit](https://www.amazon.es/Rubbermaid-Configurations-Adjustable-Shelving-Unit?tag=vladys-21), offers optimized storage and easy access to items.
 ### How often should I clean out my pantry?
 Schedule regular pantry clean-outs every **3-6 months** to maintain a organized and functional pantry.
 ### What are the most common categories for pantry items?
@@ -65,7 +65,7 @@ The [National Kitchen and Bath Association](https://www.nkba.org) recommends cat
 Store each category of pantry items separately to prevent cross-contamination and maintain a safe and healthy pantry.
 
 ## My Take
-As an app developer and professional chef, I understand the importance of efficient pantry organization. In my own kitchen, I use a combination of adjustable shelving and categorization to maintain a clutter-free pantry. I recommend investing in a [Rubbermaid Configurations 3-Shelf Adjustable Shelving Unit](https://www.amazon.com/Rubbermaid-Configurations-Adjustable-Shelving-Unit?tag=vds96-20) and complementary products, such as the [OXO Good Grips Pop Container](https://www.amazon.com/OXO-Good-Grips-Pop-Container?tag=vds96-20), to optimize storage and reduce food waste.
+As an app developer and professional chef, I understand the importance of efficient pantry organization. In my own kitchen, I use a combination of adjustable shelving and categorization to maintain a clutter-free pantry. I recommend investing in a [Rubbermaid Configurations 3-Shelf Adjustable Shelving Unit](https://www.amazon.es/Rubbermaid-Configurations-Adjustable-Shelving-Unit?tag=vladys-21) and complementary products, such as the [OXO Good Grips Pop Container](https://www.amazon.es/OXO-Good-Grips-Pop-Container?tag=vladys-21), to optimize storage and reduce food waste.
 
 
 
@@ -78,11 +78,11 @@ As an app developer and professional chef, I understand the importance of effici
 
 ## Practical Summary
 * Implement a **first-in-first-out** storage system to reduce pantry food waste.
-* Use adjustable shelving, such as the [Rubbermaid Configurations 3-Shelf Adjustable Shelving Unit](https://www.amazon.com/Rubbermaid-Configurations-Adjustable-Shelving-Unit?tag=vds96-20), to optimize storage.
+* Use adjustable shelving, such as the [Rubbermaid Configurations 3-Shelf Adjustable Shelving Unit](https://www.amazon.es/Rubbermaid-Configurations-Adjustable-Shelving-Unit?tag=vladys-21), to optimize storage.
 * Categorize pantry items into groups (e.g., grains, canned goods) to prevent cross-contamination.
 * Label and track expiration dates using a recommended labeling system.
 * Schedule regular pantry clean-outs every **3-6 months** to maintain a organized and functional pantry.
-* Invest in complementary products, such as the [OXO Good Grips Pop Container](https://www.amazon.com/OXO-Good-Grips-Pop-Container?tag=vds96-20), to maintain a clutter-free pantry.
+* Invest in complementary products, such as the [OXO Good Grips Pop Container](https://www.amazon.es/OXO-Good-Grips-Pop-Container?tag=vladys-21), to maintain a clutter-free pantry.
 * Monitor expiration dates and adjust storage accordingly to minimize food waste.
 * Adjust categorization and labeling as needed to ensure continued effectiveness of your pantry organization system.
 

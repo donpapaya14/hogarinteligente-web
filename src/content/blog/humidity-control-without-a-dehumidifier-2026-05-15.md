@@ -44,14 +44,14 @@ Evaporative cooling works by using the principle of **evaporation** to cool the 
 ### What are the benefits of using desiccant materials for humidity control?
 The benefits of using desiccant materials for humidity control include **energy efficiency** and **low maintenance**, according to the [National Institute of Standards and Technology](https://www.nist.gov/).
 ### Can I use a Dylos DC110 Air Purifier and Dehumidifier to control humidity levels?
-Yes, the [Dylos DC110 Air Purifier and Dehumidifier](https://www.amazon.com/Dylos-DC1100-Air-Purifier-Dehumidifier?tag=vds96-20) can be used to control humidity levels, but it is not a traditional dehumidifier.
+Yes, the [Dylos DC110 Air Purifier and Dehumidifier](https://www.amazon.es/Dylos-DC1100-Air-Purifier-Dehumidifier?tag=vladys-21) can be used to control humidity levels, but it is not a traditional dehumidifier.
 ### How often should I check my humidity levels?
 You should check your humidity levels **daily**, according to the [International Association of Plumbing and Mechanical Officials](https://www.iapmo.org/).
 ### What are the health effects of high humidity levels?
 High humidity levels can lead to the growth of **mold** and **mildew**, which can cause **respiratory problems**, according to the [Centers for Disease Control and Prevention](https://www.cdc.gov/).
 
 ## My Take
-As an app developer and professional chef, I have always been interested in finding ways to control humidity levels in my home and kitchen. After researching and experimenting with different methods, I found that using a combination of **evaporative cooling** and **desiccant materials** was the most effective way to control humidity levels. I also found that using a [Dylos DC110 Air Purifier and Dehumidifier](https://www.amazon.com/Dylos-DC1100-Air-Purifier-Dehumidifier?tag=vds96-20) was a great way to purify the air and control humidity levels.
+As an app developer and professional chef, I have always been interested in finding ways to control humidity levels in my home and kitchen. After researching and experimenting with different methods, I found that using a combination of **evaporative cooling** and **desiccant materials** was the most effective way to control humidity levels. I also found that using a [Dylos DC110 Air Purifier and Dehumidifier](https://www.amazon.es/Dylos-DC1100-Air-Purifier-Dehumidifier?tag=vladys-21) was a great way to purify the air and control humidity levels.
 
 
 
@@ -67,8 +67,8 @@ As an app developer and professional chef, I have always been interested in find
 * Select the right **desiccant materials** for your humidity control system
 * Design an effective **humidity control system** that meets your specific needs
 * Check your **humidity levels** daily
-* Use a [Dylos DC110 Air Purifier and Dehumidifier](https://www.amazon.com/Dylos-DC1100-Air-Purifier-Dehumidifier?tag=vds96-20) to purify the air and control humidity levels
-* Consider using [ Honeywell HUL520W Mistmate Humidifier en Amazon](https://www.amazon.com/s?k=+Honeywell+HUL520W+Mistmate+Humidifier&tag=vds96-20)(https://www.amazon.com/Honeywell-HUL520W-Mistmate-Humidifier?tag=vds96-20) and [ Pro Breeze Electric Dehumidifier en Amazon](https://www.amazon.com/s?k=+Pro+Breeze+Electric+Dehumidifier&tag=vds96-20)(https://www.amazon.com/Pro-Breeze-Electric-Dehumidifier?tag=vds96-20) for additional humidity control options
+* Use a [Dylos DC110 Air Purifier and Dehumidifier](https://www.amazon.es/Dylos-DC1100-Air-Purifier-Dehumidifier?tag=vladys-21) to purify the air and control humidity levels
+* Consider using [ Honeywell HUL520W Mistmate Humidifier en Amazon](https://www.amazon.es/s?k=+Honeywell+HUL520W+Mistmate+Humidifier&tag=vladys-21)(https://www.amazon.es/Honeywell-HUL520W-Mistmate-Humidifier?tag=vladys-21) and [ Pro Breeze Electric Dehumidifier en Amazon](https://www.amazon.es/s?k=+Pro+Breeze+Electric+Dehumidifier&tag=vladys-21)(https://www.amazon.es/Pro-Breeze-Electric-Dehumidifier?tag=vladys-21) for additional humidity control options
 * Visit the [World Health Organization](https://www.who.int/) website for more information on humidity control
 
 

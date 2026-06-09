@@ -43,7 +43,7 @@ A study by the [University of California, Los Angeles (2018)](https://www.ucla.e
 When using vinegar and tea tree oil, it's essential to take precautions to avoid skin and eye irritation. The [Environmental Protection Agency (EPA) Safer Choice Program (2020)](https://www.epa.gov) recommends diluting tea tree oil with water before applying it to surfaces. It's also essential to wear **gloves** and **protective eyewear** when using the spray.
 
 ## Amazon Product Recommendation: DIY Disinfectant Spray Kit
-The [ DIY Disinfectant Spray Kit en Amazon](https://www.amazon.com/s?k=+DIY+Disinfectant+Spray+Kit&tag=vds96-20)(https://www.amazon.com) is a great alternative to making your own disinfectant spray. The kit includes a spray bottle and a packet of natural disinfectant powder made from vinegar and tea tree oil. You can also consider purchasing [ Microfiber Cloths en Amazon](https://www.amazon.com/s?k=+Microfiber+Cloths&tag=vds96-20)(https://www.amazon.com) to use with your disinfectant spray.
+The [ DIY Disinfectant Spray Kit en Amazon](https://www.amazon.es/s?k=+DIY+Disinfectant+Spray+Kit&tag=vladys-21)(https://www.amazon.es) is a great alternative to making your own disinfectant spray. The kit includes a spray bottle and a packet of natural disinfectant powder made from vinegar and tea tree oil. You can also consider purchasing [ Microfiber Cloths en Amazon](https://www.amazon.es/s?k=+Microfiber+Cloths&tag=vladys-21)(https://www.amazon.es) to use with your disinfectant spray.
 
 ## Frequently Asked Questions
 ### What are the benefits of using natural disinfectant sprays?
@@ -62,7 +62,7 @@ Tea tree oil has **antimicrobial properties** that can help combat microorganism
 ## My Take
 As an app developer and professional chef, I've always been interested in finding natural and sustainable solutions for cleaning and disinfecting. Using natural disinfectant sprays with vinegar and tea tree oil has been a game-changer for me. Not only are they effective, but they're also **non-toxic** and **environmentally friendly**.
 I've been using natural disinfectant sprays in my kitchen and home for months now, and I've noticed a significant reduction in **germ growth** and **odors**. I highly recommend giving them a try.
-In addition to using natural disinfectant sprays, I also recommend using [ Essential Oil Diffuser en Amazon](https://www.amazon.com/s?k=+Essential+Oil+Diffuser&tag=vds96-20)(https://www.amazon.com) to create a clean and fresh environment.
+In addition to using natural disinfectant sprays, I also recommend using [ Essential Oil Diffuser en Amazon](https://www.amazon.es/s?k=+Essential+Oil+Diffuser&tag=vladys-21)(https://www.amazon.es) to create a clean and fresh environment.
 
 
 
@@ -81,7 +81,7 @@ Here are some concrete actions you can take to start using natural disinfectant 
 * Use natural disinfectant sprays at least once a week to maintain a clean and germ-free environment.
 * Wear gloves and protective eyewear when using the spray to avoid skin and eye irritation.
 * Test the spray on a small area before using it on a larger surface.
-* Consider purchasing [ DIY Disinfectant Spray Kit en Amazon](https://www.amazon.com/s?k=+DIY+Disinfectant+Spray+Kit&tag=vds96-20)(https://www.amazon.com) for a convenient and easy-to-use solution.
+* Consider purchasing [ DIY Disinfectant Spray Kit en Amazon](https://www.amazon.es/s?k=+DIY+Disinfectant+Spray+Kit&tag=vladys-21)(https://www.amazon.es) for a convenient and easy-to-use solution.
 
 
 ---

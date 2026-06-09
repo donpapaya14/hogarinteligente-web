@@ -36,8 +36,8 @@ Start by assessing your current setup. Keep only essentials: computer, notebook,
 
 | **Tool**          | **Purpose**                          | **Top Pick**                     |
 |-------------------|--------------------------------------|----------------------------------|
-| Desk tray         | Paper sorting                        | [Amazon Basics Desk Organizer en Amazon](https://www.amazon.com/s?k=Amazon+Basics+Desk+Organizer&tag=vds96-20)(https://www.amazon.com) |
-| Cable clips       | Wire management                      | [J Channel Cable Organizer en Amazon](https://www.amazon.com/s?k=J+Channel+Cable+Organizer&tag=vds96-20)(https://www.amazon.com) |
+| Desk tray         | Paper sorting                        | [Amazon Basics Desk Organizer en Amazon](https://www.amazon.es/s?k=Amazon+Basics+Desk+Organizer&tag=vladys-21)(https://www.amazon.es) |
+| Cable clips       | Wire management                      | [J Channel Cable Organizer en Amazon](https://www.amazon.es/s?k=J+Channel+Cable+Organizer&tag=vladys-21)(https://www.amazon.es) |
 | Drawer inserts   | Small item storage                   | IKEA SKÅDIS pegboard             |
 
 Wirecutter ([2020](https://www.nytimes.com/wirecutter)) recommends **vertical storage** to save space, like stacking trays or wall-mounted shelves.
@@ -45,7 +45,7 @@ Wirecutter ([2020](https://www.nytimes.com/wirecutter)) recommends **vertical st
 ## Setting Up a Minimalist Desk
 
 1. **Zoning**: Divide your desk into work (center), reference (left), and storage (right) areas. 
-2. **Use trays**: Stackable trays (like the [Amazon Basics Desk Organizer en Amazon](https://www.amazon.com/s?k=Amazon+Basics+Desk+Organizer&tag=vds96-20)(https://www.amazon.com)) keep papers upright. 
+2. **Use trays**: Stackable trays (like the [Amazon Basics Desk Organizer en Amazon](https://www.amazon.es/s?k=Amazon+Basics+Desk+Organizer&tag=vladys-21)(https://www.amazon.es)) keep papers upright. 
 3. **Hide cords**: Bundle cables with Velcro ties. IKEA ([2021](https://www.ikea.com)) suggests routing wires under the desk with adhesive clips.
 
 ## Maintaining a Clutter-Free Desk
@@ -56,7 +56,7 @@ Wirecutter ([2020](https://www.nytimes.com/wirecutter)) recommends **vertical st
 
 ## Recommended Amazon Product
 
-The **[Amazon Basics Desk Organizer en Amazon](https://www.amazon.com/s?k=Amazon+Basics+Desk+Organizer&tag=vds96-20)(https://www.amazon.com)** ($12.99) is a top-rated, no-frills solution with 5 compartments for pens, papers, and devices. Over **10,000 reviews** praise its durability and compact design.
+The **[Amazon Basics Desk Organizer en Amazon](https://www.amazon.es/s?k=Amazon+Basics+Desk+Organizer&tag=vladys-21)(https://www.amazon.es)** ($12.99) is a top-rated, no-frills solution with 5 compartments for pens, papers, and devices. Over **10,000 reviews** praise its durability and compact design.
 
 ## Frequently Asked Questions
 
@@ -64,7 +64,7 @@ The **[Amazon Basics Desk Organizer en Amazon](https://www.amazon.com/s?k=Amazon
 **Begin by removing everything and sorting items into keep/donate/trash piles.** Allocate 30 minutes for this task, and use the 3-box method for papers (action, archive, recycle).
 
 ### What are the best desk organizer ideas for small spaces?
-**Vertical storage (e.g., wall-mounted shelves) and multi-tier trays maximize space.** The [Amazon Basics Desk Organizer en Amazon](https://www.amazon.com/s?k=Amazon+Basics+Desk+Organizer&tag=vds96-20)(https://www.amazon.com) fits snugly on compact desks.
+**Vertical storage (e.g., wall-mounted shelves) and multi-tier trays maximize space.** The [Amazon Basics Desk Organizer en Amazon](https://www.amazon.es/s?k=Amazon+Basics+Desk+Organizer&tag=vladys-21)(https://www.amazon.es) fits snugly on compact desks.
 
 ### How often should I clean my home office desk?
 **Wipe surfaces daily and do a full reorganization monthly.** A [Forbes (2018)](https://www.forbes.com) survey found that weekly cleanings reduce stress by **27%**.
@@ -95,7 +95,7 @@ Now, I coach my team to **‘tray test’ new hires**: if their essentials overf
 ## Practical Summary
 
 - **Purge first**: Keep only daily-use items (1 pen, 1 notebook, laptop). 
-- **Invest in trays**: The [Amazon Basics Desk Organizer en Amazon](https://www.amazon.com/s?k=Amazon+Basics+Desk+Organizer&tag=vds96-20)(https://www.amazon.com) is a budget-friendly start. 
+- **Invest in trays**: The [Amazon Basics Desk Organizer en Amazon](https://www.amazon.es/s?k=Amazon+Basics+Desk+Organizer&tag=vladys-21)(https://www.amazon.es) is a budget-friendly start. 
 - **Go vertical**: Use wall-mounted shelves or stacking trays. 
 - **Daily reset**: 5-minute tidy-ups prevent pile-ups. 
 - **Digitize papers**: Apps like Adobe Scan cut physical clutter. 

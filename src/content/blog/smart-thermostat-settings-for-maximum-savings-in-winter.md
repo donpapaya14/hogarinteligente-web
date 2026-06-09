@@ -62,12 +62,12 @@ To adjust for **polar vortex events**, use a **smart thermostat** to learn your 
 ### What is the optimal switchover temperature for dual-fuel systems?
 According to a [Carrier HVAC](https://www.carrier.com) technical bulletin 2022, the optimal switchover temperature is between **40-50°F**.
 ### Can I use a smart thermostat with other devices?
-Yes, you can use a **smart thermostat** with other devices, such as the [Ecobee SmartThermostat Premium with Voice Control](https://www.ecobee.com) and [ Ecobee SmartSensor en Amazon](https://www.amazon.com/s?k=+Ecobee+SmartSensor&tag=vds96-20)(https://www.amazon.com).
+Yes, you can use a **smart thermostat** with other devices, such as the [Ecobee SmartThermostat Premium with Voice Control](https://www.ecobee.com) and [ Ecobee SmartSensor en Amazon](https://www.amazon.es/s?k=+Ecobee+SmartSensor&tag=vladys-21)(https://www.amazon.es).
 
 ## My Take
 As an app developer and professional chef, I've learned the importance of optimizing my smart thermostat settings for maximum savings. I use the **Ecobee SmartThermostat Premium with Voice Control** to integrate with other smart devices and adjust the temperature settings based on the outside temperature. I've also invested in a **smart home system** to integrate my thermostat with other devices.
 In my experience, the key to maximizing savings is to adjust your thermostat settings based on your schedule and the outside temperature. I've found that using a **smart thermostat** and adjusting the temperature settings accordingly can save up to **10%** on heating bills.
-I recommend using the **Ecobee SmartThermostat Premium with Voice Control** and [ Ecobee SmartSensor en Amazon](https://www.amazon.com/s?k=+Ecobee+SmartSensor&tag=vds96-20)(https://www.amazon.com) to optimize your smart thermostat settings for maximum savings.
+I recommend using the **Ecobee SmartThermostat Premium with Voice Control** and [ Ecobee SmartSensor en Amazon](https://www.amazon.es/s?k=+Ecobee+SmartSensor&tag=vladys-21)(https://www.amazon.es) to optimize your smart thermostat settings for maximum savings.
 
 
 

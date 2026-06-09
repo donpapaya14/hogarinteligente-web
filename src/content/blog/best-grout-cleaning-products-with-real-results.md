@@ -96,8 +96,8 @@ For those looking to tackle grout cleaning on their own, I recommend starting wi
 
 *Este artículo contiene enlaces de afiliado. Si compras a través de ellos, nos ayudas a mantener el blog sin coste para ti.*
 
-- [Zep Grout Cleaner and Whitener](https://www.amazon.com/s?k=Zep+Grout+Cleaner+and+Whitener&tag=vds96-20)
-- [Laticrete Grout & Tile Cleaner](https://www.amazon.com/s?k=Laticrete+Grout+&+Tile+Cleaner&tag=vds96-20)
+- [Zep Grout Cleaner and Whitener](https://www.amazon.es/s?k=Zep+Grout+Cleaner+and+Whitener&tag=vladys-21)
+- [Laticrete Grout & Tile Cleaner](https://www.amazon.es/s?k=Laticrete+Grout+&+Tile+Cleaner&tag=vladys-21)
 
 
 ---

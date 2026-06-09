@@ -42,7 +42,7 @@ Here are some step-by-step instructions for creating natural cleaning solutions 
 When using baking soda and hydrogen peroxide in cleaning solutions, it's essential to take safety precautions to avoid unintended consequences. According to the [Environmental Protection Agency (EPA)](https://www.epa.gov), mixing these substances with other household chemicals can be hazardous. Always handle and store these substances with care.
 
 ## Amazon Product Recommendation: Arm & Hammer Natural Cleaning Supplies
-For a convenient and effective natural cleaning solution, consider [ Arm & Hammer Natural Cleaning Supplies en Amazon](https://www.amazon.com/s?k=+Arm+&+Hammer+Natural+Cleaning+Supplies&tag=vds96-20). This product contains baking soda and other natural ingredients to provide a safe and effective cleaning solution.
+For a convenient and effective natural cleaning solution, consider [ Arm & Hammer Natural Cleaning Supplies en Amazon](https://www.amazon.es/s?k=+Arm+&+Hammer+Natural+Cleaning+Supplies&tag=vladys-21). This product contains baking soda and other natural ingredients to provide a safe and effective cleaning solution.
 
 ## Frequently Asked Questions
 ### What are the benefits of using natural cleaning solutions?
@@ -56,7 +56,7 @@ Yes, baking soda can be used to clean carpets. Sprinkle baking soda liberally on
 ### How do I store natural cleaning solutions?
 Natural cleaning solutions should be stored in a cool, dry place, away from direct sunlight and other household chemicals.
 ### What are the benefits of using Arm & Hammer Natural Cleaning Supplies?
-The benefits of using [ Arm & Hammer Natural Cleaning Supplies en Amazon](https://www.amazon.com/s?k=+Arm+&+Hammer+Natural+Cleaning+Supplies&tag=vds96-20) include convenience, effectiveness, and a safer alternative to harsh chemicals.
+The benefits of using [ Arm & Hammer Natural Cleaning Supplies en Amazon](https://www.amazon.es/s?k=+Arm+&+Hammer+Natural+Cleaning+Supplies&tag=vladys-21) include convenience, effectiveness, and a safer alternative to harsh chemicals.
 
 ## My Take
 As an app developer and professional chef, I've always been interested in finding safer and more effective ways to clean my kitchen and home. After discovering the benefits of natural cleaning solutions with baking soda and hydrogen peroxide, I've made the switch and never looked back. Not only are these solutions better for my health and the environment, but they're also cost-effective and easy to make.
@@ -79,7 +79,7 @@ Here are some concrete action bullets to get you started with natural cleaning s
 * Mix 1 cup of baking soda with 1 cup of hydrogen peroxide to create a paste for all-purpose cleaning
 * Apply hydrogen peroxide directly to stains and let it sit for 10-15 minutes before rinsing
 * Store natural cleaning solutions in a cool, dry place, away from direct sunlight and other household chemicals
-* Use [ Arm & Hammer Natural Cleaning Supplies en Amazon](https://www.amazon.com/s?k=+Arm+&+Hammer+Natural+Cleaning+Supplies&tag=vds96-20) for a convenient and effective natural cleaning solution
+* Use [ Arm & Hammer Natural Cleaning Supplies en Amazon](https://www.amazon.es/s?k=+Arm+&+Hammer+Natural+Cleaning+Supplies&tag=vladys-21) for a convenient and effective natural cleaning solution
 * Experiment with different recipes and techniques to find what works best for you
 * Always handle and store hydrogen peroxide with care to avoid unintended consequences
 * Consider using natural ingredients like baking soda and hydrogen peroxide to reduce exposure to harsh chemicals and minimize environmental impact

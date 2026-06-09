@@ -29,7 +29,7 @@ To start, take inventory of your pantry, categorize items by type and expiration
 3. **Check expiration dates**: Discard expired items.
 
 ## Use Clear, Labeled Containers for Storage
-Using **airtight, clear containers** with labels can make tracking contents and expiration dates easier. A study in the Journal of Food Science, 2019 found that proper storage can extend the shelf life of food. Consider using the [OXO Good Grips POP Container](https://amazon.com/?tag=vds96-20) for efficient storage.
+Using **airtight, clear containers** with labels can make tracking contents and expiration dates easier. A study in the Journal of Food Science, 2019 found that proper storage can extend the shelf life of food. Consider using the [OXO Good Grips POP Container](https://amazon.com/?tag=vladys-21) for efficient storage.
 
 ## Implement the FIFO (First In, First Out) Method
 The FIFO method involves arranging items so that older products are used first, reducing spoilage and waste. The [Food and Nutrition Service, 2021](https://www.fns.usda.gov) recommends this method for managing inventory. Here’s how to implement it:

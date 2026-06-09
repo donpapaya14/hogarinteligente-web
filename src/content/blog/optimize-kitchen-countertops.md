@@ -45,7 +45,7 @@ Kitchen Design Magazine (2019) found zone-based systems reduce meal prep time by
 
 1. **Prep zone**: Keep knives, cutting boards, and mixing bowls within arm's reach
 2. **Cooking zone**: Store spices and utensils near the stove (ideal radius: 12-18")
-3. **Beverage station**: Consolidate coffee/tea essentials on a [Seville Classics UltraHD Wall-Mounted Shelf en Amazon](https://www.amazon.com/s?k=Seville+Classics+UltraHD+Wall-Mounted+Shelf&tag=vds96-20)
+3. **Beverage station**: Consolidate coffee/tea essentials on a [Seville Classics UltraHD Wall-Mounted Shelf en Amazon](https://www.amazon.es/s?k=Seville+Classics+UltraHD+Wall-Mounted+Shelf&tag=vladys-21)
 4. **Baking center**: Use vertical storage for measuring tools
 5. **Landing zone**: Designate 12"x12" area for temporary item placement
 
@@ -94,7 +94,7 @@ Maintain at least 30% clear space. The NKBA Standard Guidelines require 158 sq i
 It depends on usage frequency. Open shelves provide 17% faster access (Journal of Environmental Psychology, 2018) but require 2x more cleaning. Reserve them for daily-use items only.
 
 ### What's the best way to organize countertop appliances?
-Group by frequency: daily-use appliances stay out, others go in storage. The [SimpleHouseware 2-Tier Organizer en Amazon](https://www.amazon.com/s?k=SimpleHouseware+2-Tier+Organizer&tag=vds96-20) creates vertical space for occasional-use items while keeping them accessible.
+Group by frequency: daily-use appliances stay out, others go in storage. The [SimpleHouseware 2-Tier Organizer en Amazon](https://www.amazon.es/s?k=SimpleHouseware+2-Tier+Organizer&tag=vladys-21) creates vertical space for occasional-use items while keeping them accessible.
 
 ## My Take
 
@@ -116,7 +116,7 @@ The game-changer was treating my countertop like a workbench: only tools activel
 - Audit current usage with 3-day tracking
 - Apply the 90/90 rule to declutter
 - Create 5 functional zones based on workflow
-- Invest in [Seville Classics UltraHD Wall-Mounted Shelf en Amazon](https://www.amazon.com/s?k=Seville+Classics+UltraHD+Wall-Mounted+Shelf&tag=vds96-20) for vertical storage
+- Invest in [Seville Classics UltraHD Wall-Mounted Shelf en Amazon](https://www.amazon.es/s?k=Seville+Classics+UltraHD+Wall-Mounted+Shelf&tag=vladys-21) for vertical storage
 - Maintain 30% clear counter space
 - Do 5-minute daily resets
 - Reassess organization quarterly

@@ -64,7 +64,7 @@ To clean and sanitize your pastry dough roller, wash it with warm soapy water an
 Some common mistakes to avoid when rolling pastry dough include over-working the dough, using too much flour, and rolling the dough too thinly. According to **[King Arthur Flour](https://www.kingarthurflour.com)**, avoiding these mistakes can help produce uniform results and prevent the dough from becoming tough or brittle.
 
 ## My Take
-As a professional chef and app developer, I can attest to the importance of using the right pastry dough rolling tools. In my experience, using a high-quality pastry dough roller can make all the difference in producing uniform results and saving time. I recommend investing in a **[Joseph Joseph Adjustable Pastry Roller](https://www.amazon.com/Joseph-Joseph-Adjustable-Pastry-Roller?tag=vds96-20)**, as it is durable, easy to use, and adjustable to different thicknesses.
+As a professional chef and app developer, I can attest to the importance of using the right pastry dough rolling tools. In my experience, using a high-quality pastry dough roller can make all the difference in producing uniform results and saving time. I recommend investing in a **[Joseph Joseph Adjustable Pastry Roller](https://www.amazon.es/Joseph-Joseph-Adjustable-Pastry-Roller?tag=vladys-21)**, as it is durable, easy to use, and adjustable to different thicknesses.
 
 
 
@@ -77,7 +77,7 @@ As a professional chef and app developer, I can attest to the importance of usin
 
 ## Practical Summary
 Here are some concrete actions you can take to improve your pastry dough rolling skills:
-* Invest in a high-quality pastry dough roller, such as the **[Joseph Joseph Adjustable Pastry Roller](https://www.amazon.com/Joseph-Joseph-Adjustable-Pastry-Roller?tag=vds96-20)**
+* Invest in a high-quality pastry dough roller, such as the **[Joseph Joseph Adjustable Pastry Roller](https://www.amazon.es/Joseph-Joseph-Adjustable-Pastry-Roller?tag=vladys-21)**
 * Use a lightly floured surface or pastry mat to prevent sticking
 * Maintain an even temperature and use the right amount of flour
 * Clean and sanitize your pastry dough roller regularly

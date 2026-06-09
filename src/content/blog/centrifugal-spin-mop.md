@@ -37,7 +37,7 @@ Consider these factors ([Consumer Reports, 2022](https://www.consumerreports.org
 2. **Handle material**: Aluminum (lightweight) vs. steel (durable).
 3. **Bucket design**: Look for splash guards and removable trays.
 
-Top pick: [ O-Cedar Centrifugal Spin Mop, $25.99 en Amazon](https://www.amazon.com/s?k=+O-Cedar+Centrifugal+Spin+Mop,+$25.99&tag=vds96-20) with a **360° spinning head** and **dual-chamber bucket**.
+Top pick: [ O-Cedar Centrifugal Spin Mop, $25.99 en Amazon](https://www.amazon.es/s?k=+O-Cedar+Centrifugal+Spin+Mop,+$25.99&tag=vladys-21) with a **360° spinning head** and **dual-chamber bucket**.
 
 ## Maintenance and Troubleshooting Tips
 1. **Clean after use**: Rinse the mop head with hot water to prevent odors.
@@ -69,7 +69,7 @@ For daily cleaning, yes. Spin mops are **faster and use less water**, while stea
 Bacteria buildup causes odors. Soak the head in **1:1 vinegar-water solution for 30 mins** weekly to disinfect.
 
 ## My Take
-As someone who juggles app development and cooking (with constant kitchen spills), I’ve tested every mop type. The **O-Cedar spin mop** is my go-to for its **one-pedal spinning**—no messy hand-wringing while multitasking. Pro tip: Pair it with [ Bona Hardwood Floor Cleaner en Amazon](https://www.amazon.com/s?k=+Bona+Hardwood+Floor+Cleaner&tag=vds96-20) for streak-free shine. The only downside? The bucket’s size (tall but narrow), so measure your storage space first.
+As someone who juggles app development and cooking (with constant kitchen spills), I’ve tested every mop type. The **O-Cedar spin mop** is my go-to for its **one-pedal spinning**—no messy hand-wringing while multitasking. Pro tip: Pair it with [ Bona Hardwood Floor Cleaner en Amazon](https://www.amazon.es/s?k=+Bona+Hardwood+Floor+Cleaner&tag=vladys-21) for streak-free shine. The only downside? The bucket’s size (tall but narrow), so measure your storage space first.
 
 
 

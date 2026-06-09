@@ -20,7 +20,7 @@ draft: false
 
 ## Introduction to Cold Cycle
 
-Washing clothes in **cold water (60°F/15°C or below)** can reduce a washing machine's energy use by **75% per load** compared to hot water cycles, according to the [US Energy Information Administration (2020)](https://www.eia.gov). Modern detergents like [ Tide Cold Water Laundry Detergent en Amazon](https://www.amazon.com/s?k=+Tide+Cold+Water+Laundry+Detergent&tag=vds96-20) are formulated to activate effectively in cold temperatures, eliminating the need for heated water in most cases. This simple switch also preserves fabric colors and reduces shrinkage.
+Washing clothes in **cold water (60°F/15°C or below)** can reduce a washing machine's energy use by **75% per load** compared to hot water cycles, according to the [US Energy Information Administration (2020)](https://www.eia.gov). Modern detergents like [ Tide Cold Water Laundry Detergent en Amazon](https://www.amazon.es/s?k=+Tide+Cold+Water+Laundry+Detergent&tag=vladys-21) are formulated to activate effectively in cold temperatures, eliminating the need for heated water in most cases. This simple switch also preserves fabric colors and reduces shrinkage.
 
 ## The Common Mistake
 
@@ -55,7 +55,7 @@ Many consumers default to hot water for "sanitizing" clothes, but the **American
 
 1. Use **HE (High Efficiency) detergent** – Requires 50% less product vs. regular detergents ([ENERGY STAR, 2021](https://www.energystar.gov))
 2. Wash full loads – A 7-lb wash uses the same energy as a 12-lb load
-3. Pre-treat stains – Apply [ OxiClean Stain Remover en Amazon](https://www.amazon.com/s?k=+OxiClean+Stain+Remover&tag=vds96-20) 15 mins before washing
+3. Pre-treat stains – Apply [ OxiClean Stain Remover en Amazon](https://www.amazon.es/s?k=+OxiClean+Stain+Remover&tag=vladys-21) 15 mins before washing
 4. Clean lint filter monthly – Improves water circulation efficiency by 8%
 
 ## Conclusion and Recommendations
@@ -77,7 +77,7 @@ Yes, but for optimal fluffiness and hygiene, wash **new towels in hot water firs
 Per the US DOE, cold washes save **$0.66 per load** versus hot water. For a family doing 300 loads/year, that's **$198 annual savings**.
 
 ### Is cold water bad for washing machines?
-No – cold water actually **reduces mineral buildup** in pipes by 30% compared to hot water (Consumer Reports, 2021). Use a [ Affresh Washer Cleaner en Amazon](https://www.amazon.com/s?k=+Affresh+Washer+Cleaner&tag=vds96-20) tablet monthly to maintain performance.
+No – cold water actually **reduces mineral buildup** in pipes by 30% compared to hot water (Consumer Reports, 2021). Use a [ Affresh Washer Cleaner en Amazon](https://www.amazon.es/s?k=+Affresh+Washer+Cleaner&tag=vladys-21) tablet monthly to maintain performance.
 
 ## My Take
 

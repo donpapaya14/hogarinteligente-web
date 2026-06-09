@@ -51,13 +51,13 @@ Another key consideration is whether to choose a **cordless** or **corded** imme
 ## 3 Models Compared: Budget, Mid-Range, Premium
 Here are three immersion blenders to consider, ranging from budget to premium:
 
-* Budget: [KitchenAid KHB2351 en Amazon](https://www.amazon.com/s?k=KitchenAid+KHB2351&tag=vds96-20)(https://www.amazon.com) - $20
-* Mid-Range: [Breville BSB510XL Control Grip Immersion Blender en Amazon](https://www.amazon.com/s?k=Breville+BSB510XL+Control+Grip+Immersion+Blender&tag=vds96-20)(https://www.amazon.com) - $50
-* Premium: [All-Clad KZ750D en Amazon](https://www.amazon.com/s?k=All-Clad+KZ750D&tag=vds96-20)(https://www.amazon.com) - $100
+* Budget: [KitchenAid KHB2351 en Amazon](https://www.amazon.es/s?k=KitchenAid+KHB2351&tag=vladys-21)(https://www.amazon.es) - $20
+* Mid-Range: [Breville BSB510XL Control Grip Immersion Blender en Amazon](https://www.amazon.es/s?k=Breville+BSB510XL+Control+Grip+Immersion+Blender&tag=vladys-21)(https://www.amazon.es) - $50
+* Premium: [All-Clad KZ750D en Amazon](https://www.amazon.es/s?k=All-Clad+KZ750D&tag=vladys-21)(https://www.amazon.es) - $100
 
 ## Frequently Asked Questions
 ### What is the best immersion blender for soups?
-The best immersion blender for soups is one that combines power, efficiency, and ease of use. According to [Amazon Verified Purchase Reviews](https://amazon.com/?tag=vds96-20), the Breville BSB510XL is a top choice.
+The best immersion blender for soups is one that combines power, efficiency, and ease of use. According to [Amazon Verified Purchase Reviews](https://amazon.com/?tag=vladys-21), the Breville BSB510XL is a top choice.
 ### How do I prevent splattering when using an immersion blender?
 To prevent splattering, use an immersion blender with an anti-splash design, and make sure to blend slowly and carefully. As noted in [America's Test Kitchen](https://www.americastestkitchen.com), a slow-motion video can help to illustrate the importance of this feature.
 ### What is the difference between stainless steel and nylon blades?

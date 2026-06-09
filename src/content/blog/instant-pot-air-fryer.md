@@ -63,7 +63,7 @@ The Instant Pot Air Fryer offers a number of advantages over traditional air fry
 ## My Take
 As a professional chef and app developer, I have had the opportunity to try out a number of different kitchen gadgets, including the Instant Pot Air Fryer. I have been impressed by its versatility and convenience, and I highly recommend it to anyone looking to upgrade their cooking experience. One of my favorite features of the Instant Pot Air Fryer is its ability to cook a wide range of dishes, from **roasted vegetables** to **crispy fried chicken**. I also appreciate its **easy cleanup**, which makes it a breeze to maintain.
 
-In addition to the Instant Pot Air Fryer, I also recommend checking out the [ Instant Pot Air Fryer Plus en Amazon](https://www.amazon.com/s?k=+Instant+Pot+Air+Fryer+Plus&tag=vds96-20) and the [ Philips Airfryer en Amazon](https://www.amazon.com/s?k=+Philips+Airfryer&tag=vds96-20) for a more comprehensive cooking experience.
+In addition to the Instant Pot Air Fryer, I also recommend checking out the [ Instant Pot Air Fryer Plus en Amazon](https://www.amazon.es/s?k=+Instant+Pot+Air+Fryer+Plus&tag=vladys-21) and the [ Philips Airfryer en Amazon](https://www.amazon.es/s?k=+Philips+Airfryer&tag=vladys-21) for a more comprehensive cooking experience.
 
 
 
@@ -81,7 +81,7 @@ Here are some concrete actions you can take to get started with the Instant Pot 
 * Clean the air fryer regularly to prevent food residue from building up.
 * Use the Instant Pot Air Fryer for a variety of cooking tasks, including pressure cooking, slow cooking, and sautéing.
 * Check out online resources, such as the [Instant Pot Community Forum](https://www.instantpot.com/community), for tips and tricks on using the Instant Pot Air Fryer.
-* Consider purchasing complementary products, such as the [ Instant Pot Air Fryer Accessories en Amazon](https://www.amazon.com/s?k=+Instant+Pot+Air+Fryer+Accessories&tag=vds96-20), to enhance your cooking experience.
+* Consider purchasing complementary products, such as the [ Instant Pot Air Fryer Accessories en Amazon](https://www.amazon.es/s?k=+Instant+Pot+Air+Fryer+Accessories&tag=vladys-21), to enhance your cooking experience.
 * Read reviews and compare prices before making a purchase to ensure you get the best value for your money.
 * Watch video tutorials and online cooking classes to learn new recipes and techniques.
 

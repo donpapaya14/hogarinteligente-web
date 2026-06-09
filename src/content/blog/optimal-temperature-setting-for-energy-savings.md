@@ -88,8 +88,8 @@ Here are some concrete actions you can take to optimize your temperature setting
 
 *Este artículo contiene enlaces de afiliado. Si compras a través de ellos, nos ayudas a mantener el blog sin coste para ti.*
 
-- [ecobee SmartThermostat with Voice Control](https://www.amazon.com/s?k=ecobee+SmartThermostat+with+Voice+Control&tag=vds96-20)
-- [programmable thermostat](https://www.amazon.com/s?k=programmable+thermostat&tag=vds96-20)
+- [ecobee SmartThermostat with Voice Control](https://www.amazon.es/s?k=ecobee+SmartThermostat+with+Voice+Control&tag=vladys-21)
+- [programmable thermostat](https://www.amazon.es/s?k=programmable+thermostat&tag=vladys-21)
 
 
 ---

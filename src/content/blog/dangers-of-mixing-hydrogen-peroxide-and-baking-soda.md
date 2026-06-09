@@ -38,7 +38,7 @@ Consider these safer and more effective cleaning products:
 | --- | --- | --- |
 | White vinegar | Natural cleaner and disinfectant | Non-toxic, biodegradable |
 | Castile soap | Gentle, multi-purpose cleaner | pH-balanced, non-irritating |
-| [ Seventh Generation Natural All-Purpose Cleaner en Amazon](https://www.amazon.com/s?k=+Seventh+Generation+Natural+All-Purpose+Cleaner&tag=vds96-20)(https://www.amazon.com) | Plant-based, non-toxic cleaner | EPA-certified, biodegradable |
+| [ Seventh Generation Natural All-Purpose Cleaner en Amazon](https://www.amazon.es/s?k=+Seventh+Generation+Natural+All-Purpose+Cleaner&tag=vladys-21)(https://www.amazon.es) | Plant-based, non-toxic cleaner | EPA-certified, biodegradable |
 As recommended by the [Green Cleaning Institute (GCI)](https://www.greencleaninginstitute.org), always choose eco-friendly options when possible.
 
 ## Conclusion and Final Thoughts
@@ -50,7 +50,7 @@ Mixing **hydrogen peroxide** and **baking soda** can cause **explosive reactions
 ### How can I safely handle and store hydrogen peroxide and baking soda?
 To safely handle and store **hydrogen peroxide** and **baking soda**, follow proper labeling, storage, and disposal methods, as recommended by the [EPA](https://www.epa.gov). Always store them in separate, well-ventilated areas, away from heat sources and flammable materials.
 ### What are some alternative cleaning products to hydrogen peroxide and baking soda?
-Consider using **white vinegar**, **castile soap**, or [ Seventh Generation Natural All-Purpose Cleaner en Amazon](https://www.amazon.com/s?k=+Seventh+Generation+Natural+All-Purpose+Cleaner&tag=vds96-20)(https://www.amazon.com) as safer and more effective cleaning products. The [GCI](https://www.greencleaninginstitute.org) recommends choosing eco-friendly options when possible.
+Consider using **white vinegar**, **castile soap**, or [ Seventh Generation Natural All-Purpose Cleaner en Amazon](https://www.amazon.es/s?k=+Seventh+Generation+Natural+All-Purpose+Cleaner&tag=vladys-21)(https://www.amazon.es) as safer and more effective cleaning products. The [GCI](https://www.greencleaninginstitute.org) recommends choosing eco-friendly options when possible.
 ### Can I use hydrogen peroxide and baking soda for cleaning if I take proper precautions?
 While it's possible to use **hydrogen peroxide** and **baking soda** for cleaning if you take proper precautions, it's still important to consider the risks and alternative cleaning products. The [CPSC](https://www.cpsc.gov) reports several incidents of injuries and property damage caused by the misuse of these substances.
 ### How can I dispose of hydrogen peroxide and baking soda safely?
@@ -76,7 +76,7 @@ As I reflect on my own experiences with cleaning and safety, I'm reminded of the
 To stay safe and healthy while cleaning, follow these concrete action bullets:
 * Always handle **hydrogen peroxide** and **baking soda** with care and caution.
 * Follow proper labeling, storage, and disposal methods for these substances.
-* Consider alternative cleaning products like **white vinegar**, **castile soap**, or [ Seventh Generation Natural All-Purpose Cleaner en Amazon](https://www.amazon.com/s?k=+Seventh+Generation+Natural+All-Purpose+Cleaner&tag=vds96-20)(https://www.amazon.com).
+* Consider alternative cleaning products like **white vinegar**, **castile soap**, or [ Seventh Generation Natural All-Purpose Cleaner en Amazon](https://www.amazon.es/s?k=+Seventh+Generation+Natural+All-Purpose+Cleaner&tag=vladys-21)(https://www.amazon.es).
 * Explore eco-friendly options and choose products that are safe for our health and the environment.
 * Stay informed and up-to-date on the latest research and guidelines for cleaning and safety.
 * Always prioritize safety and caution when handling potentially hazardous substances like **hydrogen peroxide** and **baking soda**.

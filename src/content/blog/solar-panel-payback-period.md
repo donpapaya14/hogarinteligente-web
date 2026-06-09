@@ -25,7 +25,7 @@ The **solar panel payback period** begins with understanding installation costs.
 - **Labor**: $0.30–$0.50/W
 - **Permits/Inspections**: $500–$1,000
 
-For example, the [Renogy 400W Solar Panel Kit en Amazon](https://www.amazon.com/s?k=Renogy+400W+Solar+Panel+Kit&tag=vds96-20) costs $1,200 for hardware alone, but full installation typically doubles this price.
+For example, the [Renogy 400W Solar Panel Kit en Amazon](https://www.amazon.es/s?k=Renogy+400W+Solar+Panel+Kit&tag=vladys-21) costs $1,200 for hardware alone, but full installation typically doubles this price.
 
 ## Energy Savings and Production
 
@@ -83,13 +83,13 @@ The average **solar panel payback period** is 6–10 years in the U.S., dependin
 Yes. A 2019 Zillow study found homes with solar sell for **4.1% more** ($9,274 for a $226,300 home).
 
 ### What’s the best solar panel kit for beginners?
-The [Renogy 400W Solar Panel Kit en Amazon](https://www.amazon.com/s?k=Renogy+400W+Solar+Panel+Kit&tag=vds96-20) is a top-rated starter system, with 23% efficiency and a 25-year output warranty.
+The [Renogy 400W Solar Panel Kit en Amazon](https://www.amazon.es/s?k=Renogy+400W+Solar+Panel+Kit&tag=vladys-21) is a top-rated starter system, with 23% efficiency and a 25-year output warranty.
 
 ### How much do solar panels save per month?
 Most households save **$100–$200 monthly**, but high-energy users in sunny states like California can save $300+ ([DOE, 2020](https://www.energy.gov)).
 
 ### Are solar panels that work in cloudy climates?
-Yes. Modern panels like the [ECO-WORTHY 100W Panel en Amazon](https://www.amazon.com/s?k=ECO-WORTHY+100W+Panel&tag=vds96-20) operate at 60–80% efficiency in overcast conditions.
+Yes. Modern panels like the [ECO-WORTHY 100W Panel en Amazon](https://www.amazon.es/s?k=ECO-WORTHY+100W+Panel&tag=vladys-21) operate at 60–80% efficiency in overcast conditions.
 
 ## My Take
 
@@ -112,7 +112,7 @@ I also learned that **energy monitoring apps** (like SolarEdge) are crucial. Tra
 - Expect **6–10 years** for most U.S. households
 - Prioritize **high-efficiency panels** (20%+) if space is limited
 - Clean panels **twice yearly** to maintain output
-- Pair with a battery (e.g., [BLUETTI AC200P en Amazon](https://www.amazon.com/s?k=BLUETTI+AC200P&tag=vds96-20)) for off-grid capability
+- Pair with a battery (e.g., [BLUETTI AC200P en Amazon](https://www.amazon.es/s?k=BLUETTI+AC200P&tag=vladys-21)) for off-grid capability
 - Check **DSIRE** for local incentives ([dsireusa.org](https://www.dsireusa.org))
 - Monitor production with apps to maximize savings
 

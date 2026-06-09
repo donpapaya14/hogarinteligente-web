@@ -41,7 +41,7 @@ To check if your ceiling fan is running in the correct direction for winter, fol
 3. If your fan does not have a direction switch, you can use the ladder-free blade angle test. Stand under the fan and look up; if the fan is spinning clockwise, the leading edge of the blades should be higher than the trailing edge.
 
 ## Smart Fan vs. Manual: Cost Comparison
-**Smart ceiling fans**, like the [Hunter Dempsey Low Profile Ceiling Fan with Remote](https://www.amazon.com/Hunter-Dempsey-Low-Profile-Ceiling/dp/B076MX9RYG?tag=vds96-20), can automatically adjust their direction and speed based on the time of year and room temperature. However, they come at a higher cost, typically **$200 or more**. In contrast, manually adjusting a traditional ceiling fan costs **$0**. To calculate the payback period, consider the cost of the smart fan versus the annual savings. According to Consumer Reports 2023, the average payback period for smart ceiling fans is around 5 years.
+**Smart ceiling fans**, like the [Hunter Dempsey Low Profile Ceiling Fan with Remote](https://www.amazon.es/Hunter-Dempsey-Low-Profile-Ceiling/dp/B076MX9RYG?tag=vladys-21), can automatically adjust their direction and speed based on the time of year and room temperature. However, they come at a higher cost, typically **$200 or more**. In contrast, manually adjusting a traditional ceiling fan costs **$0**. To calculate the payback period, consider the cost of the smart fan versus the annual savings. According to Consumer Reports 2023, the average payback period for smart ceiling fans is around 5 years.
 
 ## Myth-busting: Do Fans Cool Rooms in Winter?
 A common myth is that running a ceiling fan in winter will make the room feel cooler due to the **'wind chill' effect**. However, this effect is negligible at low fan speeds. Data from [Lawrence Berkeley National Lab, 2021](https://www.lbl.gov), shows that at speeds below **200 RPM**, the wind chill effect is not significant enough to cool the room. In fact, the fan helps in circulating warm air, making the room feel warmer.
@@ -51,7 +51,7 @@ A common myth is that running a ceiling fan in winter will make the room feel co
 The ideal fan speed for winter is between **150-200 RPM**, as recommended by the [U.S. Department of Energy](https://www.energy.gov). This speed is low enough to avoid the wind chill effect but effective in circulating warm air.
 
 ### Can I use a ceiling fan in a small room?
-Yes, you can use a ceiling fan in a small room. In fact, smaller rooms can benefit more from the circulation of warm air, as the space is more confined. Look for fans with a smaller diameter, such as the [Hunter Fan Company 42" Ceiling Fan](https://www.amazon.com/Hunter-Fan-Company-42-Inch-Ceiling/dp/B076MX9RYG?tag=vds96-20).
+Yes, you can use a ceiling fan in a small room. In fact, smaller rooms can benefit more from the circulation of warm air, as the space is more confined. Look for fans with a smaller diameter, such as the [Hunter Fan Company 42" Ceiling Fan](https://www.amazon.es/Hunter-Fan-Company-42-Inch-Ceiling/dp/B076MX9RYG?tag=vladys-21).
 
 ### How often should I clean my ceiling fan?
 You should clean your ceiling fan every **2-3 months** to ensure it runs efficiently and effectively. Dust accumulation can reduce the fan's performance and increase energy consumption.
@@ -82,7 +82,7 @@ As an app developer and professional chef, I have always been interested in find
 - Set your fan to a low speed (**150-200 RPM**) for optimal circulation without the wind chill effect.
 - Consider investing in a **smart ceiling fan** for automatic adjustments and potential long-term savings.
 - Clean your ceiling fan every **2-3 months** to maintain efficiency.
-- Look into complementary products like the [Lasko 754200 Ceramic Space Heater](https://www.amazon.com/Lasko-754200-Ceramic-Heater-Compact/dp/B00002N7VU?tag=vds96-20) for additional heating solutions.
+- Look into complementary products like the [Lasko 754200 Ceramic Space Heater](https://www.amazon.es/Lasko-754200-Ceramic-Heater-Compact/dp/B00002N7VU?tag=vladys-21) for additional heating solutions.
 - Always follow safety guidelines when installing or maintaining your ceiling fan.
 - Explore the health benefits of improved air circulation in your home.
 

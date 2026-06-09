@@ -70,7 +70,7 @@ In addition to vinegar, I also recommend using ** Scale Magic** and **OxiClean**
 * **Repeat the process 2-3 times** for tough stains
 * **Wear gloves** and **work in a well-ventilated area** when using vinegar
 * **Descaling appliances every 1-3 months** can help prevent limescale buildup
-* Consider using **complementary products** like [ Scale Magic en Amazon](https://www.amazon.com/s?k=+Scale+Magic&tag=vds96-20) and [ OxiClean en Amazon](https://www.amazon.com/s?k=+OxiClean&tag=vds96-20) for tough stains
+* Consider using **complementary products** like [ Scale Magic en Amazon](https://www.amazon.es/s?k=+Scale+Magic&tag=vladys-21) and [ OxiClean en Amazon](https://www.amazon.es/s?k=+OxiClean&tag=vladys-21) for tough stains
 * Always **check the manufacturer's instructions** before using any cleaning solution on your appliances
 
 

@@ -64,11 +64,11 @@ Installation steps:
 - **Size**: 15-20L for singles, 30L+ for families
 - **Features**: Handles (for carrying), labels (for sorting)
 
-Place baskets near sorting zones or under shelves. The [Amazon: Honey-Can-Do Collapsible Laundry Basket](https://amazon.com/?tag=vds96-20) folds to 2" thick when empty.
+Place baskets near sorting zones or under shelves. The [Amazon: Honey-Can-Do Collapsible Laundry Basket](https://amazon.com/?tag=vladys-21) folds to 2" thick when empty.
 
 ## Implementing a 'Sorting Station' with Amazon Products
 
-A dedicated sorting station cuts laundry time by **25%** (The Container Store, 2020). The [ Seville Classics UltraHD Folding Laundry Sorter en Amazon](https://www.amazon.com/s?k=+Seville+Classics+UltraHD+Folding+Laundry+Sorter&tag=vds96-20)(https://www.amazon.com) offers:
+A dedicated sorting station cuts laundry time by **25%** (The Container Store, 2020). The [ Seville Classics UltraHD Folding Laundry Sorter en Amazon](https://www.amazon.es/s?k=+Seville+Classics+UltraHD+Folding+Laundry+Sorter&tag=vladys-21)(https://www.amazon.es) offers:
 
 - **3 compartments** (whites, colors, delicates)
 - **300D polyester** fabric (holds 50 lbs total)
@@ -90,7 +90,7 @@ Consistency is key. Good Housekeeping (2022) recommends:
 ## Frequently Asked Questions
 
 ### What is the best way to organize a small laundry room?
-Use **vertical storage** and **foldable laundry baskets** to save floor space. Install shelves up to the ceiling and choose stackable bins like the [ SimpleHouseware Stackable Laundry Bins en Amazon](https://www.amazon.com/s?k=+SimpleHouseware+Stackable+Laundry+Bins&tag=vds96-20)(https://www.amazon.com).
+Use **vertical storage** and **foldable laundry baskets** to save floor space. Install shelves up to the ceiling and choose stackable bins like the [ SimpleHouseware Stackable Laundry Bins en Amazon](https://www.amazon.es/s?k=+SimpleHouseware+Stackable+Laundry+Bins&tag=vladys-21)(https://www.amazon.es).
 
 ### How do I sort laundry efficiently?
 A **3-bin system** (whites, colors, delicates) reduces sorting time by 60% (The Container Store, 2020). Place bins near the washing machine for direct transfer.
@@ -123,8 +123,8 @@ The game-changer? **Labeling everything**. When my partner and I started using c
 
 - **Measure** your space and plan zones before buying storage
 - **Install stackable shelves** to utilize vertical space
-- **Use foldable baskets** like the [ Honey-Can-Do Collapsible Laundry Basket en Amazon](https://www.amazon.com/s?k=+Honey-Can-Do+Collapsible+Laundry+Basket&tag=vds96-20)(https://www.amazon.com) for compact storage
-- **Create a sorting station** with the [ Seville Classics UltraHD Folding Laundry Sorter en Amazon](https://www.amazon.com/s?k=+Seville+Classics+UltraHD+Folding+Laundry+Sorter&tag=vds96-20)(https://www.amazon.com)
+- **Use foldable baskets** like the [ Honey-Can-Do Collapsible Laundry Basket en Amazon](https://www.amazon.es/s?k=+Honey-Can-Do+Collapsible+Laundry+Basket&tag=vladys-21)(https://www.amazon.es) for compact storage
+- **Create a sorting station** with the [ Seville Classics UltraHD Folding Laundry Sorter en Amazon](https://www.amazon.es/s?k=+Seville+Classics+UltraHD+Folding+Laundry+Sorter&tag=vladys-21)(https://www.amazon.es)
 - **Clean monthly** to maintain organization
 - **Label bins** to streamline sorting
 

@@ -108,8 +108,8 @@ As an app developer, I’ve tested every major **smart home automation hub** for
 
 *Este artículo contiene enlaces de afiliado. Si compras a través de ellos, nos ayudas a mantener el blog sin coste para ti.*
 
-- [Samsung SmartThings Hub](https://www.amazon.com/s?k=Samsung+SmartThings+Hub&tag=vds96-20)
-- [smart thermostat](https://www.amazon.com/s?k=smart+thermostat&tag=vds96-20)
+- [Samsung SmartThings Hub](https://www.amazon.es/s?k=Samsung+SmartThings+Hub&tag=vladys-21)
+- [smart thermostat](https://www.amazon.es/s?k=smart+thermostat&tag=vladys-21)
 
 
 ---

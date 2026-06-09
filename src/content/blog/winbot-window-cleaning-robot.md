@@ -43,7 +43,7 @@ Tests show it cleans **99.3% of surface area** in one cycle, missing only extrem
 
 ## Amazon Price and Reviews
 
-As of 2024, the [ Ecovacs Winbot 950 Window Cleaning Robot en Amazon](https://www.amazon.com/s?k=+Ecovacs+Winbot+950+Window+Cleaning+Robot&tag=vds96-20) retails for **$399** with 4.2/5 stars from 1,100+ reviews. Key feedback from the [Amazon product page](https://amazon.com/?tag=vds96-20):
+As of 2024, the [ Ecovacs Winbot 950 Window Cleaning Robot en Amazon](https://www.amazon.es/s?k=+Ecovacs+Winbot+950+Window+Cleaning+Robot&tag=vladys-21) retails for **$399** with 4.2/5 stars from 1,100+ reviews. Key feedback from the [Amazon product page](https://amazon.com/?tag=vladys-21):
 
 | Pros | Cons |
 |------|------|
@@ -51,7 +51,7 @@ As of 2024, the [ Ecovacs Winbot 950 Window Cleaning Robot en Amazon](https://ww
 | No streaks on standard windows | Requires manual corner touch-ups |
 | Works on skylights (45° max incline) | Battery lasts 18 months with weekly use |
 
-Top complementary product: [ Winbot Replacement Pads 6-Pack en Amazon](https://www.amazon.com/s?k=+Winbot+Replacement+Pads+6-Pack&tag=vds96-20) ($24.99).
+Top complementary product: [ Winbot Replacement Pads 6-Pack en Amazon](https://www.amazon.es/s?k=+Winbot+Replacement+Pads+6-Pack&tag=vladys-21) ($24.99).
 
 ## Comparison with Traditional Methods
 
@@ -131,7 +131,7 @@ One pro tip: **pre-clean heavily soiled windows** with a vinegar solution (1:4 r
 - **Replace pads** every 3 months with moderate use
 - **Schedule cleanings** early morning to avoid direct sunlight glare
 - **Use safety tether** for all exterior applications
-- **Combine with** [ Unger Professional Squeegee en Amazon](https://www.amazon.com/s?k=+Unger+Professional+Squeegee&tag=vds96-20) for edge touch-ups
+- **Combine with** [ Unger Professional Squeegee en Amazon](https://www.amazon.es/s?k=+Unger+Professional+Squeegee&tag=vladys-21) for edge touch-ups
 
 
 ---

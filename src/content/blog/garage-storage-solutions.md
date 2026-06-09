@@ -57,7 +57,7 @@ Create a **garage layout map** with:
 | Plywood racks | $6-$10          | 200 lbs         | DIY overhead storage |
 
 Top picks:
-1. **[ Rubbermaid FastTrack Garage Storage System en Amazon](https://www.amazon.com/s?k=+Rubbermaid+FastTrack+Garage+Storage+System&tag=vds96-20)(https://www.amazon.com)** - Modular rails hold 1,500 lbs
+1. **[ Rubbermaid FastTrack Garage Storage System en Amazon](https://www.amazon.es/s?k=+Rubbermaid+FastTrack+Garage+Storage+System&tag=vladys-21)(https://www.amazon.es)** - Modular rails hold 1,500 lbs
 2. **Gladiator GearTrack** - Steel panels with tool-specific hooks
 3. **Seville Classics shelves** - NSF-certified for garage humidity
 
@@ -95,7 +95,7 @@ Monthly checklist:
 **Minimum 7 feet clearance** from floor to storage bottom. This allows standard SUVs (6'2" avg height) to park safely while providing access via step stool.
 
 ### Can garage cabinets hold heavy tools?
-Yes, but check **load ratings**. The [ NewAge Products Bold 3.0 cabinet en Amazon](https://www.amazon.com/s?k=+NewAge+Products+Bold+3.0+cabinet&tag=vds96-20)(https://www.amazon.com) supports 200 lbs per shelf when anchored to studs. Distribute weight evenly across multiple cabinets.
+Yes, but check **load ratings**. The [ NewAge Products Bold 3.0 cabinet en Amazon](https://www.amazon.es/s?k=+NewAge+Products+Bold+3.0+cabinet&tag=vladys-21)(https://www.amazon.es) supports 200 lbs per shelf when anchored to studs. Distribute weight evenly across multiple cabinets.
 
 ### What's the cheapest way to organize a garage?
 **Repurpose pallets** into vertical storage. A [University of Tennessee study (2021)](https://www.utk.edu) showed DIY pallet shelving costs **90% less** than commercial systems while holding 150 lbs per level.
@@ -127,7 +127,7 @@ One hard lesson: **Never skip the stud finder**. After shearing drywall anchors 
 3. Use ceiling space - **overhead storage** adds 200+ cubic feet
 4. Label everything with weatherproof tags
 5. Inspect mounts seasonally for safety
-6. Consider modular systems like **[ Rubbermaid FastTrack en Amazon](https://www.amazon.com/s?k=+Rubbermaid+FastTrack&tag=vds96-20)(https://www.amazon.com)** for flexibility
+6. Consider modular systems like **[ Rubbermaid FastTrack en Amazon](https://www.amazon.es/s?k=+Rubbermaid+FastTrack&tag=vladys-21)(https://www.amazon.es)** for flexibility
 7. Allow 18" clearance between cars and storage
 8. Reorganize every 6 months to control clutter
 

@@ -85,8 +85,8 @@ Here are some concrete actions you can take to maintain your dishwasher and prev
 
 *Este artículo contiene enlaces de afiliado. Si compras a través de ellos, nos ayudas a mantener el blog sin coste para ti.*
 
-- [Finish Dishwasher Salt](https://www.amazon.com/s?k=Finish+Dishwasher+Salt&tag=vds96-20)
-- [OxiClean Vinegar Rinse](https://www.amazon.com/s?k=OxiClean+Vinegar+Rinse&tag=vds96-20)
+- [Finish Dishwasher Salt](https://www.amazon.es/s?k=Finish+Dishwasher+Salt&tag=vladys-21)
+- [OxiClean Vinegar Rinse](https://www.amazon.es/s?k=OxiClean+Vinegar+Rinse&tag=vladys-21)
 
 
 ---

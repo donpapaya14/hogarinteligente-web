@@ -33,7 +33,7 @@ The **Instant Pot Duo Crisp** offers:
 
 > Relacionado: [Minimalist Closet Organizer System with Shelf Dividers](/blog/minimalist-closet-organizer-system-with-shelf-dividers)
 
-According to the [Amazon Product Listing (2024)](https://amazon.com/?tag=vds96-20), the Duo Crisp has a **4.6/5 rating** from over 12,000 reviews. Users praise its **ease of use** and **consistent results**. The digital control panel is intuitive, with pre-set programs for common dishes like chili, soup, and wings.
+According to the [Amazon Product Listing (2024)](https://amazon.com/?tag=vladys-21), the Duo Crisp has a **4.6/5 rating** from over 12,000 reviews. Users praise its **ease of use** and **consistent results**. The digital control panel is intuitive, with pre-set programs for common dishes like chili, soup, and wings.
 
 ## Cooking Performance and Results
 
@@ -90,7 +90,7 @@ The fan noise measures **65 decibels**—similar to a blender on low. It’s lou
 Yes. Its **auto-shutoff** and **10 safety features** (including overheat protection) make it safer than stovetop pressure cookers ([Instant Pot Official Website, 2022](https://www.instantpot.com)).
 
 ### What’s the best accessory to buy with it?
-A **glass lid** ([ Instant Pot Glass Lid en Amazon](https://www.amazon.com/s?k=+Instant+Pot+Glass+Lid&tag=vds96-20)(https://www.amazon.com)) lets you monitor slow cooking without removing the CrispLid.
+A **glass lid** ([ Instant Pot Glass Lid en Amazon](https://www.amazon.es/s?k=+Instant+Pot+Glass+Lid&tag=vladys-21)(https://www.amazon.es)) lets you monitor slow cooking without removing the CrispLid.
 
 ### Can you cook frozen meat in the Duo Crisp?
 Yes. Add **20% more time** when pressure cooking frozen chicken or beef. Always check the internal temperature (165°F for poultry).
@@ -99,7 +99,7 @@ Yes. Add **20% more time** when pressure cooking frozen chicken or beef. Always 
 
 As a **professional chef and app developer**, I value gadgets that **save time without compromising quality**. The **Duo Crisp** is my go-to for **meal prepping**—I use it 4-5 times weekly. The **air fryer function** is a game-changer for crispy tofu and roasted veggies.
 
-One tip: **Layer flavors** by sautéing onions/garlic in the pot before pressure cooking. The **Maillard reaction** (browning at 300°F+) adds depth you can’t get from boiling alone. For larger batches, pair it with a [ Instant Pot Ultra en Amazon](https://www.amazon.com/s?k=+Instant+Pot+Ultra&tag=vds96-20)(https://www.amazon.com), which has a **10-quart capacity**.
+One tip: **Layer flavors** by sautéing onions/garlic in the pot before pressure cooking. The **Maillard reaction** (browning at 300°F+) adds depth you can’t get from boiling alone. For larger batches, pair it with a [ Instant Pot Ultra en Amazon](https://www.amazon.es/s?k=+Instant+Pot+Ultra&tag=vladys-21)(https://www.amazon.es), which has a **10-quart capacity**.
 
 
 

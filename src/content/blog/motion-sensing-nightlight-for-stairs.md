@@ -52,7 +52,7 @@ Here’s how it works:
 
 > Relacionado: [Best Garlic Presses for Mincing](/blog/best-garlic-presses-for-mincing)
 
-**Best Overall**: The [LE - Smart LED Motion Sensing Night Light, 3-Pack](https://amazon.com/?tag=vds96-20) offers **voice control** and **no hub requirement**, making it a versatile choice (Consumer Reports, 2022).
+**Best Overall**: The [LE - Smart LED Motion Sensing Night Light, 3-Pack](https://amazon.com/?tag=vladys-21) offers **voice control** and **no hub requirement**, making it a versatile choice (Consumer Reports, 2022).
 
 ---
 
@@ -71,8 +71,8 @@ For angled staircases, use **wall-mounted brackets** (Home Depot, 2020).
 ## Budget-Friendly Options and DIY Alternatives
 
 **Under $30**:
-- [Minger Motion Sensor Night Light](https://amazon.com/?tag=vds96-20) ($12.99)
-- [Vont LED Stick-On Lights](https://amazon.com/?tag=vds96-20) ($9.99 for 4)
+- [Minger Motion Sensor Night Light](https://amazon.com/?tag=vladys-21) ($12.99)
+- [Vont LED Stick-On Lights](https://amazon.com/?tag=vladys-21) ($9.99 for 4)
 
 **DIY Option**:
 1. Use a **PIR sensor module** ($5) + LED strip.
@@ -83,7 +83,7 @@ For angled staircases, use **wall-mounted brackets** (Home Depot, 2020).
 
 ## Amazon Product Recommendation
 
-The [LE - Smart LED Motion Sensing Night Light](https://amazon.com/?tag=vds96-20) stands out for its **dimmable warm white light** and **battery longevity** (Average rating: 4.7/5 from 12,000+ reviews).
+The [LE - Smart LED Motion Sensing Night Light](https://amazon.com/?tag=vladys-21) stands out for its **dimmable warm white light** and **battery longevity** (Average rating: 4.7/5 from 12,000+ reviews).
 
 ---
 

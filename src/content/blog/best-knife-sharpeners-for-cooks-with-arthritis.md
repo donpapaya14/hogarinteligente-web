@@ -89,8 +89,8 @@ I recommend it to anyone looking for a high-quality knife sharpener that is easy
 
 *Este artículo contiene enlaces de afiliado. Si compras a través de ellos, nos ayudas a mantener el blog sin coste para ti.*
 
-- [Shun DM0706 Classic 8-Inch Chef's Knife with Sharpening Stone and Storage Case](https://www.amazon.com/s?k=Shun+DM0706+Classic+8-Inch+Chef's+Knife+with+Sharpening+Stone+and+Storage+Case&tag=vds96-20)
-- [Chef'sChoice 1520 AngleSelect Diamond Stone Sharpener](https://www.amazon.com/s?k=Chef'sChoice+1520+AngleSelect+Diamond+Stone+Sharpener&tag=vds96-20)
+- [Shun DM0706 Classic 8-Inch Chef's Knife with Sharpening Stone and Storage Case](https://www.amazon.es/s?k=Shun+DM0706+Classic+8-Inch+Chef's+Knife+with+Sharpening+Stone+and+Storage+Case&tag=vladys-21)
+- [Chef'sChoice 1520 AngleSelect Diamond Stone Sharpener](https://www.amazon.es/s?k=Chef'sChoice+1520+AngleSelect+Diamond+Stone+Sharpener&tag=vladys-21)
 
 
 ---

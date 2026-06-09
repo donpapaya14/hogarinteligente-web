@@ -48,7 +48,7 @@ Upgrading to a newer, energy-efficient dishwasher model can significantly reduce
 To reduce energy consumption when using a dishwasher, remember to run full loads, use the energy-saving cycle, and maintain your dishwasher regularly. Additional tips include:
 * Using eco-friendly dishwasher detergent
 * Avoiding the use of hot water
-* Considering the purchase of a [Bosch 300 Series Dishwasher](https://www.amazon.com/Bosch-300-Series-Dishwasher?tag=vds96-20) or complementary products like [ dish soap en Amazon](https://www.amazon.com/s?k=+dish+soap&tag=vds96-20)(https://www.amazon.com) and [ water filter en Amazon](https://www.amazon.com/s?k=+water+filter&tag=vds96-20)(https://www.amazon.com)
+* Considering the purchase of a [Bosch 300 Series Dishwasher](https://www.amazon.es/Bosch-300-Series-Dishwasher?tag=vladys-21) or complementary products like [ dish soap en Amazon](https://www.amazon.es/s?k=+dish+soap&tag=vladys-21)(https://www.amazon.es) and [ water filter en Amazon](https://www.amazon.es/s?k=+water+filter&tag=vladys-21)(https://www.amazon.es)
 
 ## Frequently Asked Questions
 ### How much energy does a dishwasher use?

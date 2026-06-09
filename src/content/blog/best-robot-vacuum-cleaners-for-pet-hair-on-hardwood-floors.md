@@ -103,8 +103,8 @@ Overall, I highly recommend investing in a robot vacuum, especially if you're a 
 
 *Este artículo contiene enlaces de afiliado. Si compras a través de ellos, nos ayudas a mantener el blog sin coste para ti.*
 
-- [eufy RoboVac 11](https://www.amazon.com/s?k=eufy+RoboVac+11&tag=vds96-20)
-- [iRobot Roomba i7](https://www.amazon.com/s?k=iRobot+Roomba+i7&tag=vds96-20)
+- [eufy RoboVac 11](https://www.amazon.es/s?k=eufy+RoboVac+11&tag=vladys-21)
+- [iRobot Roomba i7](https://www.amazon.es/s?k=iRobot+Roomba+i7&tag=vladys-21)
 
 
 ---

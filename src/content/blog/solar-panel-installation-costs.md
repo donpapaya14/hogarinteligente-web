@@ -24,7 +24,7 @@ The **solar panel installation cost** varies significantly based on system size,
 - **Labor (10-20%)**: Installation fees vary by region, with higher costs in urban areas.
 - **Permits and inspections (5-10%)**: Local regulations may add $500-$2,000.
 
-For example, a [Renogy 400W Solar Panel Kit](https://amazon.com/?tag=vds96-20) costs ~$1,200 for equipment alone, but full installation adds labor and permitting.
+For example, a [Renogy 400W Solar Panel Kit](https://amazon.com/?tag=vladys-21) costs ~$1,200 for equipment alone, but full installation adds labor and permitting.
 
 ## Expected Energy Savings
 Homeowners typically save **$1,000-$2,500 annually** on electricity bills, per the [US Department of Energy (2020)](https://www.energy.gov). Savings depend on:
@@ -62,7 +62,7 @@ Solar panels require minimal maintenance, costing **$150-$300 annually** ([SEIA,
 
 ## Case Studies and Examples
 - **California homeowner**: Installed a 7 kW system for $21,000, saved $2,200/year, and broke even in 7 years with ITC.
-- **Texas family**: Used a [Renogy kit](https://amazon.com/?tag=vds96-20) for off-grid cabin, cutting diesel generator use by 90%.
+- **Texas family**: Used a [Renogy kit](https://amazon.com/?tag=vladys-21) for off-grid cabin, cutting diesel generator use by 90%.
 
 ## Frequently Asked Questions
 
@@ -70,7 +70,7 @@ Solar panels require minimal maintenance, costing **$150-$300 annually** ([SEIA,
 A **6-8 kW system** (sufficient for 2,000 sq ft) costs **$18,000-$28,000** before incentives. After the 30% ITC, the net cost drops to $12,600-$19,600.
 
 ### Do solar panels work during power outages?
-Only with **battery storage** (e.g., [ Tesla Powerwall en Amazon](https://www.amazon.com/s?k=+Tesla+Powerwall&tag=vds96-20)(https://www.amazon.com)). Standard grid-tied systems shut off during outages for safety.
+Only with **battery storage** (e.g., [ Tesla Powerwall en Amazon](https://www.amazon.es/s?k=+Tesla+Powerwall&tag=vladys-21)(https://www.amazon.es)). Standard grid-tied systems shut off during outages for safety.
 
 ### What’s the lifespan of solar panels?
 Most panels operate at **85% efficiency after 25 years**, per NREL studies. Inverters need replacement every 10-15 years.
@@ -85,7 +85,7 @@ Options include:
 3. **Leases** (no upfront cost but lower savings).
 
 ## My Take
-As an app developer who installed solar panels in 2021, I was shocked by the **hidden soft costs**—permitting took 6 weeks in my county! But the math works: my $19,000 system (after ITC) now saves $180/month. For DIYers, the [Renogy 400W kit](https://amazon.com/?tag=vds96-20) is a solid start, but hire an electrician for grid connections.
+As an app developer who installed solar panels in 2021, I was shocked by the **hidden soft costs**—permitting took 6 weeks in my county! But the math works: my $19,000 system (after ITC) now saves $180/month. For DIYers, the [Renogy 400W kit](https://amazon.com/?tag=vladys-21) is a solid start, but hire an electrician for grid connections.
 
 
 

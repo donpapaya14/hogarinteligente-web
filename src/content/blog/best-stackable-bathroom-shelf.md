@@ -117,7 +117,7 @@ Pro tip from a chef: Use the bottom tier for cleaning supplies (easy access), mi
 ### You might also like
 
 - [electric grout cleaner brush for tile showers](/blog/electric-grout-cleaner-brush-for-tile-showers)
-- [color-coded home filing system for quick retrieval](/blog/color-coded-home-filing-system-for-quick-retrieval-2026-06-05)
+- [color-coded home filing system for quick retrieval](/blog/color-coded-home-filing-system-for-quick-retrieval)
 - [best smart plugs for energy monitoring with real-time data](/blog/best-smart-plugs-for-energy-monitoring-with-real-time-data)
 - [Combination of Bleach and Ammonia in Cleaning](/blog/combination-of-bleach-and-ammonia-in-cleaning)
 

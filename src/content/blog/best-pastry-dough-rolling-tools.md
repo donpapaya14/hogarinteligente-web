@@ -94,5 +94,5 @@ Here are some concrete actions you can take to improve your pastry dough rolling
 ## 📚 Continue reading
 
 - [Electric vs Manual Spice Grinders](/blog/electric-vs-manual-spice-grinders)
-- [dishwasher salt mistake that damages appliance](/blog/dishwasher-salt-mistake-that-damages-appliance)
+- [dishwasher salt mistake that damages appliance](/blog/dishwasher-salt-mistake-that-damages-appliance-2026-05-24)
 - [Best knife sharpeners for cooks with arthritis](/blog/best-knife-sharpeners-for-cooks-with-arthritis)

@@ -104,8 +104,8 @@ What shocked me most? Learning that many "hospital-grade" disinfectants we trust
 
 - [Pantry Organization Guide for Reduced Food Waste](/blog/pantry-organization-guide-for-reduced-food-waste)
 - [Maximize Kitchen Drawer Space](/blog/maximize-kitchen-drawer-space)
-- [Humidity control without a dehumidifier](/blog/humidity-control-without-a-dehumidifier)
-- [Alexa vs Google Home](/blog/alexa-vs-google-home)
+- [Humidity control without a dehumidifier](/blog/humidity-control-without-a-dehumidifier-2026-05-15)
+- [Alexa vs Google Home](/blog/alexa-vs-google-home-2026-06-11)
 
 ## Practical Summary
 

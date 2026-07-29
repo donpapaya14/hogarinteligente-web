@@ -81,7 +81,7 @@ For those looking to start their minimalist shoe storage journey, I recommend be
 ### You might also like
 
 - [blender blade sharpening mistake that dulls blades](/blog/blender-blade-sharpening-mistake-that-dulls-blades)
-- [Optimize Kitchen Cabinet Storage](/blog/optimize-kitchen-cabinet-storage-2026-06-20)
+- [Optimize Kitchen Cabinet Storage](/blog/optimize-kitchen-cabinet-storage)
 - [Instant Pot Air Fryer Lid](/blog/instant-pot-air-fryer-lid)
 - [Humidity Control Without Dehumidifier DIY](/blog/humidity-control-without-dehumidifier-diy)
 

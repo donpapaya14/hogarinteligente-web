@@ -78,7 +78,7 @@ For those looking to take their kitchen organization to the next level, I recomm
 
 ### You might also like
 
-- [color-coded home filing system for quick retrieval](/blog/color-coded-home-filing-system-for-quick-retrieval-2026-05-28)
+- [color-coded home filing system for quick retrieval](/blog/color-coded-home-filing-system-for-quick-retrieval)
 - [8 Home Hacks That Actually Cut Your Electricity Bill (With Real Numbers)](/blog/home-hacks-cut-electricity-bill)
 - [Best Bathroom Storage Cabinets](/blog/best-bathroom-storage-cabinets)
 - [Alexa vs Google Home](/blog/alexa-vs-google-home-2026-06-11)

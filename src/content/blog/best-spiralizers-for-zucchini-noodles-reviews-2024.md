@@ -88,8 +88,8 @@ Overall, I highly recommend the [ KitchenAid Gourmet Spiralizer en Amazon](https
 
 ### You might also like
 
-- [dishwasher salt mistake that damages appliance](/blog/dishwasher-salt-mistake-that-damages-appliance)
-- [Pantry Organization System to Reduce Food Waste](/blog/pantry-organization-system-to-reduce-food-waste-2026-06-23)
+- [dishwasher salt mistake that damages appliance](/blog/dishwasher-salt-mistake-that-damages-appliance-2026-05-24)
+- [Pantry Organization System to Reduce Food Waste](/blog/pantry-organization-system-to-reduce-food-waste-2026-05-25)
 - [Optimal Thermostat Setting for Energy Savings](/blog/optimal-thermostat-setting-for-energy-savings)
 - [Solar Panel Installation Costs and Savings](/blog/solar-panel-installation-costs-and-savings)
 

@@ -114,7 +114,7 @@ During a kitchen remodel last year, I ran all appliance cables through stainless
 - [Best Amazon Kitchen Drawer Organizers with Prices](/blog/best-amazon-kitchen-drawer-organizers-with-prices)
 - [Cleaning Grout Between Tiles with a Grout Brush Attachment](/blog/cleaning-grout-between-tiles-with-a-grout-brush-attachment)
 - [Best Amazon Closet Shelf Dividers](/blog/best-amazon-closet-shelf-dividers-2026-05-19)
-- [Alexa vs Google Home](/blog/alexa-vs-google-home)
+- [Alexa vs Google Home](/blog/alexa-vs-google-home-2026-06-11)
 
 ## Practical Summary
 

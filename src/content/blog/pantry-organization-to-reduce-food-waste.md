@@ -68,14 +68,14 @@ In my experience, **pantry organization** is not just about saving time and redu
 
 I hope that my experience and advice can help you to create a more organized and efficient pantry. Remember, **pantry organization** is not a one-time task, but an ongoing process that requires regular maintenance and adjustments.
 
-> Relacionado: [Humidity control without a dehumidifier](/blog/humidity-control-without-a-dehumidifier)
+> Relacionado: [Humidity control without a dehumidifier](/blog/humidity-control-without-a-dehumidifier-2026-05-15)
 
 
 
 ### You might also like
 
 - [Washing Machine Temperature Setting Mistake](/blog/washing-machine-temperature-setting-mistake)
-- [Solar Panel Cost Savings](/blog/solar-panel-cost-savings-2026-06-01)
+- [Solar Panel Cost Savings](/blog/solar-panel-cost-savings)
 - [Smart Home Automation Hubs](/blog/smart-home-automation-hubs)
 - [Best Amazon Closet Shelf Dividers](/blog/best-amazon-closet-shelf-dividers-2026-05-19)
 

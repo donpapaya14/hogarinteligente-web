@@ -110,7 +110,7 @@ One lesson: **placement matters more than specs**. My first cam faced a busy str
 
 ### You might also like
 
-- [Solar Panel Cost Savings](/blog/solar-panel-cost-savings-2026-06-01)
+- [Solar Panel Cost Savings](/blog/solar-panel-cost-savings)
 - [Smart Plugs vs Bulbs vs Cameras: Best for Home Security 2024](/blog/smart-plugs-vs-bulbs-vs-cameras-best-for-home-security-2024)
 - [Pantry Organization for Small Spaces](/blog/pantry-organization-for-small-spaces)
 - [Humidity Control Without Dehumidifier](/blog/humidity-control-without-dehumidifier)

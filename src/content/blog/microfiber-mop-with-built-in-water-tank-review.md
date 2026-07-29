@@ -78,7 +78,7 @@ Overall, I am impressed with the performance and durability of microfiber mops w
 - [smart blinds for home automation and energy savings](/blog/smart-blinds-for-home-automation-and-energy-savings)
 - [best avocado saver to prevent browning 2024](/blog/best-avocado-saver-to-prevent-browning-2024)
 - [Refrigerator Door Seal Mistake](/blog/refrigerator-door-seal-mistake)
-- [Quaternary Ammonium Compounds Danger](/blog/quaternary-ammonium-compounds-danger-2026-07-01)
+- [Quaternary Ammonium Compounds Danger](/blog/quaternary-ammonium-compounds-danger)
 
 ## Practical Summary
 Here are 6 concrete action bullets to get you started with using a microfiber mop with a built-in water tank:

@@ -87,4 +87,4 @@ As an app developer and professional chef, I have always been interested in find
 
 - [Passive Solar Window Insulation](/blog/passive-solar-window-insulation)
 - [Solar Panel Cost Savings](/blog/solar-panel-cost-savings)
-- [Humidity control without a dehumidifier](/blog/humidity-control-without-a-dehumidifier)
+- [Humidity control without a dehumidifier](/blog/humidity-control-without-a-dehumidifier-2026-05-15)

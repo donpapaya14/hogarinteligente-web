@@ -76,7 +76,7 @@ As an app developer and professional chef, I have always been interested in inno
 ### You might also like
 
 - [how to clean grout with hydrogen peroxide and baking soda](/blog/how-to-clean-grout-with-hydrogen-peroxide-and-baking-soda)
-- [Alexa vs Google Home](/blog/alexa-vs-google-home)
+- [Alexa vs Google Home](/blog/alexa-vs-google-home-2026-06-11)
 - [Minimalist Closet Organizer System with Shelf Dividers](/blog/minimalist-closet-organizer-system-with-shelf-dividers)
 - [8 Home Hacks That Actually Cut Your Electricity Bill (With Real Numbers)](/blog/home-hacks-cut-electricity-bill)
 

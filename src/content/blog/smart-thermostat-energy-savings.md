@@ -83,7 +83,7 @@ For renters, I recommend the portable [Cielo Breez Plus en Amazon](https://www.a
 
 ### You might also like
 
-- [Solar Panel Cost Savings](/blog/solar-panel-cost-savings-2026-05-11)
+- [Solar Panel Cost Savings](/blog/solar-panel-cost-savings)
 - [Baking Soda Cleaning Solutions](/blog/baking-soda-cleaning-solutions)
 - [smart thermostat settings for maximum savings in winter](/blog/smart-thermostat-settings-for-maximum-savings-in-winter)
 - [Cleaning Grout Between Tiles with a Grout Brush Attachment](/blog/cleaning-grout-between-tiles-with-a-grout-brush-attachment)

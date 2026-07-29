@@ -78,7 +78,7 @@ In my experience, the key to getting the most out of an immersion blender is to 
 
 - [Clean Mirror with Cornstarch](/blog/clean-mirror-with-cornstarch)
 - [Best Cheap Robot Vacuum Models Amazon](/blog/best-cheap-robot-vacuum-models-amazon)
-- [Solar Panel Cost Savings](/blog/solar-panel-cost-savings-2026-05-11)
+- [Solar Panel Cost Savings](/blog/solar-panel-cost-savings)
 - [Alexa vs Google Home comparison prices 2024](/blog/alexa-vs-google-home-comparison-prices-2024)
 
 ## Practical Summary

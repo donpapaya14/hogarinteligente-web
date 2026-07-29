@@ -86,7 +86,7 @@ As someone who juggles coding marathons and kitchen experiments (hello, olive oi
 ### You might also like
 
 - [UV toothbrush sanitizer kills 99% of germs](/blog/uv-toothbrush-sanitizer-kills-99-of-germs)
-- [Solar Panel Cost Savings](/blog/solar-panel-cost-savings-2026-06-13)
+- [Solar Panel Cost Savings](/blog/solar-panel-cost-savings)
 - [Robot Vacuum for Pet Hair](/blog/robot-vacuum-for-pet-hair)
 - [smart blinds for home automation and energy savings](/blog/smart-blinds-for-home-automation-and-energy-savings)
 

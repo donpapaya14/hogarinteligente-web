@@ -98,7 +98,7 @@ As Vladys Z., an app developer and professional chef, I’ve learned that **orga
 ### You might also like
 
 - [Remove Limescale with Vinegar](/blog/remove-limescale-with-vinegar)
-- [Alexa vs Google Home](/blog/alexa-vs-google-home)
+- [Alexa vs Google Home](/blog/alexa-vs-google-home-2026-06-11)
 - [Best Garlic Presses for Mincing](/blog/best-garlic-presses-for-mincing)
 - [Washing Machine Cold Cycle](/blog/washing-machine-cold-cycle)
 

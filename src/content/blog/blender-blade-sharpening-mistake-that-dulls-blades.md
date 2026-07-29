@@ -63,7 +63,7 @@ As a professional chef and app developer, I've learned the importance of proper 
 
 - [Minimalist Closet Organizer System with Shelf Dividers](/blog/minimalist-closet-organizer-system-with-shelf-dividers)
 - [Smart Plug for Energy Monitoring](/blog/smart-plug-for-energy-monitoring)
-- [color-coded home filing system for quick retrieval](/blog/color-coded-home-filing-system-for-quick-retrieval-2026-05-28)
+- [color-coded home filing system for quick retrieval](/blog/color-coded-home-filing-system-for-quick-retrieval)
 - [Passive Solar Window Insulation](/blog/passive-solar-window-insulation)
 
 ## Practical Summary

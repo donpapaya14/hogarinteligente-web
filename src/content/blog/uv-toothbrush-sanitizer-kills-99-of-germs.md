@@ -30,7 +30,7 @@ UV-C light, with a wavelength of 285nm, is a proven method for killing bacteria,
 
 Independent testing by NSF International Certification (2022) has shown that a UV toothbrush sanitizer can reduce germs by 99.9% in just 7 minutes. This includes Staphylococcus and Candida albicans, two common types of bacteria found in the mouth. The results are impressive, especially considering the short treatment time.
 
-> Relacionado: [Alexa vs Google Home](/blog/alexa-vs-google-home)
+> Relacionado: [Alexa vs Google Home](/blog/alexa-vs-google-home-2026-06-11)
 
 ## The hidden feature most users miss
 

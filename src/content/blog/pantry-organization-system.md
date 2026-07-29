@@ -36,7 +36,7 @@ The average U.S. household wastes **$1,500 annually** on unused pantry items ([T
 3. **Duplicates**: Keep only 1 backup of staples like flour or oil
 4. **Damaged**: Recycle packaging with tears or pest evidence
 
-> Relacionado: [Alexa vs Google Home](/blog/alexa-vs-google-home)
+> Relacionado: [Alexa vs Google Home](/blog/alexa-vs-google-home-2026-06-11)
 
 ## Categorizing and Grouping
 

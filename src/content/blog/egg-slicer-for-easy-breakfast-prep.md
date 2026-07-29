@@ -104,7 +104,7 @@ I also designed a **3D-printed adapter** for quail eggs after a client requested
 ### You might also like
 
 - [Kitchen Cart Organization](/blog/kitchen-cart-organization)
-- [Humidity control without a dehumidifier](/blog/humidity-control-without-a-dehumidifier)
+- [Humidity control without a dehumidifier](/blog/humidity-control-without-a-dehumidifier-2026-05-15)
 - [Best Robot Vacuum Cleaners for Pet Hair on Hardwood Floors](/blog/best-robot-vacuum-cleaners-for-pet-hair-on-hardwood-floors)
 - [Best robot vacuums under $200 with real suction power tests](/blog/best-robot-vacuums-under-200-with-real-suction-power-tests)
 

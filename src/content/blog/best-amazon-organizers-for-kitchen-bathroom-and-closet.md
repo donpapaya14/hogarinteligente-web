@@ -173,9 +173,9 @@ The single highest-leverage upgrade across all three rooms is the maintenance ro
 
 - [Best Amazon Kitchen Drawer Organizers with Prices](/blog/best-amazon-kitchen-drawer-organizers-with-prices)
 - [Bathroom Countertop Organization with Amazon](/blog/bathroom-countertop-organization-with-amazon)
-- [Best Amazon Closet Shelf Dividers](/blog/best-amazon-closet-shelf-dividers)
+- [Best Amazon Closet Shelf Dividers](/blog/best-amazon-closet-shelf-dividers-2026-05-19)
 - [Minimalist Under Sink Organization with Clear Bins](/blog/minimalist-under-sink-organization-with-clear-bins)
-- [Pantry Organization System to Reduce Food Waste](/blog/pantry-organization-system-to-reduce-food-waste)
+- [Pantry Organization System to Reduce Food Waste](/blog/pantry-organization-system-to-reduce-food-waste-2026-05-25)
 
 ## Practical Summary
 
@@ -195,4 +195,4 @@ The single highest-leverage upgrade across all three rooms is the maintenance ro
 
 - [Best Amazon Kitchen Drawer Organizers with Prices](/blog/best-amazon-kitchen-drawer-organizers-with-prices)
 - [Bathroom Countertop Organization with Amazon](/blog/bathroom-countertop-organization-with-amazon)
-- [Best Amazon Closet Shelf Dividers](/blog/best-amazon-closet-shelf-dividers)
+- [Best Amazon Closet Shelf Dividers](/blog/best-amazon-closet-shelf-dividers-2026-05-19)

@@ -45,7 +45,7 @@ Preventing floating bags is crucial for even cooking. A study by [Serious Eats 2
 2. **Clips**: easy to use, but may not be suitable for large bags
 3. **Racks**: provide better support, but can be more expensive
 
-> Relacionado: [Maximizing Laundry Room Storage](/blog/maximizing-laundry-room-storage)
+> Relacionado: [Maximizing Laundry Room Storage](/blog/maximizing-laundry-room-storage-2026-06-11)
 
 ## Searing Torches That Won't Taste Like Gas
 Post-sous vide searing requires a reliable torch. According to [America's Test Kitchen 2021 Torch Review](https://www.americastestkitchen.com), **butane torches** are a better option than propane torches due to their cleaner flame.
@@ -118,4 +118,4 @@ For those new to sous vide cooking, I suggest starting with a beginner-friendly 
 
 - [Electric Griddle vs Skillet vs Grill Pan](/blog/electric-griddle-vs-skillet-vs-grill-pan)
 - [Spiralizer for Zucchini Noodles](/blog/spiralizer-for-zucchini-noodles)
-- [dishwasher salt mistake that damages appliance](/blog/dishwasher-salt-mistake-that-damages-appliance)
+- [dishwasher salt mistake that damages appliance](/blog/dishwasher-salt-mistake-that-damages-appliance-2026-05-24)

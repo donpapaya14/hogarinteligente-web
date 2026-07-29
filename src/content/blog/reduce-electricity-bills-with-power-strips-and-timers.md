@@ -134,6 +134,6 @@ Here are some concrete actions you can take to reduce your energy consumption an
 
 ## 📚 Continue reading
 
-- [Humidity control without a dehumidifier](/blog/humidity-control-without-a-dehumidifier)
+- [Humidity control without a dehumidifier](/blog/humidity-control-without-a-dehumidifier-2026-05-15)
 - [Optimal Thermostat Temperature Settings for Energy Efficiency](/blog/optimal-thermostat-temperature-settings-for-energy-efficiency)
 - [Passive Solar Window Insulation](/blog/passive-solar-window-insulation)

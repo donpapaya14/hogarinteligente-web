@@ -79,7 +79,7 @@ As a chef, I understand the importance of having reliable and efficient applianc
 - [Automatic Window Cleaning Robot](/blog/automatic-window-cleaning-robot)
 - [best over-the-door organizers for small bathrooms 2024](/blog/best-over-the-door-organizers-for-small-bathrooms-2024)
 - [How to Remove Sticker Residue with Lemon Juice and Olive Oil](/blog/how-to-remove-sticker-residue-with-lemon-juice-and-olive-oil)
-- [color-coded home filing system for quick retrieval](/blog/color-coded-home-filing-system-for-quick-retrieval-2026-06-05)
+- [color-coded home filing system for quick retrieval](/blog/color-coded-home-filing-system-for-quick-retrieval)
 
 ## Practical Summary
 Here are some concrete action bullets to prevent kitchen appliance overheating:

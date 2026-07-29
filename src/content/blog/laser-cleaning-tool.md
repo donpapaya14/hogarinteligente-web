@@ -103,10 +103,10 @@ However, I learned the hard way that **protective gear is non-negotiable**. Afte
 
 ### You might also like
 
-- [Alexa vs Google Home](/blog/alexa-vs-google-home-2026-07-06)
+- [Alexa vs Google Home](/blog/alexa-vs-google-home-2026-06-11)
 - [Home Filing System with Color Coding](/blog/home-filing-system-with-color-coding)
-- [Best Grout Cleaners 2024](/blog/best-grout-cleaners-2024)
-- [Alexa vs Google Home for multi-room audio 2024](/blog/alexa-vs-google-home-for-multi-room-audio-2024-2026-07-08)
+- [Best Grout Cleaners 2024](/blog/best-grout-cleaners-2024-2026-06-19)
+- [Alexa vs Google Home for multi-room audio 2024](/blog/alexa-vs-google-home-for-multi-room-audio-2024)
 
 ## Practical Summary
 

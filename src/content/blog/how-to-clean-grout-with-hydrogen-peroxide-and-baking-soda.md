@@ -74,8 +74,8 @@ In my kitchen, I use a **grout brush** to apply the paste and scrub the grout. I
 
 - [Organize Closet with Shelves](/blog/organize-closet-with-shelves)
 - [8 Home Hacks That Actually Cut Your Electricity Bill (With Real Numbers)](/blog/home-hacks-cut-electricity-bill)
-- [Maximizing Laundry Room Storage](/blog/maximizing-laundry-room-storage)
-- [Solar Panel Cost Savings](/blog/solar-panel-cost-savings-2026-05-11)
+- [Maximizing Laundry Room Storage](/blog/maximizing-laundry-room-storage-2026-06-11)
+- [Solar Panel Cost Savings](/blog/solar-panel-cost-savings)
 
 ## Practical Summary
 * Clean your grout every 3-6 months to prevent mold and mildew growth

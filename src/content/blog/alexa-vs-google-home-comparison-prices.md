@@ -52,7 +52,7 @@ The system requirements for each smart speaker are essential to consider. Accord
 | Amazon Echo (4th Generation) | Wi-Fi connection, compatible device |
 | Google Home Max | Wi-Fi connection, Google account |
 
-> Relacionado: [Solar Panel Cost Savings](/blog/solar-panel-cost-savings-2026-06-06)
+> Relacionado: [Solar Panel Cost Savings](/blog/solar-panel-cost-savings)
 
 ## How Do Alexa and Google Home Integrate with Smart Home Devices?
 The integration of Alexa and Google Home with smart home devices is a crucial factor to consider. According to a study by [IHS Markit](https://www.ihs.com), **Alexa has better integration with smart home devices**, including **smart lights** and **thermostats**.
@@ -90,7 +90,7 @@ As an app developer and professional chef, I have had the opportunity to work wi
 - [Maximizing Garage Storage](/blog/maximizing-garage-storage)
 - [Microfiber Mop with Built-in Water Tank Review](/blog/microfiber-mop-with-built-in-water-tank-review)
 - [Dangers of Mixing Hydrogen Peroxide and Baking Soda](/blog/dangers-of-mixing-hydrogen-peroxide-and-baking-soda)
-- [Humidity Control Without Dehumidifier](/blog/humidity-control-without-dehumidifier-2026-06-19)
+- [Humidity Control Without Dehumidifier](/blog/humidity-control-without-dehumidifier)
 
 ## Practical Summary
 Here are some concrete action bullets to consider when choosing between Alexa and Google Home:

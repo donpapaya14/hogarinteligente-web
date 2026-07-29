@@ -77,7 +77,7 @@ Overall, I would highly recommend the **Breville BBL910** to anyone in the marke
 
 - [Optimal Thermostat Settings for Energy Savings](/blog/optimal-thermostat-settings-for-energy-savings)
 - [best kitchen gadget for spiral cutting](/blog/best-kitchen-gadget-for-spiral-cutting)
-- [Pantry Organization System](/blog/pantry-organization-system-2026-07-03)
+- [Pantry Organization System](/blog/pantry-organization-system)
 - [Smart Thermostat Savings and Best Models](/blog/smart-thermostat-savings-and-best-models)
 
 ## Practical Summary

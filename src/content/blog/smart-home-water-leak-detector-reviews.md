@@ -73,7 +73,7 @@ As an app developer and professional chef, I have experienced the importance of 
 
 - [Best Enzyme-Based Carpet Stain Removers 2024](/blog/best-enzyme-based-carpet-stain-removers-2024)
 - [smart home dimmer switch with color temperature](/blog/smart-home-dimmer-switch-with-color-temperature)
-- [Pantry Food Waste Reduction](/blog/pantry-food-waste-reduction-2026-06-04)
+- [Pantry Food Waste Reduction](/blog/pantry-food-waste-reduction)
 - [Optimal Thermostat Setting for Energy Savings](/blog/optimal-thermostat-setting-for-energy-savings)
 
 ## Practical Summary

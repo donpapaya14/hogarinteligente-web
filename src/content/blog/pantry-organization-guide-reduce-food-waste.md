@@ -69,7 +69,7 @@ In addition to using the right tools, I also believe in the importance of meal p
 
 - [smart home dimmer switch with color temperature](/blog/smart-home-dimmer-switch-with-color-temperature)
 - [best kitchen gadget for spiral cutting](/blog/best-kitchen-gadget-for-spiral-cutting)
-- [Alexa vs Google Home](/blog/alexa-vs-google-home-2026-05-31)
+- [Alexa vs Google Home](/blog/alexa-vs-google-home-2026-06-11)
 - [Optimal Central Heating Temperature for Energy Savings](/blog/optimal-central-heating-temperature-for-energy-savings)
 
 ## Practical Summary

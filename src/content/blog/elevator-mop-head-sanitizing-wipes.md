@@ -65,7 +65,7 @@ As an app developer and professional chef, I understand the importance of mainta
 - [Minimalist Closet Organizer System with Shelf Dividers](/blog/minimalist-closet-organizer-system-with-shelf-dividers)
 - [Kitchen Cart Organization](/blog/kitchen-cart-organization)
 - [Smart Home Devices Under 30 for Home Automation](/blog/smart-home-devices-under-30-for-home-automation)
-- [Alexa vs Google Home](/blog/alexa-vs-google-home)
+- [Alexa vs Google Home](/blog/alexa-vs-google-home-2026-06-11)
 
 ## Practical Summary
 Here are some concrete actions you can take to promote a healthier office environment:

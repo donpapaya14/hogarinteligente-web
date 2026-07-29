@@ -74,7 +74,7 @@ Overall, I am impressed by the **laser window cleaner** and its potential to rev
 
 ### You might also like
 
-- [Alexa vs Google Home](/blog/alexa-vs-google-home)
+- [Alexa vs Google Home](/blog/alexa-vs-google-home-2026-06-11)
 - [Remove Limescale with Vinegar](/blog/remove-limescale-with-vinegar)
 - [Spiralizer for Zucchini Noodles](/blog/spiralizer-for-zucchini-noodles)
 - [Pantry Organization to Reduce Waste](/blog/pantry-organization-to-reduce-waste)

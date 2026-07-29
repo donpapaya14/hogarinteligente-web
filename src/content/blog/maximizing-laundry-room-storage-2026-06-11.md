@@ -105,7 +105,7 @@ In my current home, I repurposed an old bookshelf into a folding station by addi
 
 ### You might also like
 
-- [Humidity control without a dehumidifier](/blog/humidity-control-without-a-dehumidifier)
+- [Humidity control without a dehumidifier](/blog/humidity-control-without-a-dehumidifier-2026-05-15)
 - [Best Bathroom Storage Cabinets](/blog/best-bathroom-storage-cabinets)
 - [Smart Home Cable Management](/blog/smart-home-cable-management)
 - [Best Thermostat Setting for Energy Savings](/blog/best-thermostat-setting-for-energy-savings)

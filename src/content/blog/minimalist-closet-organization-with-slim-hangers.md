@@ -82,7 +82,7 @@ As an app developer and professional chef, I understand the importance of **effi
 
 ### You might also like
 
-- [Alexa vs Google Home Comparison 2024](/blog/alexa-vs-google-home-comparison-2024-2026-06-17)
+- [Alexa vs Google Home Comparison 2024](/blog/alexa-vs-google-home-comparison-2024)
 - [August Smart Lock Pro](/blog/august-smart-lock-pro)
 - [Instant Pot Meal Prep Timesaver](/blog/instant-pot-meal-prep-timesaver)
 - [Best Graters for Hard Cheese](/blog/best-graters-for-hard-cheese)

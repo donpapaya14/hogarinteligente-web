@@ -174,7 +174,7 @@ For anyone serious about audio quality first and multi-room second, Sonos or Hom
 
 - [Best Smart Plugs for Energy Monitoring](/blog/best-smart-plugs-for-energy-monitoring)
 - [Smart Thermostat Savings Guide](/blog/smart-thermostat-savings-guide)
-- [Alexa vs Google Home](/blog/alexa-vs-google-home)
+- [Alexa vs Google Home](/blog/alexa-vs-google-home-2026-06-11)
 - [Alexa vs Google Home Automation Comparison](/blog/alexa-vs-google-home-automation-comparison)
 - [Smart Home Automation Hubs](/blog/smart-home-automation-hubs)
 
@@ -196,4 +196,4 @@ For anyone serious about audio quality first and multi-room second, Sonos or Hom
 
 - [Best Smart Plugs for Energy Monitoring](/blog/best-smart-plugs-for-energy-monitoring)
 - [Smart Thermostat Savings Guide](/blog/smart-thermostat-savings-guide)
-- [Alexa vs Google Home](/blog/alexa-vs-google-home)
+- [Alexa vs Google Home](/blog/alexa-vs-google-home-2026-06-11)

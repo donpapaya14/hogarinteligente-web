@@ -98,7 +98,7 @@ In my experience, the benefits of solar panels far outweigh the costs, and I wou
 - [Motion-sensing Nightlight for Stairs](/blog/motion-sensing-nightlight-for-stairs)
 - [Fix Refrigerator Defrost Cycle Mistake](/blog/fix-refrigerator-defrost-cycle-mistake)
 - [8 Home Hacks That Actually Cut Your Electricity Bill (With Real Numbers)](/blog/home-hacks-cut-electricity-bill)
-- [Pantry organization system to reduce food waste](/blog/pantry-organization-system-to-reduce-food-waste)
+- [Pantry organization system to reduce food waste](/blog/pantry-organization-system-to-reduce-food-waste-2026-05-25)
 
 ## Practical Summary
 * Calculate your daily energy usage in kWh to determine the right solar panel system size for your home

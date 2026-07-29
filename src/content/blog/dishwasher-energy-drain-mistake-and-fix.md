@@ -31,7 +31,7 @@ The 'Rinse Hold' feature is designed to keep the water heated for a set period, 
 
 To put this into perspective, let's break down the kWh usage and cost per cycle when using Rinse Hold vs normal cycle. According to the Department of Energy Appliance Energy Calculator 2023, a typical dishwasher uses 3.5 kWh per cycle. If you use the Rinse Hold feature, you'll use an additional 1.5 kWh, making the total 5 kWh per cycle.
 
-> Relacionado: [Best Amazon Closet Shelf Dividers](/blog/best-amazon-closet-shelf-dividers)
+> Relacionado: [Best Amazon Closet Shelf Dividers](/blog/best-amazon-closet-shelf-dividers-2026-05-19)
 
 Assuming an average cost of 12 cents per kWh, the cost per cycle would be:
 

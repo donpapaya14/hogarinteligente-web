@@ -28,7 +28,7 @@ Replacing traditional incandescent bulbs with LED bulbs can significantly reduce
 
 LED bulbs differ from incandescent and halogen bulbs in terms of energy consumption and lifespan. Incandescent bulbs convert only 5% of the electrical energy they consume into visible light, with the remaining 95% being lost as heat (US Department of Energy, 2022). In contrast, LED bulbs convert up to 70% of the electrical energy they consume into visible light, with the remaining 30% being lost as heat.
 
-> Relacionado: [Alexa vs Google Home](/blog/alexa-vs-google-home)
+> Relacionado: [Alexa vs Google Home](/blog/alexa-vs-google-home-2026-06-11)
 
 ### Calculating Energy Savings
 

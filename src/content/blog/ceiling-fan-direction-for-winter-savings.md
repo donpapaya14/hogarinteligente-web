@@ -95,4 +95,4 @@ As an app developer and professional chef, I have always been interested in find
 
 - [Optimal Temperature Setting for Energy Savings](/blog/optimal-temperature-setting-for-energy-savings)
 - [Optimal Central Heating Temperature for Energy Savings](/blog/optimal-central-heating-temperature-for-energy-savings)
-- [Solar Panel Cost Savings](/blog/solar-panel-cost-savings-2026-05-11)
+- [Solar Panel Cost Savings](/blog/solar-panel-cost-savings)

@@ -84,7 +84,7 @@ In my experience, the key to a successful solar panel installation is to **do yo
 ### You might also like
 
 - [Bleach and Ammonia Risks](/blog/bleach-and-ammonia-risks)
-- [Home Filing System for Paper Clutter](/blog/home-filing-system-for-paper-clutter-2026-06-09)
+- [Home Filing System for Paper Clutter](/blog/home-filing-system-for-paper-clutter)
 - [best kitchen gadget for spiral cutting](/blog/best-kitchen-gadget-for-spiral-cutting)
 - [best avocado saver gadget to prevent browning](/blog/best-avocado-saver-gadget-to-prevent-browning)
 

@@ -85,7 +85,7 @@ In my personal experience, I have seen significant energy savings by adjusting m
 
 - [best smart plugs for energy monitoring with real-time data](/blog/best-smart-plugs-for-energy-monitoring-with-real-time-data)
 - [Best Amazon Kitchen Drawer Organizers with Prices](/blog/best-amazon-kitchen-drawer-organizers-with-prices)
-- [Maximizing Laundry Room Storage](/blog/maximizing-laundry-room-storage)
+- [Maximizing Laundry Room Storage](/blog/maximizing-laundry-room-storage-2026-06-11)
 - [Best Robot Vacuum Cleaners for Pet Hair on Hardwood Floors](/blog/best-robot-vacuum-cleaners-for-pet-hair-on-hardwood-floors)
 
 ## Practical Summary
@@ -106,5 +106,5 @@ Here are some concrete action bullets to help you optimize your thermostat tempe
 ## 📚 Continue reading
 
 - [Washing Machine Mistake](/blog/washing-machine-mistake)
-- [Humidity control without a dehumidifier](/blog/humidity-control-without-a-dehumidifier)
+- [Humidity control without a dehumidifier](/blog/humidity-control-without-a-dehumidifier-2026-05-15)
 - [LED Bulb Replacement Savings](/blog/led-bulb-replacement-savings)

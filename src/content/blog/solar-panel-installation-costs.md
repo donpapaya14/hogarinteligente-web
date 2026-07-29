@@ -111,6 +111,6 @@ As an app developer who installed solar panels in 2021, I was shocked by the **h
 
 ## 📚 Continue reading
 
-- [Humidity control without a dehumidifier](/blog/humidity-control-without-a-dehumidifier)
+- [Humidity control without a dehumidifier](/blog/humidity-control-without-a-dehumidifier-2026-05-15)
 - [Passive Solar Window Insulation](/blog/passive-solar-window-insulation)
 - [Optimal Temperature Setting for Energy Savings](/blog/optimal-temperature-setting-for-energy-savings)

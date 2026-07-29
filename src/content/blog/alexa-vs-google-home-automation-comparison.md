@@ -187,7 +187,7 @@ For a clean start in 2026, I would build around a Nest Hub (2nd gen) plus a Nest
 - [Smart Home Automation Hubs](/blog/smart-home-automation-hubs)
 - [Best Smart Plugs for Energy Monitoring](/blog/best-smart-plugs-for-energy-monitoring)
 - [Smart Plug Hacks for Energy Efficiency](/blog/smart-plug-hacks-for-energy-efficiency)
-- [Alexa vs Google Home](/blog/alexa-vs-google-home)
+- [Alexa vs Google Home](/blog/alexa-vs-google-home-2026-06-11)
 - [Alexa vs Google Home for Multi-Room Audio in 2024](/blog/alexa-vs-google-home-for-multi-room-audio-in-2024)
 
 ## Practical Summary

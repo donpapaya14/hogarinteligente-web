@@ -39,7 +39,7 @@ The Spruce (2022) reports that the average U.S. household wastes **$1,866 annual
    - Rancid smells (especially oils and nuts)
    - Unidentified contents (no label or >1 year old)
 
-> Relacionado: [Solar Panel Cost Savings](/blog/solar-panel-cost-savings-2026-05-11)
+> Relacionado: [Solar Panel Cost Savings](/blog/solar-panel-cost-savings)
 
 Pro tip: Donate unopened non-perishables to food banks via [Feeding America](https://www.feedingamerica.org).
 
@@ -133,5 +133,5 @@ Pro tip: Take photos of your organized pantry after each refresh. When things ge
 ## 📚 Continue reading
 
 - [minimalist under-sink organization with clear bins](/blog/minimalist-under-sink-organization-with-clear-bins)
-- [Best Amazon Closet Shelf Dividers](/blog/best-amazon-closet-shelf-dividers)
+- [Best Amazon Closet Shelf Dividers](/blog/best-amazon-closet-shelf-dividers-2026-05-19)
 - [under-bed storage system with Amazon organizers](/blog/under-bed-storage-system-with-amazon-organizers)

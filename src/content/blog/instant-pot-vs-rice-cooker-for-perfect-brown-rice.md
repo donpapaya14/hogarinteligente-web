@@ -95,8 +95,8 @@ As a professional chef and app developer, I've had my fair share of cooking brow
 ### You might also like
 
 - [Dangers of mixing vinegar and bleach in cleaning](/blog/dangers-of-mixing-vinegar-and-bleach-in-cleaning)
-- [Instant Pot Duo Plus Review](/blog/instant-pot-duo-plus-review-2026-07-03)
-- [Solar Panel Cost Savings](/blog/solar-panel-cost-savings-2026-05-11)
+- [Instant Pot Duo Plus Review](/blog/instant-pot-duo-plus-review)
+- [Solar Panel Cost Savings](/blog/solar-panel-cost-savings)
 - [Humidity Control Without Dehumidifier](/blog/humidity-control-without-dehumidifier)
 
 ## Practical Summary

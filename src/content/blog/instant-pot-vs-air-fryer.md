@@ -69,7 +69,7 @@ In my experience, the key to getting the most out of these devices is to experim
 
 - [Smart Home Thermostat Mounting Kit for Radiators](/blog/smart-home-thermostat-mounting-kit-for-radiators)
 - [Microwave plate rotation mistake that damages motor](/blog/microwave-plate-rotation-mistake-that-damages-motor)
-- [Alexa vs Google Home](/blog/alexa-vs-google-home-2026-07-06)
+- [Alexa vs Google Home](/blog/alexa-vs-google-home-2026-06-11)
 - [smart blinds for home automation 2024](/blog/smart-blinds-for-home-automation-2024)
 
 ## Practical Summary

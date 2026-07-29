@@ -83,7 +83,7 @@ If you're looking to improve your cooking and baking skills, I highly recommend 
 - [Overloading Refrigerator Ice Makers Increases Electricity Bill](/blog/overloading-refrigerator-ice-makers-increases-electricity-bill)
 - [Instant Pot vs Air Fryer](/blog/instant-pot-vs-air-fryer)
 - [Optimize Kitchen Drawer Storage](/blog/optimize-kitchen-drawer-storage)
-- [Humidity Control Without Dehumidifier](/blog/humidity-control-without-dehumidifier-2026-07-19)
+- [Humidity Control Without Dehumidifier](/blog/humidity-control-without-dehumidifier)
 
 ## Practical Summary
 Here are some concrete actions you can take to improve your cooking and baking skills:

@@ -129,7 +129,7 @@ For parents: Teach teens about cleaning safety early. My 14-year-old nephew thou
 
 - [best avocado saver to prevent browning 2024](/blog/best-avocado-saver-to-prevent-browning-2024)
 - [Dangers of mixing vinegar and bleach in cleaning](/blog/dangers-of-mixing-vinegar-and-bleach-in-cleaning)
-- [Solar Panel Cost Savings](/blog/solar-panel-cost-savings-2026-06-13)
+- [Solar Panel Cost Savings](/blog/solar-panel-cost-savings)
 - [Best Over Sink Shelf Organizers](/blog/best-over-sink-shelf-organizers)
 
 ## Practical Summary

@@ -79,7 +79,7 @@ In addition to smart thermostats, I also recommend considering other smart home 
 - [Minimalist Closet Organization with Amazon Shelves](/blog/minimalist-closet-organization-with-amazon-shelves)
 - [Bleach and Ammonia Risks](/blog/bleach-and-ammonia-risks)
 - [Washing Machine Cold Cycle](/blog/washing-machine-cold-cycle)
-- [Maximizing Laundry Room Storage](/blog/maximizing-laundry-room-storage)
+- [Maximizing Laundry Room Storage](/blog/maximizing-laundry-room-storage-2026-06-11)
 
 ## Practical Summary
 Here are some concrete actions you can take to start saving energy with a smart thermostat:

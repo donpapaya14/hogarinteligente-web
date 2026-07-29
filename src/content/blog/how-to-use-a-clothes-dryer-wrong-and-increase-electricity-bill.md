@@ -75,7 +75,7 @@ As an app developer and professional chef, I understand the importance of energy
 
 - [30-Minute Kitchen Prep Routine with Label Maker](/blog/30-minute-kitchen-prep-routine-with-label-maker)
 - [Ceiling fan direction for winter savings](/blog/ceiling-fan-direction-for-winter-savings)
-- [dishwasher salt mistake that damages appliance](/blog/dishwasher-salt-mistake-that-damages-appliance)
+- [dishwasher salt mistake that damages appliance](/blog/dishwasher-salt-mistake-that-damages-appliance-2026-05-24)
 - [Robot Vacuum for Pet Hair](/blog/robot-vacuum-for-pet-hair)
 
 ## Practical Summary

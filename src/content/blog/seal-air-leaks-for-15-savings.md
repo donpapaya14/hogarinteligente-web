@@ -115,7 +115,7 @@ What surprised me most was the **soundproofing benefit**. After sealing our bedr
 ### You might also like
 
 - [dishwasher salt mistake that damages appliance](/blog/dishwasher-salt-mistake-that-damages-appliance-2026-05-24)
-- [Solar Panel Cost Savings](/blog/solar-panel-cost-savings-2026-06-01)
+- [Solar Panel Cost Savings](/blog/solar-panel-cost-savings)
 - [best garlic press for easy peeling and mincing](/blog/best-garlic-press-for-easy-peeling-and-mincing)
 - [best immersion blenders for soups and sauces](/blog/best-immersion-blenders-for-soups-and-sauces)
 

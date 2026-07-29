@@ -77,7 +77,7 @@ In addition to using an electric dusting brush, I also recommend using a **HEPA-
 
 - [Bleach and Ammonia Danger](/blog/bleach-and-ammonia-danger)
 - [Danger of Mixing Bleach and Ammonia in Cleaning](/blog/danger-of-mixing-bleach-and-ammonia-in-cleaning)
-- [Alexa vs Google Home Comparison 2024](/blog/alexa-vs-google-home-comparison-2024-2026-06-17)
+- [Alexa vs Google Home Comparison 2024](/blog/alexa-vs-google-home-comparison-2024)
 - [Natural Tile Grout Cleaner with Hydrogen Peroxide](/blog/natural-tile-grout-cleaner-with-hydrogen-peroxide)
 
 ## Practical Summary

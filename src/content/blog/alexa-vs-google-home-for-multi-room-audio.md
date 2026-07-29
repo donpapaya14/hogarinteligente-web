@@ -87,8 +87,8 @@ For example, if you are looking for a budget-friendly option, the Amazon Echo ma
 ### You might also like
 
 - [Solar Panel Cost Savings Payback Period Calculator](/blog/solar-panel-cost-savings-payback-period-calculator)
-- [Solar Panel Cost Savings](/blog/solar-panel-cost-savings-2026-05-11)
-- [Solar Panel Cost Savings](/blog/solar-panel-cost-savings-2026-06-13)
+- [Solar Panel Cost Savings](/blog/solar-panel-cost-savings)
+- [Solar Panel Cost Savings](/blog/solar-panel-cost-savings)
 - [Natural Disinfectants with Essential Oils vs Bleach](/blog/natural-disinfectants-with-essential-oils-vs-bleach)
 
 ## Practical Summary

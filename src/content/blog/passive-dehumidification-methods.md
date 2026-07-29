@@ -113,7 +113,7 @@ Pro tip from my chef days: **Rice works in a pinch**. Storing **1 cup of uncooke
 ### You might also like
 
 - [LED Bulb Replacement Savings](/blog/led-bulb-replacement-savings)
-- [Humidity control without a dehumidifier](/blog/humidity-control-without-a-dehumidifier)
+- [Humidity control without a dehumidifier](/blog/humidity-control-without-a-dehumidifier-2026-05-15)
 - [Smart Thermostat Savings Guide](/blog/smart-thermostat-savings-guide)
 - [Instant Pot vs Pressure Cooker for Cooking Frozen Veggies](/blog/instant-pot-vs-pressure-cooker-for-cooking-frozen-veggies)
 

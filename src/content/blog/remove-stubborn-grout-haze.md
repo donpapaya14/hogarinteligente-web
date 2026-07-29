@@ -85,7 +85,7 @@ As someone who values **sustainability** and **efficiency**, I highly recommend 
 ### You might also like
 
 - [fridge temperature hack to cut electricity bill by 10%](/blog/fridge-temperature-hack-to-cut-electricity-bill-by-10)
-- [Solar Panel Cost Savings](/blog/solar-panel-cost-savings-2026-06-06)
+- [Solar Panel Cost Savings](/blog/solar-panel-cost-savings)
 - [Maximizing Closet Shelf Space](/blog/maximizing-closet-shelf-space)
 - [Smart Thermostat Savings and Top Picks](/blog/smart-thermostat-savings-and-top-picks)
 

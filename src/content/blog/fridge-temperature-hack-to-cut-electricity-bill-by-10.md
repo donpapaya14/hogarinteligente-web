@@ -76,7 +76,7 @@ In addition to using energy-efficient appliances, I also make sure to turn off l
 
 ### You might also like
 
-- [Alexa vs Google Home Comparison 2024](/blog/alexa-vs-google-home-comparison-2024-2026-06-18)
+- [Alexa vs Google Home Comparison 2024](/blog/alexa-vs-google-home-comparison-2024)
 - [Optimal Temperature Setting for Energy Savings](/blog/optimal-temperature-setting-for-energy-savings)
 - [how to clean grout with hydrogen peroxide and baking soda](/blog/how-to-clean-grout-with-hydrogen-peroxide-and-baking-soda)
 - [Baking Soda Natural Disinfectant](/blog/baking-soda-natural-disinfectant)

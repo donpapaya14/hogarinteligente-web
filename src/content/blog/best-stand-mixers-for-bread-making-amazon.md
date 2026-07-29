@@ -79,7 +79,7 @@ As an app developer and professional chef, I have had the opportunity to work wi
 
 ### You might also like
 
-- [Alexa vs Google Home](/blog/alexa-vs-google-home-2026-07-06)
+- [Alexa vs Google Home](/blog/alexa-vs-google-home-2026-06-11)
 - [Smart Home Water Leak Detector with Wi-Fi](/blog/smart-home-water-leak-detector-with-wi-fi)
 - [best garlic press for arthritic hands 2024](/blog/best-garlic-press-for-arthritic-hands-2024)
 - [Smart Bulb Security Comparison](/blog/smart-bulb-security-comparison)

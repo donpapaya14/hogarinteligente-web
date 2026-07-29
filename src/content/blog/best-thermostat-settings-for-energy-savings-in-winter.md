@@ -96,7 +96,7 @@ A: According to a study by the Lawrence Berkeley National Laboratory (2020), sma
 ### You might also like
 
 - [smart air vent cover to regulate room heat](/blog/smart-air-vent-cover-to-regulate-room-heat)
-- [Alexa vs Google Home Comparison 2024](/blog/alexa-vs-google-home-comparison-2024-2026-06-18)
+- [Alexa vs Google Home Comparison 2024](/blog/alexa-vs-google-home-comparison-2024)
 - [Smart Plug for Energy Monitoring](/blog/smart-plug-for-energy-monitoring)
 - [Robot Vacuum Comparison](/blog/robot-vacuum-comparison)
 

@@ -75,7 +75,7 @@ I also appreciate the versatility of **UV phone sanitizers**, as they can be use
 - [Natural Cleaning Solutions with Baking Soda and Hydrogen Peroxide](/blog/natural-cleaning-solutions-with-baking-soda-and-hydrogen-peroxide)
 - [Ideal Thermostat Temperature](/blog/ideal-thermostat-temperature)
 - [Optimal Thermostat Temperature Settings for Energy Efficiency](/blog/optimal-thermostat-temperature-settings-for-energy-efficiency)
-- [Solar Panel Cost Savings](/blog/solar-panel-cost-savings-2026-06-13)
+- [Solar Panel Cost Savings](/blog/solar-panel-cost-savings)
 
 ## Practical Summary
 To keep your phone and other small items germ-free:

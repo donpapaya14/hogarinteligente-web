@@ -79,7 +79,7 @@ As an app developer and professional chef, I have always been interested in find
 
 - [Remove Limescale with Vinegar](/blog/remove-limescale-with-vinegar)
 - [Spiralizer for Zucchini Noodles](/blog/spiralizer-for-zucchini-noodles)
-- [Alexa vs Google Home](/blog/alexa-vs-google-home)
+- [Alexa vs Google Home](/blog/alexa-vs-google-home-2026-06-11)
 - [8 Home Hacks That Actually Cut Your Electricity Bill (With Real Numbers)](/blog/home-hacks-cut-electricity-bill)
 
 ## Practical Summary
@@ -100,5 +100,5 @@ Here are some concrete steps you can take to reduce your energy consumption usin
 ## 📚 Continue reading
 
 - [Smart Outlet Timer for Christmas Lights](/blog/smart-outlet-timer-for-christmas-lights)
-- [Alexa vs Google Home](/blog/alexa-vs-google-home)
+- [Alexa vs Google Home](/blog/alexa-vs-google-home-2026-06-11)
 - [best smart plugs for energy monitoring with real-time data](/blog/best-smart-plugs-for-energy-monitoring-with-real-time-data)

@@ -67,8 +67,8 @@ In my experience, investing in a good immersion blender pays off in the long run
 
 ### You might also like
 
-- [color-coded home filing system for quick retrieval](/blog/color-coded-home-filing-system-for-quick-retrieval-2026-05-28)
-- [Humidity Control Without Dehumidifier](/blog/humidity-control-without-dehumidifier-2026-06-19)
+- [color-coded home filing system for quick retrieval](/blog/color-coded-home-filing-system-for-quick-retrieval)
+- [Humidity Control Without Dehumidifier](/blog/humidity-control-without-dehumidifier)
 - [Best Garlic Presses for Mincing](/blog/best-garlic-presses-for-mincing)
 - [Microwave plate rotation mistake that damages motor](/blog/microwave-plate-rotation-mistake-that-damages-motor)
 

@@ -77,7 +77,7 @@ As an app developer and professional chef, I understand the importance of a well
 ### You might also like
 
 - [Washing Machine Temperature Setting Mistake](/blog/washing-machine-temperature-setting-mistake)
-- [Spiralizer for Zucchini Noodles](/blog/spiralizer-for-zucchini-noodles-2026-05-30)
+- [Spiralizer for Zucchini Noodles](/blog/spiralizer-for-zucchini-noodles)
 - [egg slicer for easy breakfast prep](/blog/egg-slicer-for-easy-breakfast-prep)
 - [Cleaning with a Laser Window Cleaner](/blog/cleaning-with-a-laser-window-cleaner)
 

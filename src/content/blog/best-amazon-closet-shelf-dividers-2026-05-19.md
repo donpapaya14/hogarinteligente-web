@@ -144,7 +144,7 @@ The most overlooked use is in the linen closet with wire grid dividers. Stacking
 
 ### You might also like
 
-- [Best Amazon Closet Shelf Dividers](/blog/best-amazon-closet-shelf-dividers)
+- [Best Amazon Closet Shelf Dividers](/blog/best-amazon-closet-shelf-dividers-2026-05-19)
 - [Minimalist Closet Organizer System with Shelf Dividers](/blog/minimalist-closet-organizer-system-with-shelf-dividers)
 - [Organize Closet with Shelves](/blog/organize-closet-with-shelves)
 - [Pantry Shelf Organization](/blog/pantry-shelf-organization)
@@ -165,6 +165,6 @@ The most overlooked use is in the linen closet with wire grid dividers. Stacking
 
 ## Continue reading
 
-- [Best Amazon Closet Shelf Dividers](/blog/best-amazon-closet-shelf-dividers)
+- [Best Amazon Closet Shelf Dividers](/blog/best-amazon-closet-shelf-dividers-2026-05-19)
 - [Minimalist Closet Organizer System with Shelf Dividers](/blog/minimalist-closet-organizer-system-with-shelf-dividers)
 - [Organize Closet with Shelves](/blog/organize-closet-with-shelves)

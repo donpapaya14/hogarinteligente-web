@@ -81,7 +81,7 @@ I recommend starting with a [ Philips LED Bulbs (4-Pack) en Amazon](https://www.
 
 ### You might also like
 
-- [color-coded home filing system for quick retrieval](/blog/color-coded-home-filing-system-for-quick-retrieval-2026-05-28)
+- [color-coded home filing system for quick retrieval](/blog/color-coded-home-filing-system-for-quick-retrieval)
 - [Robot Vacuum Comparison](/blog/robot-vacuum-comparison)
 - [Bleach and Ammonia Risks](/blog/bleach-and-ammonia-risks)
 - [Humidity Control Without Dehumidifier](/blog/humidity-control-without-dehumidifier)

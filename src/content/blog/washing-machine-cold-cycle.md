@@ -114,5 +114,5 @@ At home, I pair cold washes with wool dryer balls instead of dryer sheets – th
 ## 📚 Continue reading
 
 - [Solar Panel Cost and Savings Analysis](/blog/solar-panel-cost-and-savings-analysis)
-- [Solar Panel Cost Savings](/blog/solar-panel-cost-savings-2026-05-11)
+- [Solar Panel Cost Savings](/blog/solar-panel-cost-savings)
 - [Passive Solar Window Insulation](/blog/passive-solar-window-insulation)

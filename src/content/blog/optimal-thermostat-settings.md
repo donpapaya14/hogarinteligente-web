@@ -39,7 +39,7 @@ For every 1°F adjustment:
 - **Summer**: Save **1%** on cooling costs
 - **Winter**: Save **3%** on heating costs
 
-> Relacionado: [dishwasher salt mistake that damages appliance](/blog/dishwasher-salt-mistake-that-damages-appliance-2026-06-25)
+> Relacionado: [dishwasher salt mistake that damages appliance](/blog/dishwasher-salt-mistake-that-damages-appliance-2026-05-24)
 
 ## Monthly Savings Calculation
 

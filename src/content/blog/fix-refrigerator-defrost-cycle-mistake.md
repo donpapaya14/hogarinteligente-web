@@ -72,8 +72,8 @@ As an app developer and professional chef, I understand the importance of mainta
 ### You might also like
 
 - [Remove Limescale with Vinegar](/blog/remove-limescale-with-vinegar)
-- [Pantry organization system to reduce food waste](/blog/pantry-organization-system-to-reduce-food-waste)
-- [Alexa vs Google Home](/blog/alexa-vs-google-home)
+- [Pantry organization system to reduce food waste](/blog/pantry-organization-system-to-reduce-food-waste-2026-05-25)
+- [Alexa vs Google Home](/blog/alexa-vs-google-home-2026-06-11)
 - [Pantry Organization to Reduce Waste](/blog/pantry-organization-to-reduce-waste)
 
 ## Practical Summary
@@ -94,5 +94,5 @@ To fix the refrigerator defrost cycle mistake, follow these steps:
 ## 📚 Continue reading
 
 - [Solar Panel Cost and Savings Analysis](/blog/solar-panel-cost-and-savings-analysis)
-- [Solar Panel Cost Savings](/blog/solar-panel-cost-savings-2026-05-11)
+- [Solar Panel Cost Savings](/blog/solar-panel-cost-savings)
 - [Humidity control without a dehumidifier](/blog/humidity-control-without-a-dehumidifier-2026-05-15)

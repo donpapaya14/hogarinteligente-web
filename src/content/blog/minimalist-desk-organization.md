@@ -90,7 +90,7 @@ Now, I coach my team to **‘tray test’ new hires**: if their essentials overf
 - [Smart Thermostat Savings and Top Picks](/blog/smart-thermostat-savings-and-top-picks)
 - [minimalist under-sink organization with clear bins](/blog/minimalist-under-sink-organization-with-clear-bins)
 - [Kitchen Cart Organization](/blog/kitchen-cart-organization)
-- [Solar Panel Cost Savings](/blog/solar-panel-cost-savings-2026-05-11)
+- [Solar Panel Cost Savings](/blog/solar-panel-cost-savings)
 
 ## Practical Summary
 

@@ -70,10 +70,10 @@ In my experience, the key to choosing the right garlic tool is to consider your 
 
 ### You might also like
 
-- [Humidity control without a dehumidifier](/blog/humidity-control-without-a-dehumidifier)
+- [Humidity control without a dehumidifier](/blog/humidity-control-without-a-dehumidifier-2026-05-15)
 - [Optimal Temperature Setting for Energy Savings](/blog/optimal-temperature-setting-for-energy-savings)
-- [Alexa vs Google Home](/blog/alexa-vs-google-home-2026-05-31)
-- [Maximizing Laundry Room Storage](/blog/maximizing-laundry-room-storage)
+- [Alexa vs Google Home](/blog/alexa-vs-google-home-2026-06-11)
+- [Maximizing Laundry Room Storage](/blog/maximizing-laundry-room-storage-2026-06-11)
 
 ## Practical Summary
 Here are some concrete action bullets to get you started:

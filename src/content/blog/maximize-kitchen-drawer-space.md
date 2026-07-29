@@ -108,7 +108,7 @@ Pro tip: **Photograph your ideal layout** before reorganizing. When I redesigned
 ### You might also like
 
 - [Elevator Mop Head Sanitizing Wipes](/blog/elevator-mop-head-sanitizing-wipes)
-- [Solar Panel Cost Savings](/blog/solar-panel-cost-savings-2026-05-11)
+- [Solar Panel Cost Savings](/blog/solar-panel-cost-savings)
 - [best avocado tools for perfect slices](/blog/best-avocado-tools-for-perfect-slices)
 - [smart plug energy monitoring with real usage data](/blog/smart-plug-energy-monitoring-with-real-usage-data)
 

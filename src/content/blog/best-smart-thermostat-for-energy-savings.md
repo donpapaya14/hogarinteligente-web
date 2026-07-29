@@ -72,7 +72,7 @@ Overall, I am a big fan of smart thermostats and the benefits they offer. Whethe
 
 ### You might also like
 
-- [color-coded home filing system for quick retrieval](/blog/color-coded-home-filing-system-for-quick-retrieval-2026-06-05)
+- [color-coded home filing system for quick retrieval](/blog/color-coded-home-filing-system-for-quick-retrieval)
 - [best kitchen gadget for spiral cutting](/blog/best-kitchen-gadget-for-spiral-cutting)
 - [fridge temperature hack to cut electricity bill by 10%](/blog/fridge-temperature-hack-to-cut-electricity-bill-by-10)
 - [Best Pastry Dough Rolling Tools](/blog/best-pastry-dough-rolling-tools)

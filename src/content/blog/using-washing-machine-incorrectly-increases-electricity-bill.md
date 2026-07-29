@@ -93,7 +93,7 @@ I believe that everyone can make a difference by taking small steps towards ener
 
 ### You might also like
 
-- [Bleach and Ammonia Danger](/blog/bleach-and-ammonia-danger-2026-05-29)
+- [Bleach and Ammonia Danger](/blog/bleach-and-ammonia-danger)
 - [Best Stand Mixers for Whipping Cream](/blog/best-stand-mixers-for-whipping-cream)
 - [30-Minute Kitchen Prep Routine with Label Maker](/blog/30-minute-kitchen-prep-routine-with-label-maker)
 - [Vinegar and Castile Soap Danger](/blog/vinegar-and-castile-soap-danger)

@@ -66,7 +66,7 @@ As an app developer and professional chef, I understand the importance of a well
 
 - [Ceiling fan direction for winter savings](/blog/ceiling-fan-direction-for-winter-savings)
 - [Pantry Organization to Reduce Waste](/blog/pantry-organization-to-reduce-waste)
-- [Pantry organization system to reduce food waste](/blog/pantry-organization-system-to-reduce-food-waste)
+- [Pantry organization system to reduce food waste](/blog/pantry-organization-system-to-reduce-food-waste-2026-05-25)
 - [Fix Refrigerator Defrost Cycle Mistake](/blog/fix-refrigerator-defrost-cycle-mistake)
 
 ## Practical Summary

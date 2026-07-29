@@ -3,12 +3,30 @@
     {
       "source": "/(.*)",
       "headers": [
-        { "key": "X-Content-Type-Options", "value": "nosniff" },
-        { "key": "X-Frame-Options", "value": "DENY" },
-        { "key": "X-XSS-Protection", "value": "1; mode=block" },
-        { "key": "Referrer-Policy", "value": "strict-origin-when-cross-origin" },
-        { "key": "Permissions-Policy", "value": "camera=(), microphone=(), geolocation=()" },
-        { "key": "Strict-Transport-Security", "value": "max-age=31536000; includeSubDomains" },
+        {
+          "key": "X-Content-Type-Options",
+          "value": "nosniff"
+        },
+        {
+          "key": "X-Frame-Options",
+          "value": "DENY"
+        },
+        {
+          "key": "X-XSS-Protection",
+          "value": "1; mode=block"
+        },
+        {
+          "key": "Referrer-Policy",
+          "value": "strict-origin-when-cross-origin"
+        },
+        {
+          "key": "Permissions-Policy",
+          "value": "camera=(), microphone=(), geolocation=()"
+        },
+        {
+          "key": "Strict-Transport-Security",
+          "value": "max-age=31536000; includeSubDomains"
+        },
         {
           "key": "Content-Security-Policy",
           "value": "default-src 'self'; script-src 'self' 'unsafe-inline' https://pagead2.googlesyndication.com https://www.googletagmanager.com; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com; img-src 'self' data: https://images.pexels.com https://*.googleusercontent.com https://m.media-amazon.com; frame-src https://www.youtube.com https://youtube.com; connect-src 'self' https://pagead2.googlesyndication.com"
@@ -18,14 +36,367 @@
     {
       "source": "/_astro/(.*)",
       "headers": [
-        { "key": "Cache-Control", "value": "public, max-age=31536000, immutable" }
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=31536000, immutable"
+        }
       ]
     },
     {
       "source": "/sitemap(-index)?\\.xml",
       "headers": [
-        { "key": "Cache-Control", "value": "public, max-age=3600" }
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=3600"
+        }
       ]
+    }
+  ],
+  "redirects": [
+    {
+      "source": "/blog/alexa-vs-google-home",
+      "destination": "/blog/alexa-vs-google-home-2026-06-11",
+      "statusCode": 301
+    },
+    {
+      "source": "/blog/alexa-vs-google-home-2026-05-31",
+      "destination": "/blog/alexa-vs-google-home-2026-06-11",
+      "statusCode": 301
+    },
+    {
+      "source": "/blog/alexa-vs-google-home-2026-06-21",
+      "destination": "/blog/alexa-vs-google-home-2026-06-11",
+      "statusCode": 301
+    },
+    {
+      "source": "/blog/alexa-vs-google-home-2026-07-06",
+      "destination": "/blog/alexa-vs-google-home-2026-06-11",
+      "statusCode": 301
+    },
+    {
+      "source": "/blog/alexa-vs-google-home-comparison-2024-2026-06-17",
+      "destination": "/blog/alexa-vs-google-home-comparison-2024",
+      "statusCode": 301
+    },
+    {
+      "source": "/blog/alexa-vs-google-home-comparison-2024-2026-06-18",
+      "destination": "/blog/alexa-vs-google-home-comparison-2024",
+      "statusCode": 301
+    },
+    {
+      "source": "/blog/alexa-vs-google-home-comparison-2024-2026-06-20",
+      "destination": "/blog/alexa-vs-google-home-comparison-2024",
+      "statusCode": 301
+    },
+    {
+      "source": "/blog/alexa-vs-google-home-comparison-2024-2026-07-27",
+      "destination": "/blog/alexa-vs-google-home-comparison-2024",
+      "statusCode": 301
+    },
+    {
+      "source": "/blog/alexa-vs-google-home-for-multi-room-audio-2024-2026-07-07",
+      "destination": "/blog/alexa-vs-google-home-for-multi-room-audio-2024",
+      "statusCode": 301
+    },
+    {
+      "source": "/blog/alexa-vs-google-home-for-multi-room-audio-2024-2026-07-08",
+      "destination": "/blog/alexa-vs-google-home-for-multi-room-audio-2024",
+      "statusCode": 301
+    },
+    {
+      "source": "/blog/alexa-vs-google-home-for-multi-room-audio-in-2024-2026-07-12",
+      "destination": "/blog/alexa-vs-google-home-for-multi-room-audio-in-2024",
+      "statusCode": 301
+    },
+    {
+      "source": "/blog/best-accessories-for-egg-slicing-2026-07-17",
+      "destination": "/blog/best-accessories-for-egg-slicing",
+      "statusCode": 301
+    },
+    {
+      "source": "/blog/best-amazon-closet-shelf-dividers",
+      "destination": "/blog/best-amazon-closet-shelf-dividers-2026-05-19",
+      "statusCode": 301
+    },
+    {
+      "source": "/blog/best-avocado-saver-to-prevent-browning-2024-2026-06-29",
+      "destination": "/blog/best-avocado-saver-to-prevent-browning-2024",
+      "statusCode": 301
+    },
+    {
+      "source": "/blog/best-grout-cleaners-2024",
+      "destination": "/blog/best-grout-cleaners-2024-2026-06-19",
+      "statusCode": 301
+    },
+    {
+      "source": "/blog/best-grout-cleaners-2024-2026-06-18",
+      "destination": "/blog/best-grout-cleaners-2024-2026-06-19",
+      "statusCode": 301
+    },
+    {
+      "source": "/blog/best-pastry-brush-accessories-2026-07-06",
+      "destination": "/blog/best-pastry-brush-accessories",
+      "statusCode": 301
+    },
+    {
+      "source": "/blog/best-under-sink-organizers-for-small-bathrooms-2026-07-06",
+      "destination": "/blog/best-under-sink-organizers-for-small-bathrooms",
+      "statusCode": 301
+    },
+    {
+      "source": "/blog/bleach-and-ammonia-danger-2026-05-29",
+      "destination": "/blog/bleach-and-ammonia-danger",
+      "statusCode": 301
+    },
+    {
+      "source": "/blog/color-coded-home-filing-system-for-quick-retrieval-2026-05-28",
+      "destination": "/blog/color-coded-home-filing-system-for-quick-retrieval",
+      "statusCode": 301
+    },
+    {
+      "source": "/blog/color-coded-home-filing-system-for-quick-retrieval-2026-06-05",
+      "destination": "/blog/color-coded-home-filing-system-for-quick-retrieval",
+      "statusCode": 301
+    },
+    {
+      "source": "/blog/color-coded-home-filing-system-for-quick-retrieval-2026-06-30",
+      "destination": "/blog/color-coded-home-filing-system-for-quick-retrieval",
+      "statusCode": 301
+    },
+    {
+      "source": "/blog/color-coded-home-filing-system-for-quick-retrieval-2026-07-04",
+      "destination": "/blog/color-coded-home-filing-system-for-quick-retrieval",
+      "statusCode": 301
+    },
+    {
+      "source": "/blog/dishwasher-energy-drain-mistake-and-fix-2026-07-11",
+      "destination": "/blog/dishwasher-energy-drain-mistake-and-fix",
+      "statusCode": 301
+    },
+    {
+      "source": "/blog/dishwasher-salt-mistake-that-damages-appliance",
+      "destination": "/blog/dishwasher-salt-mistake-that-damages-appliance-2026-05-24",
+      "statusCode": 301
+    },
+    {
+      "source": "/blog/dishwasher-salt-mistake-that-damages-appliance-2026-06-25",
+      "destination": "/blog/dishwasher-salt-mistake-that-damages-appliance-2026-05-24",
+      "statusCode": 301
+    },
+    {
+      "source": "/blog/electric-kettle-comparison-2026-07-12",
+      "destination": "/blog/electric-kettle-comparison",
+      "statusCode": 301
+    },
+    {
+      "source": "/blog/garage-storage-solutions-2026-07-10",
+      "destination": "/blog/garage-storage-solutions",
+      "statusCode": 301
+    },
+    {
+      "source": "/blog/home-filing-system-for-paper-clutter-2026-06-09",
+      "destination": "/blog/home-filing-system-for-paper-clutter",
+      "statusCode": 301
+    },
+    {
+      "source": "/blog/humidity-control-without-a-dehumidifier",
+      "destination": "/blog/humidity-control-without-a-dehumidifier-2026-05-15",
+      "statusCode": 301
+    },
+    {
+      "source": "/blog/humidity-control-without-dehumidifier-2026-05-31",
+      "destination": "/blog/humidity-control-without-dehumidifier",
+      "statusCode": 301
+    },
+    {
+      "source": "/blog/humidity-control-without-dehumidifier-2026-06-08",
+      "destination": "/blog/humidity-control-without-dehumidifier",
+      "statusCode": 301
+    },
+    {
+      "source": "/blog/humidity-control-without-dehumidifier-2026-06-19",
+      "destination": "/blog/humidity-control-without-dehumidifier",
+      "statusCode": 301
+    },
+    {
+      "source": "/blog/humidity-control-without-dehumidifier-2026-07-19",
+      "destination": "/blog/humidity-control-without-dehumidifier",
+      "statusCode": 301
+    },
+    {
+      "source": "/blog/humidity-control-without-dehumidifier-2026-07-28",
+      "destination": "/blog/humidity-control-without-dehumidifier",
+      "statusCode": 301
+    },
+    {
+      "source": "/blog/instant-pot-duo-plus-review-2026-07-03",
+      "destination": "/blog/instant-pot-duo-plus-review",
+      "statusCode": 301
+    },
+    {
+      "source": "/blog/led-bulb-replacement-savings-2026-07-27",
+      "destination": "/blog/led-bulb-replacement-savings",
+      "statusCode": 301
+    },
+    {
+      "source": "/blog/maximizing-laundry-room-storage",
+      "destination": "/blog/maximizing-laundry-room-storage-2026-06-11",
+      "statusCode": 301
+    },
+    {
+      "source": "/blog/microwave-defrosting-mistake-2026-07-16",
+      "destination": "/blog/microwave-defrosting-mistake",
+      "statusCode": 301
+    },
+    {
+      "source": "/blog/optimal-thermostat-settings-2026-07-09",
+      "destination": "/blog/optimal-thermostat-settings",
+      "statusCode": 301
+    },
+    {
+      "source": "/blog/optimize-kitchen-cabinet-storage-2026-06-20",
+      "destination": "/blog/optimize-kitchen-cabinet-storage",
+      "statusCode": 301
+    },
+    {
+      "source": "/blog/pantry-food-waste-reduction-2026-06-04",
+      "destination": "/blog/pantry-food-waste-reduction",
+      "statusCode": 301
+    },
+    {
+      "source": "/blog/pantry-food-waste-reduction-2026-07-08",
+      "destination": "/blog/pantry-food-waste-reduction",
+      "statusCode": 301
+    },
+    {
+      "source": "/blog/pantry-organization-guide-reduce-food-waste-2026-07-16",
+      "destination": "/blog/pantry-organization-guide-reduce-food-waste",
+      "statusCode": 301
+    },
+    {
+      "source": "/blog/pantry-organization-guide-to-reduce-food-waste-2026-07-22",
+      "destination": "/blog/pantry-organization-guide-to-reduce-food-waste",
+      "statusCode": 301
+    },
+    {
+      "source": "/blog/pantry-organization-system-2026-07-03",
+      "destination": "/blog/pantry-organization-system",
+      "statusCode": 301
+    },
+    {
+      "source": "/blog/pantry-organization-system-to-reduce-food-waste",
+      "destination": "/blog/pantry-organization-system-to-reduce-food-waste-2026-05-25",
+      "statusCode": 301
+    },
+    {
+      "source": "/blog/pantry-organization-system-to-reduce-food-waste-2026-06-02",
+      "destination": "/blog/pantry-organization-system-to-reduce-food-waste-2026-05-25",
+      "statusCode": 301
+    },
+    {
+      "source": "/blog/pantry-organization-system-to-reduce-food-waste-2026-06-23",
+      "destination": "/blog/pantry-organization-system-to-reduce-food-waste-2026-05-25",
+      "statusCode": 301
+    },
+    {
+      "source": "/blog/pantry-organization-system-to-reduce-food-waste-2026-07-07",
+      "destination": "/blog/pantry-organization-system-to-reduce-food-waste-2026-05-25",
+      "statusCode": 301
+    },
+    {
+      "source": "/blog/pantry-organization-to-reduce-waste-2026-07-09",
+      "destination": "/blog/pantry-organization-to-reduce-waste",
+      "statusCode": 301
+    },
+    {
+      "source": "/blog/quaternary-ammonium-compounds-danger-2026-07-01",
+      "destination": "/blog/quaternary-ammonium-compounds-danger",
+      "statusCode": 301
+    },
+    {
+      "source": "/blog/quaternary-ammonium-compounds-danger-2026-07-07",
+      "destination": "/blog/quaternary-ammonium-compounds-danger",
+      "statusCode": 301
+    },
+    {
+      "source": "/blog/quaternary-ammonium-compounds-danger-2026-07-26",
+      "destination": "/blog/quaternary-ammonium-compounds-danger",
+      "statusCode": 301
+    },
+    {
+      "source": "/blog/reduce-humidity-naturally-with-salt-and-charcoal-2026-06-18",
+      "destination": "/blog/reduce-humidity-naturally-with-salt-and-charcoal",
+      "statusCode": 301
+    },
+    {
+      "source": "/blog/reduce-humidity-naturally-with-salt-and-charcoal-2026-07-14",
+      "destination": "/blog/reduce-humidity-naturally-with-salt-and-charcoal",
+      "statusCode": 301
+    },
+    {
+      "source": "/blog/smart-plug-energy-monitoring-2026-06-26",
+      "destination": "/blog/smart-plug-energy-monitoring",
+      "statusCode": 301
+    },
+    {
+      "source": "/blog/smart-plug-for-energy-monitoring-2026-07-11",
+      "destination": "/blog/smart-plug-for-energy-monitoring",
+      "statusCode": 301
+    },
+    {
+      "source": "/blog/smart-thermostat-savings-and-best-models-2026-06-29",
+      "destination": "/blog/smart-thermostat-savings-and-best-models",
+      "statusCode": 301
+    },
+    {
+      "source": "/blog/solar-panel-cost-savings-2026-05-11",
+      "destination": "/blog/solar-panel-cost-savings",
+      "statusCode": 301
+    },
+    {
+      "source": "/blog/solar-panel-cost-savings-2026-06-01",
+      "destination": "/blog/solar-panel-cost-savings",
+      "statusCode": 301
+    },
+    {
+      "source": "/blog/solar-panel-cost-savings-2026-06-03",
+      "destination": "/blog/solar-panel-cost-savings",
+      "statusCode": 301
+    },
+    {
+      "source": "/blog/solar-panel-cost-savings-2026-06-06",
+      "destination": "/blog/solar-panel-cost-savings",
+      "statusCode": 301
+    },
+    {
+      "source": "/blog/solar-panel-cost-savings-2026-06-13",
+      "destination": "/blog/solar-panel-cost-savings",
+      "statusCode": 301
+    },
+    {
+      "source": "/blog/solar-panel-cost-savings-2026-07-21",
+      "destination": "/blog/solar-panel-cost-savings",
+      "statusCode": 301
+    },
+    {
+      "source": "/blog/solar-panel-cost-vs-savings-payback-period-2026-06-28",
+      "destination": "/blog/solar-panel-cost-vs-savings-payback-period",
+      "statusCode": 301
+    },
+    {
+      "source": "/blog/spiralizer-for-zucchini-noodles-2026-05-30",
+      "destination": "/blog/spiralizer-for-zucchini-noodles",
+      "statusCode": 301
+    },
+    {
+      "source": "/blog/spiralizer-for-zucchini-noodles-2026-07-14",
+      "destination": "/blog/spiralizer-for-zucchini-noodles",
+      "statusCode": 301
+    },
+    {
+      "source": "/blog/vinegar-and-baking-soda-cleaning-chemistry-explained-2026-07-14",
+      "destination": "/blog/vinegar-and-baking-soda-cleaning-chemistry-explained",
+      "statusCode": 301
     }
   ]
 }

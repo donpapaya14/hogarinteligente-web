@@ -60,7 +60,7 @@ Home Technology Association installation standards recommend hiring a licensed e
 
 ### You might also like
 
-- [Alexa vs Google Home](/blog/alexa-vs-google-home-2026-06-21)
+- [Alexa vs Google Home](/blog/alexa-vs-google-home-2026-06-11)
 - [best immersion blenders for soups and sauces](/blog/best-immersion-blenders-for-soups-and-sauces)
 - [Centrifugal Spin Mop](/blog/centrifugal-spin-mop)
 - [Best knife sharpeners for cooks with arthritis](/blog/best-knife-sharpeners-for-cooks-with-arthritis)

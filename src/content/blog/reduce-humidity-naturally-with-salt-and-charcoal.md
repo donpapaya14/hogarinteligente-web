@@ -35,7 +35,7 @@ To get the most out of your salt and charcoal, strategic placement is key. Place
 | Bedroom | In closet, on dresser |
 | Kitchen | Near sink, on counter |
 
-> Relacionado: [dishwasher salt mistake that damages appliance](/blog/dishwasher-salt-mistake-that-damages-appliance)
+> Relacionado: [dishwasher salt mistake that damages appliance](/blog/dishwasher-salt-mistake-that-damages-appliance-2026-05-24)
 
 ## How Much Material Do You Need Per Square Foot?
 The amount of material needed per square foot depends on the humidity level and the desired level of moisture control. According to the [ASHRAE Humidity Control Guidelines](https://www.ashrae.org/), a general rule of thumb is to use **1lb of charcoal per 50sqft** of space. For salt, a ratio of **1 cup of salt per 10sqft** is recommended. Replace materials every 2-3 months or as needed, depending on humidity levels.

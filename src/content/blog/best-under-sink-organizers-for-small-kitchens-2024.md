@@ -34,7 +34,7 @@ Consider the direction your cabinet door swings to avoid any obstructions. If yo
 
 When it comes to maximizing storage in deep cabinets, sliding trays outperform stackable bins. Here's a side-by-side comparison of five top-rated models under $50:
 
-> Relacionado: [Pantry organization system to reduce food waste](/blog/pantry-organization-system-to-reduce-food-waste)
+> Relacionado: [Pantry organization system to reduce food waste](/blog/pantry-organization-system-to-reduce-food-waste-2026-05-25)
 
 | Model | Price | Features | Rating |
 | --- | --- | --- | --- |

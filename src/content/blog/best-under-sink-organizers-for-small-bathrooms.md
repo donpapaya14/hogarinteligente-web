@@ -97,7 +97,7 @@ Now I swear by the **3-zone system**: daily essentials in front (toothpaste, soa
 - [entryway shoe organizer with hooks and baskets](/blog/entryway-shoe-organizer-with-hooks-and-baskets)
 - [UV toothbrush sanitizer with drying function](/blog/uv-toothbrush-sanitizer-with-drying-function)
 - [Baking Soda Scrub Natural Cleaner](/blog/baking-soda-scrub-natural-cleaner)
-- [Alexa vs Google Home](/blog/alexa-vs-google-home-2026-05-31)
+- [Alexa vs Google Home](/blog/alexa-vs-google-home-2026-06-11)
 
 ## Practical Summary
 

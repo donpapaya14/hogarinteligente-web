@@ -68,10 +68,10 @@ As someone who values convenience and efficiency, I also appreciate the benefits
 
 ### You might also like
 
-- [Spiralizer for Zucchini Noodles](/blog/spiralizer-for-zucchini-noodles-2026-05-30)
+- [Spiralizer for Zucchini Noodles](/blog/spiralizer-for-zucchini-noodles)
 - [Natural Tile Grout Cleaner with Baking Soda and Vinegar](/blog/natural-tile-grout-cleaner-with-baking-soda-and-vinegar)
 - [Optimal Thermostat Temperature Settings for Energy Efficiency](/blog/optimal-thermostat-temperature-settings-for-energy-efficiency)
-- [dishwasher salt mistake that damages appliance](/blog/dishwasher-salt-mistake-that-damages-appliance)
+- [dishwasher salt mistake that damages appliance](/blog/dishwasher-salt-mistake-that-damages-appliance-2026-05-24)
 
 ## Practical Summary
 Here are some concrete steps you can take to keep your grout clean and well-maintained:

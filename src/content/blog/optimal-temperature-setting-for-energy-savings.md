@@ -99,5 +99,5 @@ Here are some concrete actions you can take to optimize your temperature setting
 ## 📚 Continue reading
 
 - [8 Home Hacks That Actually Cut Your Electricity Bill (With Real Numbers)](/blog/home-hacks-cut-electricity-bill)
-- [Humidity control without a dehumidifier](/blog/humidity-control-without-a-dehumidifier)
+- [Humidity control without a dehumidifier](/blog/humidity-control-without-a-dehumidifier-2026-05-15)
 - [Optimal Thermostat Temperature Settings for Energy Efficiency](/blog/optimal-thermostat-temperature-settings-for-energy-efficiency)

@@ -103,8 +103,8 @@ Now, I use microfiber cloths and steam for 90% of cleaning. For tough jobs, enzy
 ### You might also like
 
 - [best under-sink organizers for small kitchens 2024](/blog/best-under-sink-organizers-for-small-kitchens-2024)
-- [Alexa vs Google Home](/blog/alexa-vs-google-home)
-- [color-coded home filing system for quick retrieval](/blog/color-coded-home-filing-system-for-quick-retrieval-2026-06-05)
+- [Alexa vs Google Home](/blog/alexa-vs-google-home-2026-06-11)
+- [color-coded home filing system for quick retrieval](/blog/color-coded-home-filing-system-for-quick-retrieval)
 - [Minimalist Entryway Organization with Baskets and Shelves](/blog/minimalist-entryway-organization-with-baskets-and-shelves)
 
 ## Practical Summary

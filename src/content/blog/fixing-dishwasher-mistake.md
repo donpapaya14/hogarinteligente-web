@@ -75,7 +75,7 @@ I hope this article has provided you with valuable insights and practical advice
 
 - [Garage Storage Solutions](/blog/garage-storage-solutions)
 - [Cleaning Grout Between Tiles with a Grout Brush Attachment](/blog/cleaning-grout-between-tiles-with-a-grout-brush-attachment)
-- [Solar Panel Cost Savings](/blog/solar-panel-cost-savings-2026-05-11)
+- [Solar Panel Cost Savings](/blog/solar-panel-cost-savings)
 - [Minimalist Desk Organization](/blog/minimalist-desk-organization)
 
 ## Practical Summary

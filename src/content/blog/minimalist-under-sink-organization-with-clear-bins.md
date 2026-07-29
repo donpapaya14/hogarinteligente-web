@@ -110,7 +110,7 @@ I hope that this article has provided you with the information and inspiration y
 ### You might also like
 
 - [Smart Plug for Energy Monitoring](/blog/smart-plug-for-energy-monitoring)
-- [Alexa vs Google Home](/blog/alexa-vs-google-home)
+- [Alexa vs Google Home](/blog/alexa-vs-google-home-2026-06-11)
 - [Organize Closet with Shelves](/blog/organize-closet-with-shelves)
 - [Pantry Organization to Reduce Waste](/blog/pantry-organization-to-reduce-waste)
 

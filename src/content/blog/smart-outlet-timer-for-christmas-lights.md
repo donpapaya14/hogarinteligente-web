@@ -81,7 +81,7 @@ In conclusion, smart outlet timers are a great way to control your Christmas lig
 
 - [Fix Refrigerator Defrost Cycle Mistake](/blog/fix-refrigerator-defrost-cycle-mistake)
 - [Smart Thermostat Savings and Top Picks](/blog/smart-thermostat-savings-and-top-picks)
-- [Pantry organization system to reduce food waste](/blog/pantry-organization-system-to-reduce-food-waste)
+- [Pantry organization system to reduce food waste](/blog/pantry-organization-system-to-reduce-food-waste-2026-05-25)
 - [Dyson V11 Vacuum Filter Cleaning](/blog/dyson-v11-vacuum-filter-cleaning)
 
 ## Practical Summary

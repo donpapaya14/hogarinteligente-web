@@ -84,7 +84,7 @@ In addition to using smart plugs, I also recommend implementing other energy-sav
 - [best garlic press for sticky garlic 2024](/blog/best-garlic-press-for-sticky-garlic-2024)
 - [Best Amazon Closet Shelf Dividers](/blog/best-amazon-closet-shelf-dividers-2026-05-19)
 - [how to clean grout with hydrogen peroxide and baking soda](/blog/how-to-clean-grout-with-hydrogen-peroxide-and-baking-soda)
-- [Humidity control without a dehumidifier](/blog/humidity-control-without-a-dehumidifier)
+- [Humidity control without a dehumidifier](/blog/humidity-control-without-a-dehumidifier-2026-05-15)
 
 ## Practical Summary
 Here are 6 concrete action bullets to help you get started with **smart plug energy efficiency tips**:

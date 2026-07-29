@@ -71,7 +71,7 @@ As an app developer and professional chef, I have seen firsthand the importance 
 
 - [Best Pastry Brush Accessories](/blog/best-pastry-brush-accessories)
 - [Garage Shelf Organization System](/blog/garage-shelf-organization-system)
-- [Alexa vs Google Home for multi-room audio 2024](/blog/alexa-vs-google-home-for-multi-room-audio-2024-2026-07-08)
+- [Alexa vs Google Home for multi-room audio 2024](/blog/alexa-vs-google-home-for-multi-room-audio-2024)
 - [best garlic press for arthritic hands 2024](/blog/best-garlic-press-for-arthritic-hands-2024)
 
 ## Practical Summary

@@ -82,7 +82,7 @@ I highly recommend the Instant Pot Ace 60 to anyone who wants to take their cook
 ### You might also like
 
 - [Outdoor Smart Camera](/blog/outdoor-smart-camera)
-- [Solar Panel Cost Savings](/blog/solar-panel-cost-savings-2026-06-06)
+- [Solar Panel Cost Savings](/blog/solar-panel-cost-savings)
 - [Optimize Kitchen Drawer Storage](/blog/optimize-kitchen-drawer-storage)
 - [Natural Tile Grout Cleaner with Hydrogen Peroxide](/blog/natural-tile-grout-cleaner-with-hydrogen-peroxide)
 

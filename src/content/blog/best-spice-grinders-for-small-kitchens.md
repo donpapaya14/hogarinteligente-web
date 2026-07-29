@@ -88,7 +88,7 @@ As an app developer and professional chef, I can attest to the importance of a g
 - [best smart plugs for energy monitoring with real-time data](/blog/best-smart-plugs-for-energy-monitoring-with-real-time-data)
 - [Baking Soda Natural Disinfectant](/blog/baking-soda-natural-disinfectant)
 - [Best Garlic Presses for Mincing](/blog/best-garlic-presses-for-mincing)
-- [Pantry organization system to reduce food waste](/blog/pantry-organization-system-to-reduce-food-waste)
+- [Pantry organization system to reduce food waste](/blog/pantry-organization-system-to-reduce-food-waste-2026-05-25)
 
 ## Practical Summary
 Here are some concrete action bullets to get you started:
@@ -109,5 +109,5 @@ Here are some concrete action bullets to get you started:
 ## 📚 Continue reading
 
 - [Spiralizer for Zucchini Noodles](/blog/spiralizer-for-zucchini-noodles)
-- [dishwasher salt mistake that damages appliance](/blog/dishwasher-salt-mistake-that-damages-appliance)
+- [dishwasher salt mistake that damages appliance](/blog/dishwasher-salt-mistake-that-damages-appliance-2026-05-24)
 - [Kitchen Cart Organization](/blog/kitchen-cart-organization)

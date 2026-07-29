@@ -71,7 +71,7 @@ As an app developer and professional chef, I understand the importance of proper
 - [Outdoor Smart Camera](/blog/outdoor-smart-camera)
 - [Smart Outlet with Energy Monitoring and Smart Plug for Smart Home](/blog/smart-outlet-with-energy-monitoring-and-smart-plug-for-smart-home)
 - [Smart Thermostat Savings Calculator](/blog/smart-thermostat-savings-calculator)
-- [Spiralizer for Zucchini Noodles](/blog/spiralizer-for-zucchini-noodles-2026-05-30)
+- [Spiralizer for Zucchini Noodles](/blog/spiralizer-for-zucchini-noodles)
 
 ## Practical Summary
 * Clean your blender blades every **1-2 weeks**.

@@ -87,7 +87,7 @@ By implementing these strategies, you can enjoy the benefits of an energy-effici
 ### You might also like
 
 - [Fixing Dishwasher Mistake](/blog/fixing-dishwasher-mistake)
-- [humidity control without dehumidifier](/blog/humidity-control-without-dehumidifier-2026-05-31)
+- [humidity control without dehumidifier](/blog/humidity-control-without-dehumidifier)
 - [Smart Home Water Leak Detector with Wi-Fi](/blog/smart-home-water-leak-detector-with-wi-fi)
 - [smart home dimmer switch with color temperature](/blog/smart-home-dimmer-switch-with-color-temperature)
 

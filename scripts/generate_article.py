@@ -314,7 +314,11 @@ draft: false
     BLOG_DIR.mkdir(parents=True, exist_ok=True)
     file_path = BLOG_DIR / f"{slug}.md"
     if file_path.exists():
-        file_path = BLOG_DIR / f"{slug}-{today}.md"
+        # Antes se republicaba el mismo tema pegándole la fecha al slug. Eso creó
+        # 547 URLs duplicadas compitiendo entre sí en Google (295 clústeres; aquí
+        # 22 variantes de "alexa vs google home" con 0 clicks). Ahora se aborta y
+        # el workflow reintenta con otro tema.
+        raise SystemExit(f"DUPLICADO: '{slug}' ya existe, no se republica")
 
     # Author bio footer
     author_bio = f"\n\n---\n\n*Written by **{AUTHOR}** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@EspacioInteligente).*\n"

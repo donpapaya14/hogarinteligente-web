@@ -32,7 +32,7 @@ Smart vent covers are designed to work with your existing HVAC system. They use 
 
 The EnergyStar 2023 case study on zoned heating found that smart vent covers can reduce heating and cooling costs by 10-15% by preventing over-conditioning in unused rooms. This is a significant savings, especially for large homes with multiple rooms.
 
-> Relacionado: [Maximizing Laundry Room Storage](/blog/maximizing-laundry-room-storage)
+> Relacionado: [Maximizing Laundry Room Storage](/blog/maximizing-laundry-room-storage-2026-06-11)
 
 | Room Type | Energy Savings |
 | --- | --- |
@@ -138,6 +138,6 @@ If you're interested in purchasing a smart air vent cover, I recommend checking 
 
 ## 📚 Continue reading
 
-- [Alexa vs Google Home](/blog/alexa-vs-google-home)
+- [Alexa vs Google Home](/blog/alexa-vs-google-home-2026-06-11)
 - [best smart plugs for energy monitoring with real-time data](/blog/best-smart-plugs-for-energy-monitoring-with-real-time-data)
 - [Alexa vs Google Home Automation Comparison](/blog/alexa-vs-google-home-automation-comparison)

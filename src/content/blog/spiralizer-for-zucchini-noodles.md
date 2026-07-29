@@ -82,7 +82,7 @@ Overall, I highly recommend using a spiralizer for zucchini noodles and other ve
 
 - [Remove Limescale with Vinegar](/blog/remove-limescale-with-vinegar)
 - [Pantry Organization to Reduce Waste](/blog/pantry-organization-to-reduce-waste)
-- [Alexa vs Google Home](/blog/alexa-vs-google-home)
+- [Alexa vs Google Home](/blog/alexa-vs-google-home-2026-06-11)
 - [8 Home Hacks That Actually Cut Your Electricity Bill (With Real Numbers)](/blog/home-hacks-cut-electricity-bill)
 
 ## Practical Summary

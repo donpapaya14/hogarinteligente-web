@@ -67,7 +67,7 @@ As a professional chef and app developer, I understand the importance of using *
 
 ### You might also like
 
-- [Home Filing System for Paper Clutter](/blog/home-filing-system-for-paper-clutter-2026-06-09)
+- [Home Filing System for Paper Clutter](/blog/home-filing-system-for-paper-clutter)
 - [Instant Pot Air Fryer](/blog/instant-pot-air-fryer)
 - [best sous vide accessories for precise cooking](/blog/best-sous-vide-accessories-for-precise-cooking)
 - [dishwasher energy drain mistake and fix](/blog/dishwasher-energy-drain-mistake-and-fix)

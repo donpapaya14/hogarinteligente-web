@@ -78,8 +78,8 @@ As an app developer and professional chef, I have had the opportunity to try out
 
 - [Smart Thermostat Savings and Top Picks](/blog/smart-thermostat-savings-and-top-picks)
 - [Best Stand Mixer for Making Pizza Dough](/blog/best-stand-mixer-for-making-pizza-dough)
-- [Alexa vs Google Home Comparison 2024](/blog/alexa-vs-google-home-comparison-2024-2026-06-18)
-- [Instant Pot Duo Plus Review](/blog/instant-pot-duo-plus-review-2026-07-03)
+- [Alexa vs Google Home Comparison 2024](/blog/alexa-vs-google-home-comparison-2024)
+- [Instant Pot Duo Plus Review](/blog/instant-pot-duo-plus-review)
 
 ## Practical Summary
 Here are some concrete action bullets to summarize the article:

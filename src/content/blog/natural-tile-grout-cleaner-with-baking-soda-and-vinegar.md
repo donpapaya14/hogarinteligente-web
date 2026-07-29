@@ -66,7 +66,7 @@ I also appreciate the versatility of **baking soda and vinegar**. Not only are t
 
 - [Best Stand Mixers for Whipping Cream](/blog/best-stand-mixers-for-whipping-cream)
 - [minimalist under-sink organization with clear bins](/blog/minimalist-under-sink-organization-with-clear-bins)
-- [Pantry Organization System to Reduce Food Waste](/blog/pantry-organization-system-to-reduce-food-waste-2026-06-02)
+- [Pantry Organization System to Reduce Food Waste](/blog/pantry-organization-system-to-reduce-food-waste-2026-05-25)
 - [Garage Storage Solutions](/blog/garage-storage-solutions)
 
 ## Practical Summary

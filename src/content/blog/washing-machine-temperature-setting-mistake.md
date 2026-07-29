@@ -31,7 +31,7 @@ A comparison of the energy consumption of washing machines using hot and cold wa
 | Hot | 4.5 |
 | Cold | 1.3 |
 
-> Relacionado: [Humidity control without a dehumidifier](/blog/humidity-control-without-a-dehumidifier)
+> Relacionado: [Humidity control without a dehumidifier](/blog/humidity-control-without-a-dehumidifier-2026-05-15)
 
 ## The Fix: Adjusting Your Washing Machine Temperature Setting
 To adjust your washing machine temperature setting for optimal energy efficiency, follow these steps:
@@ -80,7 +80,7 @@ By making small changes to our daily habits, such as adjusting our washing machi
 ### You might also like
 
 - [best garlic press for sticky garlic 2024](/blog/best-garlic-press-for-sticky-garlic-2024)
-- [humidity control without dehumidifier](/blog/humidity-control-without-dehumidifier-2026-05-31)
+- [humidity control without dehumidifier](/blog/humidity-control-without-dehumidifier)
 - [Optimal Temperature Setting for Energy Savings](/blog/optimal-temperature-setting-for-energy-savings)
 - [Best Thermostat Setting for Energy Savings](/blog/best-thermostat-setting-for-energy-savings)
 

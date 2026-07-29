@@ -55,9 +55,9 @@ As an app developer and professional chef, I have experienced the importance of 
 
 ### You might also like
 
-- [Solar Panel Cost Savings](/blog/solar-panel-cost-savings-2026-06-03)
+- [Solar Panel Cost Savings](/blog/solar-panel-cost-savings)
 - [Smart Door Locks with Biometric Fingerprint Scanner](/blog/smart-door-locks-with-biometric-fingerprint-scanner)
-- [dishwasher salt mistake that damages appliance](/blog/dishwasher-salt-mistake-that-damages-appliance)
+- [dishwasher salt mistake that damages appliance](/blog/dishwasher-salt-mistake-that-damages-appliance-2026-05-24)
 - [Vinegar and Castile Soap Danger](/blog/vinegar-and-castile-soap-danger)
 
 ## Practical Summary

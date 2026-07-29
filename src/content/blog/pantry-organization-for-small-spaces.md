@@ -114,7 +114,7 @@ My pro tip: Reserve one **"buffer zone"** shelf for temporary items like party s
 - [LED Bulb Replacement Savings](/blog/led-bulb-replacement-savings)
 - [Bleach and Ammonia Risks](/blog/bleach-and-ammonia-risks)
 - [Electric vs Manual Spice Grinders](/blog/electric-vs-manual-spice-grinders)
-- [Solar Panel Cost Savings](/blog/solar-panel-cost-savings-2026-05-11)
+- [Solar Panel Cost Savings](/blog/solar-panel-cost-savings)
 
 ## Practical Summary
 

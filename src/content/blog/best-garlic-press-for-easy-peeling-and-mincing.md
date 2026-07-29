@@ -89,7 +89,7 @@ As an app developer, I also appreciate the **user-friendly** design of the Zylis
 - [Instant Pot Air Fryer](/blog/instant-pot-air-fryer)
 - [Smart Outlet Timer for Christmas Lights](/blog/smart-outlet-timer-for-christmas-lights)
 - [Smart Thermostat Savings and Top Picks](/blog/smart-thermostat-savings-and-top-picks)
-- [Humidity control without a dehumidifier](/blog/humidity-control-without-a-dehumidifier)
+- [Humidity control without a dehumidifier](/blog/humidity-control-without-a-dehumidifier-2026-05-15)
 
 ## Practical Summary
 * Use a garlic press to reduce effort and preserve flavor

@@ -90,7 +90,7 @@ Overall, I highly recommend the [Eufy RoboVac 11 (Slim, Wi-Fi, Alexa, Google Ass
 ### You might also like
 
 - [fridge temperature hack to cut electricity bill by 10%](/blog/fridge-temperature-hack-to-cut-electricity-bill-by-10)
-- [Optimal Thermostat Settings](/blog/optimal-thermostat-settings-2026-07-09)
+- [Optimal Thermostat Settings](/blog/optimal-thermostat-settings)
 - [Pantry Organization Guide Reduce Food Waste](/blog/pantry-organization-guide-reduce-food-waste)
 - [smart blinds for home automation 2024](/blog/smart-blinds-for-home-automation-2024)
 

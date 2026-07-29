@@ -74,9 +74,9 @@ As a professional chef and app developer, I understand the importance of **clean
 
 ### You might also like
 
-- [Alexa vs Google Home](/blog/alexa-vs-google-home-2026-06-21)
+- [Alexa vs Google Home](/blog/alexa-vs-google-home-2026-06-11)
 - [Smart Plug Hacks for Energy Efficiency](/blog/smart-plug-hacks-for-energy-efficiency)
-- [Maximizing Laundry Room Storage](/blog/maximizing-laundry-room-storage)
+- [Maximizing Laundry Room Storage](/blog/maximizing-laundry-room-storage-2026-06-11)
 - [Optimal Central Heating Temperature for Energy Savings](/blog/optimal-central-heating-temperature-for-energy-savings)
 
 ## Practical Summary

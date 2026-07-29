@@ -82,8 +82,8 @@ In my experience, the [Nest Learning Thermostat](https://www.amazon.com/Nest-Lea
 
 ### You might also like
 
-- [Spiralizer for Zucchini Noodles](/blog/spiralizer-for-zucchini-noodles-2026-05-30)
-- [dishwasher salt mistake that damages appliance](/blog/dishwasher-salt-mistake-that-damages-appliance-2026-06-25)
+- [Spiralizer for Zucchini Noodles](/blog/spiralizer-for-zucchini-noodles)
+- [dishwasher salt mistake that damages appliance](/blog/dishwasher-salt-mistake-that-damages-appliance-2026-05-24)
 - [Smart Outlet Timer for Christmas Lights](/blog/smart-outlet-timer-for-christmas-lights)
 - [best immersion blenders for smooth soups 2024](/blog/best-immersion-blenders-for-smooth-soups-2024)
 

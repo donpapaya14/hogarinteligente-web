@@ -70,7 +70,7 @@ I hope this article has provided you with helpful information and insights into 
 
 - [Washing Machine Mistake](/blog/washing-machine-mistake)
 - [Solar Panel Cost Savings](/blog/solar-panel-cost-savings)
-- [Spiralizer for Zucchini Noodles](/blog/spiralizer-for-zucchini-noodles-2026-05-30)
+- [Spiralizer for Zucchini Noodles](/blog/spiralizer-for-zucchini-noodles)
 - [Instant Pot Air Fryer](/blog/instant-pot-air-fryer)
 
 ## Practical Summary

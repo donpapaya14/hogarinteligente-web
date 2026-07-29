@@ -86,7 +86,7 @@ Overall, I believe that a radiator mounting kit is a must-have for any homeowner
 ### You might also like
 
 - [Cleaning Grout Between Tiles with a Grout Brush Attachment](/blog/cleaning-grout-between-tiles-with-a-grout-brush-attachment)
-- [Solar Panel Cost Savings](/blog/solar-panel-cost-savings-2026-05-11)
+- [Solar Panel Cost Savings](/blog/solar-panel-cost-savings)
 - [Motion-sensing Nightlight for Stairs](/blog/motion-sensing-nightlight-for-stairs)
 - [Bathroom Countertop Organization with Amazon](/blog/bathroom-countertop-organization-with-amazon)
 

@@ -87,7 +87,7 @@ As an app developer and professional chef, I've had the opportunity to work with
 - [Best Pastry Dough Rolling Tools](/blog/best-pastry-dough-rolling-tools)
 - [how to clean grout with hydrogen peroxide and baking soda](/blog/how-to-clean-grout-with-hydrogen-peroxide-and-baking-soda)
 - [best immersion blenders for smooth soups 2024](/blog/best-immersion-blenders-for-smooth-soups-2024)
-- [dishwasher salt mistake that damages appliance](/blog/dishwasher-salt-mistake-that-damages-appliance)
+- [dishwasher salt mistake that damages appliance](/blog/dishwasher-salt-mistake-that-damages-appliance-2026-05-24)
 
 ## Practical Summary
 Here are 6 concrete actions you can take to start saving energy with a smart thermostat:

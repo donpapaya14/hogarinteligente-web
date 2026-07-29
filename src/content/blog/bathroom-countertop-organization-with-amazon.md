@@ -161,7 +161,7 @@ The single best ROI investment is the acrylic tray. Under $20, lasts a decade, d
 ### You might also like
 
 - [Minimalist Under Sink Organization with Clear Bins](/blog/minimalist-under-sink-organization-with-clear-bins)
-- [Best Amazon Closet Shelf Dividers](/blog/best-amazon-closet-shelf-dividers)
+- [Best Amazon Closet Shelf Dividers](/blog/best-amazon-closet-shelf-dividers-2026-05-19)
 - [Minimalist Entryway Organization with Baskets and Shelves](/blog/minimalist-entryway-organization-with-baskets-and-shelves)
 - [Tiny Home Office Organization with Shelves and Drawers](/blog/tiny-home-office-organization-with-shelves-and-drawers)
 - [Minimalist Desk Organization for Small Spaces](/blog/minimalist-desk-organization-for-small-spaces)
@@ -183,5 +183,5 @@ The single best ROI investment is the acrylic tray. Under $20, lasts a decade, d
 ## Continue reading
 
 - [Minimalist Under Sink Organization with Clear Bins](/blog/minimalist-under-sink-organization-with-clear-bins)
-- [Best Amazon Closet Shelf Dividers](/blog/best-amazon-closet-shelf-dividers)
+- [Best Amazon Closet Shelf Dividers](/blog/best-amazon-closet-shelf-dividers-2026-05-19)
 - [Minimalist Entryway Organization with Baskets and Shelves](/blog/minimalist-entryway-organization-with-baskets-and-shelves)

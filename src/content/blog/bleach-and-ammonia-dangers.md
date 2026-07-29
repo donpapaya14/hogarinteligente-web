@@ -90,7 +90,7 @@ I now swear by [ Seventh Generation Disinfecting Cleaner en Amazon](https://www.
 
 ### You might also like
 
-- [Alexa vs Google Home](/blog/alexa-vs-google-home-2026-05-31)
+- [Alexa vs Google Home](/blog/alexa-vs-google-home-2026-06-11)
 - [Automated Window Cleaning](/blog/automated-window-cleaning)
 - [Pantry Shelf Organization](/blog/pantry-shelf-organization)
 - [smart leak detector to prevent water damage](/blog/smart-leak-detector-to-prevent-water-damage)

@@ -117,7 +117,7 @@ The only surprise? Discovering that my vintage chandelier needed special candela
 - [Spiralizer for Zucchini Noodles](/blog/spiralizer-for-zucchini-noodles)
 - [Optimal Central Heating Temperature for Energy Savings](/blog/optimal-central-heating-temperature-for-energy-savings)
 - [Pantry organization system to reduce food waste](/blog/pantry-organization-system-to-reduce-food-waste-2026-05-25)
-- [Bleach and Ammonia Danger](/blog/bleach-and-ammonia-danger-2026-05-29)
+- [Bleach and Ammonia Danger](/blog/bleach-and-ammonia-danger)
 
 ## Practical Summary
 

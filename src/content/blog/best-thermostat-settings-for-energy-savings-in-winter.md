@@ -155,4 +155,4 @@ A: According to a study by the Lawrence Berkeley National Laboratory (2020), sma
 
 ---
 
-*Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@EspacioInteligente).*
+*Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@EspacioInteligente-q2q).*

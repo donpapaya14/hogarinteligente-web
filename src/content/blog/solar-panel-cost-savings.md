@@ -120,7 +120,7 @@ In my experience, the benefits of solar panels far outweigh the costs, and I wou
 
 ---
 
-*Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@EspacioInteligente).*
+*Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@EspacioInteligente-q2q).*
 
 ## 📚 Continue reading
 

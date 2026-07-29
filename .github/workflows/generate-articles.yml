@@ -100,7 +100,17 @@ jobs:
           echo "failed=$FAILED" >> $GITHUB_OUTPUT
           echo "=== Resultado: $SUCCESS OK, $FAILED fallidos ==="
 
+      - name: Comprobar que hubo artículos
+        # Sin esta puerta el job termina en VERDE con 0 artículos generados:
+        # cash-cafe.org estuvo un mes "en éxito" sin publicar nada.
+        run: |
+          if [ "${{ steps.generate.outputs.success }}" = "0" ]; then
+            echo "::error::0 de ${{ steps.config.outputs.count }} artículos — fallaron los tres proveedores de IA"
+            exit 1
+          fi
+
       - name: Build check
+        id: build
         run: |
           npm run build
           echo "✓ Build OK"
@@ -147,7 +157,7 @@ jobs:
             -d text="$MSG" || true
 
       - name: Fix and retry on build failure
-        if: failure()
+        if: failure() && steps.build.outcome == 'failure'
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
